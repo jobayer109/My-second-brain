@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d59979cf1a2d98de",
+        "id": "94ea31799167321b",
         "type": "tabs",
         "children": [
           {
-            "id": "aa790512fa4fdee6",
+            "id": "e92f76adb049471f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa790512fa4fdee6",
+  "active": "e92f76adb049471f",
   "lastOpenFiles": [
-    "2024-05-31.md",
+    "Javascript/Fundamentals",
+    "Untitled.canvas",
     "Javascript/Hello world.md",
+    "2024-05-31.md",
     "Javascript/dfd.md",
     "Javascript",
     "Untitled 2.md",
@@ -158,7 +160,6 @@
     "Untitled 3.md",
     "Untitled 2",
     "Untitled 1",
-    "Untitled.canvas",
     "Welcome.md"
   ]
 }
