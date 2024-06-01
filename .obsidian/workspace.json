@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "e92f76adb049471f",
   "lastOpenFiles": [
     "Javascript/Hello world.md",
     "Javascript/Fundamentals/1. Introduction.md",
