@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Fundamentals/1. Hello world.md",
+                "file": "Javascript/Fundamentals/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Fundamentals/1. Hello world.md",
+                "file": "Javascript/Fundamentals/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Fundamentals/1. Hello world.md",
+                "file": "Javascript/Fundamentals/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Fundamentals/1. Hello world.md"
+                "file": "Javascript/Fundamentals/1. Introduction.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e92f76adb049471f",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
     "Javascript/Hello world.md",
-    "Javascript/Fundamentals/1. Hello world.md",
+    "Javascript/Fundamentals/1. Introduction.md",
     "Javascript/Fundamentals",
     "Untitled.canvas",
     "2024-05-31.md",
