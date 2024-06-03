@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4a700ea50158248b",
+        "id": "321b3cd0146b0069",
         "type": "tabs",
         "children": [
           {
-            "id": "d22671fbf6368105",
+            "id": "f7b4b8700ae062d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -139,16 +139,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d22671fbf6368105",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "Javascript/Fundamentals/4. Data Types.md",
+    "Javascript/Fundamentals/5. Let, Const and Var.md",
+    "Javascript/Fundamentals/6. Operators.md",
     "Javascript/Fundamentals/2. Linking JS file.md",
     "Untitled.canvas",
-    "Javascript/Fundamentals/6. Operators.md",
-    "Javascript/Fundamentals/5. Let, Const and Var.md",
     "Untitled",
     "2024-06-02.md",
     "Untitled.md",
-    "Javascript/Fundamentals/4. Data Types.md",
     "Javascript/Fundamentals/3. Value and Variable.md",
     "Javascript/Fundamentals/1. What is JS.md",
     "Javascript/Hello world.md",
