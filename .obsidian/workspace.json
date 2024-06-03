@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Fundamentals/2. Linking JS file.md",
+                "file": "Javascript/Fundamentals/5. Let, Const and Var.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Fundamentals/2. Linking JS file.md",
+                "file": "Javascript/Fundamentals/5. Let, Const and Var.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Fundamentals/2. Linking JS file.md",
+                "file": "Javascript/Fundamentals/5. Let, Const and Var.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Fundamentals/2. Linking JS file.md"
+                "file": "Javascript/Fundamentals/5. Let, Const and Var.md"
               }
             }
           }
@@ -147,11 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "d22671fbf6368105",
   "lastOpenFiles": [
+    "Javascript/Fundamentals/2. Linking JS file.md",
     "Untitled",
     "2024-06-02.md",
-    "Javascript/Fundamentals/2. Linking JS file.md",
     "Untitled.md",
     "Javascript/Fundamentals/5. Let, Const and Var.md",
     "Javascript/Fundamentals/4. Data Types.md",
