@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Fundamentals/7. Strings and Template Literals.md",
+                "file": "Javascript/Fundamentals/8. Basic if-else.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Fundamentals/7. Strings and Template Literals.md",
+                "file": "Javascript/Fundamentals/8. Basic if-else.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Fundamentals/7. Strings and Template Literals.md",
+                "file": "Javascript/Fundamentals/8. Basic if-else.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Fundamentals/7. Strings and Template Literals.md"
+                "file": "Javascript/Fundamentals/8. Basic if-else.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "f7b4b8700ae062d2",
   "lastOpenFiles": [
     "Javascript/Fundamentals/7. Strings and Template Literals.md",
+    "Javascript/Fundamentals/8. Basic if-else.md",
     "Javascript/Fundamentals/4. Data Types.md",
     "Javascript/Fundamentals/5. Let, Const and Var.md",
     "Javascript/Fundamentals/6. Operators.md",
