@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Fundamentals - 2/1. Activating Strict Mode.md",
+                "file": "Javascript/Fundamentals - 2/2. Basic Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Fundamentals - 2/1. Activating Strict Mode.md",
+                "file": "Javascript/Fundamentals - 2/2. Basic Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Fundamentals - 2/1. Activating Strict Mode.md",
+                "file": "Javascript/Fundamentals - 2/2. Basic Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Fundamentals - 2/1. Activating Strict Mode.md"
+                "file": "Javascript/Fundamentals - 2/2. Basic Function.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "ddcfd6542b767032",
   "lastOpenFiles": [
-    "Javascript/Fundamentals - 1/16. Javascript Releases.md",
     "Javascript/Fundamentals - 2/1. Activating Strict Mode.md",
+    "Javascript/Fundamentals - 2/2. Basic Function.md",
+    "Javascript/Fundamentals - 1/16. Javascript Releases.md",
     "Javascript/Fundamentals - 2",
     "![image.md",
     "Javascript/Fundamentals - 1/15. Ternary Operator.md",
@@ -179,7 +180,6 @@
     "Javascript",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled 3.md",
     "Untitled 2",
     "Untitled 1"
   ]
