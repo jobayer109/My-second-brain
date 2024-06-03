@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Fundamentals/16. Javascript Releases.md",
+                "file": "Javascript/Fundamentals - 2/1. Activating Strict Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.50152587890625
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Fundamentals/16. Javascript Releases.md",
+                "file": "Javascript/Fundamentals - 2/1. Activating Strict Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Fundamentals/16. Javascript Releases.md",
+                "file": "Javascript/Fundamentals - 2/1. Activating Strict Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Fundamentals/16. Javascript Releases.md"
+                "file": "Javascript/Fundamentals - 2/1. Activating Strict Mode.md"
               }
             }
           }
@@ -149,29 +149,31 @@
   },
   "active": "ddcfd6542b767032",
   "lastOpenFiles": [
+    "Javascript/Fundamentals - 1/16. Javascript Releases.md",
+    "Javascript/Fundamentals - 2/1. Activating Strict Mode.md",
+    "Javascript/Fundamentals - 2",
     "![image.md",
-    "Javascript/Fundamentals/16. Javascript Releases.md",
-    "Javascript/Fundamentals/15. Ternary Operator.md",
-    "Javascript/Fundamentals/14. Statements and Expressions.md",
-    "Javascript/Fundamentals/13. Switch Statement.md",
-    "Javascript/Fundamentals/12. Logical operator.md",
-    "Javascript/Fundamentals/11. == vs ===.md",
-    "Javascript/Fundamentals/10. Truthy - Falsy value.md",
-    "Javascript/Fundamentals/9. Type Conversion and Coercion.md",
-    "Javascript/Fundamentals/8. Basic if-else.md",
-    "Javascript/Fundamentals/7. Strings and Template Literals.md",
-    "Javascript/Fundamentals/4. Data Types.md",
-    "Javascript/Fundamentals/5. Let, Const and Var.md",
-    "Javascript/Fundamentals/6. Operators.md",
-    "Javascript/Fundamentals/2. Linking JS file.md",
+    "Javascript/Fundamentals - 1/15. Ternary Operator.md",
+    "Javascript/Fundamentals - 1/14. Statements and Expressions.md",
+    "Javascript/Fundamentals - 1/13. Switch Statement.md",
+    "Javascript/Fundamentals - 1/12. Logical operator.md",
+    "Javascript/Fundamentals - 1/11. == vs ===.md",
+    "Javascript/Fundamentals - 1/10. Truthy - Falsy value.md",
+    "Javascript/Fundamentals - 1/9. Type Conversion and Coercion.md",
+    "Javascript/Fundamentals - 1/8. Basic if-else.md",
+    "Javascript/Fundamentals - 1/7. Strings and Template Literals.md",
+    "Javascript/Fundamentals - 1/4. Data Types.md",
+    "Javascript/Fundamentals - 1/5. Let, Const and Var.md",
+    "Javascript/Fundamentals - 1/6. Operators.md",
+    "Javascript/Fundamentals - 1/2. Linking JS file.md",
     "Untitled.canvas",
     "Untitled",
     "2024-06-02.md",
     "Untitled.md",
-    "Javascript/Fundamentals/3. Value and Variable.md",
-    "Javascript/Fundamentals/1. What is JS.md",
+    "Javascript/Fundamentals - 1/3. Value and Variable.md",
+    "Javascript/Fundamentals - 1/1. What is JS.md",
     "Javascript/Hello world.md",
-    "Javascript/Fundamentals",
+    "Javascript/Fundamentals - 1",
     "2024-05-31.md",
     "Javascript/dfd.md",
     "Javascript",
@@ -179,7 +181,6 @@
     "Untitled 1.md",
     "Untitled 3.md",
     "Untitled 2",
-    "Untitled 1",
-    "Welcome.md"
+    "Untitled 1"
   ]
 }
