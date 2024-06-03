@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Fundamentals/14. Statements and Expressions.md",
+                "file": "Javascript/Fundamentals/15. Ternary Operator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Fundamentals/14. Statements and Expressions.md",
+                "file": "Javascript/Fundamentals/15. Ternary Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Fundamentals/14. Statements and Expressions.md",
+                "file": "Javascript/Fundamentals/15. Ternary Operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Fundamentals/14. Statements and Expressions.md"
+                "file": "Javascript/Fundamentals/15. Ternary Operator.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "ddcfd6542b767032",
   "lastOpenFiles": [
-    "Javascript/Fundamentals/13. Switch Statement.md",
     "Javascript/Fundamentals/14. Statements and Expressions.md",
+    "Javascript/Fundamentals/15. Ternary Operator.md",
+    "Javascript/Fundamentals/13. Switch Statement.md",
     "Javascript/Fundamentals/12. Logical operator.md",
     "Javascript/Fundamentals/11. == vs ===.md",
     "Javascript/Fundamentals/10. Truthy - Falsy value.md",
