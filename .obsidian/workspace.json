@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Fundamentals/9. Type Conversion and Coercion.md",
+                "file": "Javascript/Fundamentals/10. Truthy - Falsy value.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Fundamentals/9. Type Conversion and Coercion.md",
+                "file": "Javascript/Fundamentals/10. Truthy - Falsy value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Fundamentals/9. Type Conversion and Coercion.md",
+                "file": "Javascript/Fundamentals/10. Truthy - Falsy value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Fundamentals/9. Type Conversion and Coercion.md"
+                "file": "Javascript/Fundamentals/10. Truthy - Falsy value.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "723d970f0afc8e57",
   "lastOpenFiles": [
-    "Javascript/Fundamentals/8. Basic if-else.md",
     "Javascript/Fundamentals/9. Type Conversion and Coercion.md",
+    "Javascript/Fundamentals/10. Truthy - Falsy value.md",
+    "Javascript/Fundamentals/8. Basic if-else.md",
     "Javascript/Fundamentals/7. Strings and Template Literals.md",
     "Javascript/Fundamentals/4. Data Types.md",
     "Javascript/Fundamentals/5. Let, Const and Var.md",
