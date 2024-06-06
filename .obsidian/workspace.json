@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "11efcc2f8ff69a6d",
+        "id": "257988c8718e3f86",
         "type": "tabs",
         "children": [
           {
-            "id": "24b146b86e63ced3",
+            "id": "683b806915484742",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/DOM Projects/Guess My Number/Starter/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a8d4d1cc88578b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/DOM Projects/Guess My Number/Final/HTML.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/DOM Projects/Guess My Number/Final/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/DOM Projects/Guess My Number/Final/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Javascript/DOM Projects/Guess My Number/Final/HTML.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,13 +139,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a8d4d1cc88578b4",
+  "active": "683b806915484742",
   "lastOpenFiles": [
-    "Javascript/DOM Projects/Guess My Number/Final/Javascript.md",
     "Javascript/DOM Projects/Guess My Number/Final/HTML.md",
+    "Javascript/DOM Projects/Guess My Number/Starter/CSS.md",
+    "Javascript/DOM Projects/Guess My Number/Final/Javascript.md",
     "Javascript/DOM Projects/Guess My Number/Final/CSS.md",
     "Javascript/DOM Projects/Guess My Number/Starter/Javacript.md",
-    "Javascript/DOM Projects/Guess My Number/Starter/CSS.md",
     "Javascript/DOM Projects/Guess My Number/Starter/HTML.md",
     "Javascript/3. DOM and Events Fundamentals/1. What is DOM.md",
     "Javascript/DOM Projects/Guess My Number/Final",
