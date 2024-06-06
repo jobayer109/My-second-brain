@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/3. DOM and Events Fundamentals/1. What is DOM.md",
+                "file": "Javascript/DOM Projects/Guess My Number/Starter/css.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a8d4d1cc88578b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/DOM Projects/Guess My Number/Starter/html.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/3. DOM and Events Fundamentals/1. What is DOM.md",
+                "file": "Javascript/DOM Projects/Guess My Number/Starter/html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/3. DOM and Events Fundamentals/1. What is DOM.md",
+                "file": "Javascript/DOM Projects/Guess My Number/Starter/html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/3. DOM and Events Fundamentals/1. What is DOM.md"
+                "file": "Javascript/DOM Projects/Guess My Number/Starter/html.md"
               }
             }
           }
@@ -147,9 +160,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24b146b86e63ced3",
+  "active": "5a8d4d1cc88578b4",
   "lastOpenFiles": [
+    "Javascript/DOM Projects/Guess My Number/Final/js.md",
+    "Javascript/DOM Projects/Guess My Number/Final/css.md",
+    "Javascript/DOM Projects/Guess My Number/Final/html.md",
+    "Javascript/DOM Projects/Guess My Number/Starter/html.md",
+    "Javascript/DOM Projects/Guess My Number/Starter/css.md",
+    "Javascript/DOM Projects/Guess My Number/Starter/js.md",
     "Javascript/3. DOM and Events Fundamentals/1. What is DOM.md",
+    "Javascript/DOM Projects/Guess My Number/Final",
+    "Javascript/DOM Projects/Guess My Number/Starter",
+    "Javascript/DOM Projects/Guess My Number",
+    "Javascript/DOM Projects",
     "Javascript/2. Fundamentals 2/10. While loop.md",
     "Javascript/3. DOM and Events Fundamentals",
     "Javascript/Untitled.md",
@@ -171,17 +194,10 @@
     "Javascript/1. Fundamentals 1/12. Logical operator.md",
     "Javascript/1. Fundamentals 1/11. == vs ===.md",
     "Javascript/1. Fundamentals 1/10. Truthy - Falsy value.md",
-    "Javascript/1. Fundamentals 1/9. Type Conversion and Coercion.md",
-    "Javascript/1. Fundamentals 1/8. Basic if-else.md",
-    "Javascript/1. Fundamentals 1/7. Strings and Template Literals.md",
-    "Javascript/1. Fundamentals 1/4. Data Types.md",
-    "Javascript/1. Fundamentals 1/5. Let, Const and Var.md",
-    "Javascript/1. Fundamentals 1/6. Operators.md",
     "Untitled.canvas",
     "Untitled",
     "Javascript/1. Fundamentals 1",
     "Javascript",
-    "Untitled 2",
-    "Untitled 1"
+    "Untitled 2"
   ]
 }
