@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/DOM Projects/Guess My Number/Starter/html.md",
+                "file": "Javascript/DOM Projects/Guess My Number/Starter/js.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/DOM Projects/Guess My Number/Starter/html.md",
+                "file": "Javascript/DOM Projects/Guess My Number/Starter/js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/DOM Projects/Guess My Number/Starter/html.md",
+                "file": "Javascript/DOM Projects/Guess My Number/Starter/js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/DOM Projects/Guess My Number/Starter/html.md"
+                "file": "Javascript/DOM Projects/Guess My Number/Starter/js.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "5a8d4d1cc88578b4",
   "lastOpenFiles": [
+    "Javascript/DOM Projects/Guess My Number/Starter/html.md",
     "Javascript/DOM Projects/Guess My Number/Final/js.md",
     "Javascript/DOM Projects/Guess My Number/Final/css.md",
     "Javascript/DOM Projects/Guess My Number/Final/html.md",
-    "Javascript/DOM Projects/Guess My Number/Starter/html.md",
     "Javascript/DOM Projects/Guess My Number/Starter/css.md",
     "Javascript/DOM Projects/Guess My Number/Starter/js.md",
     "Javascript/3. DOM and Events Fundamentals/1. What is DOM.md",
