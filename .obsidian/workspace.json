@@ -11,8 +11,12 @@
             "id": "94d4fbe8e75de30b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/0. Pathways/Pathways.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -143,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "94d4fbe8e75de30b",
   "lastOpenFiles": [
     "Javascript/Untitled.md",
     "Javascript/0. Pathways/Pathways.md",
