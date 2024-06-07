@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "257988c8718e3f86",
+        "id": "4accfe855be2037e",
         "type": "tabs",
         "children": [
           {
-            "id": "683b806915484742",
+            "id": "f643d1b1df238498",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/0. History.md",
+                "file": "Javascript/0. Pathways/Pathways.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/0. History.md",
+                "file": "Javascript/0. Pathways/Pathways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/0. History.md",
+                "file": "Javascript/0. Pathways/Pathways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/0. History.md"
+                "file": "Javascript/0. Pathways/Pathways.md"
               }
             }
           }
@@ -147,10 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "683b806915484742",
+  "active": "f643d1b1df238498",
   "lastOpenFiles": [
+    "Javascript/Untitled.md",
+    "Javascript/0. Pathways/Pathways.md",
+    "Javascript/0. Pathways",
+    "Javascript/1. Fundamentals 1/0.1 Pathways.md",
+    "Javascript/1. Fundamentals 1/0.2 History.md",
     "Javascript/1. Fundamentals 1/1. What is JS.md",
-    "Javascript/1. Fundamentals 1/0. History.md",
     "Javascript/3. DOM and Events Fundamentals/0. Images.md",
     "Javascript/3. DOM and Events Fundamentals/1. What is DOM.md",
     "Javascript/DOM Projects/Guess My Number/Final/HTML.md",
@@ -165,7 +169,6 @@
     "Javascript/DOM Projects",
     "Javascript/2. Fundamentals 2/10. While loop.md",
     "Javascript/3. DOM and Events Fundamentals",
-    "Javascript/Untitled.md",
     "Javascript/2. Fundamentals 2/9. Looping Arrays, Breaking and Continuing.md",
     "Javascript/2. Fundamentals 2/8. For loop.md",
     "Javascript/2. Fundamentals 2/7. Object.md",
@@ -179,12 +182,9 @@
     "Javascript/2. Fundamentals 2",
     "![image.md",
     "Javascript/1. Fundamentals 1/15. Ternary Operator.md",
-    "Javascript/1. Fundamentals 1/14. Statements and Expressions.md",
-    "Javascript/1. Fundamentals 1/13. Switch Statement.md",
     "Untitled.canvas",
     "Untitled",
     "Javascript/1. Fundamentals 1",
-    "Javascript",
-    "Untitled 2"
+    "Javascript"
   ]
 }
