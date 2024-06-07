@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4accfe855be2037e",
+        "id": "91bf7c97dff18584",
         "type": "tabs",
         "children": [
           {
-            "id": "f643d1b1df238498",
+            "id": "94d4fbe8e75de30b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/0. Pathways/Pathways.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -147,7 +143,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f643d1b1df238498",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
     "Javascript/Untitled.md",
     "Javascript/0. Pathways/Pathways.md",
