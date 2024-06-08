@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "👤 Personal/Todos/📋Tasks.md",
+                "file": "C++/Home works/Home Works.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👤 Personal/Todos/📋Tasks.md",
+                "file": "C++/Home works/Home Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👤 Personal/Todos/📋Tasks.md",
+                "file": "C++/Home works/Home Works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👤 Personal/Todos/📋Tasks.md"
+                "file": "C++/Home works/Home Works.md"
               }
             }
           }
@@ -160,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "e8d8450d3c402b33",
   "lastOpenFiles": [
-    "Javascript/1. Fundamentals 1/1. What is JS.md",
     "👤 Personal/Todos/📋Tasks.md",
+    "C++/Home works/Home Works.md",
+    "C++/Home works",
+    "C++",
+    "Javascript/1. Fundamentals 1/1. What is JS.md",
     "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
     "Javascript/1. Fundamentals 1/0.1 Pathways.md",
     "👤 Personal/Todos",
@@ -195,9 +198,6 @@
     "Javascript/2. Fundamentals 2/3. Function declaration vs expression.md",
     "Javascript/2. Fundamentals 2/2. Basic Function.md",
     "Javascript/2. Fundamentals 2/1. Activating Strict Mode.md",
-    "Javascript/1. Fundamentals 1/16. Javascript Releases.md",
-    "Javascript/2. Fundamentals 2",
-    "![image.md",
-    "Javascript/1. Fundamentals 1"
+    "Javascript/1. Fundamentals 1/16. Javascript Releases.md"
   ]
 }
