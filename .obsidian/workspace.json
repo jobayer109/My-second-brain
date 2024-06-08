@@ -11,8 +11,12 @@
             "id": "85f5b3a29f22c8ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/0. Pathways/Pathways.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/0. Pathways/Pathways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/0. Pathways/Pathways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Javascript/0. Pathways/Pathways.md"
+              }
             }
           }
         ],
@@ -139,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "85f5b3a29f22c8ed",
   "lastOpenFiles": [
     "C++/3. Problem-solving",
     "C++/1. Fundamentals/5. Array",
