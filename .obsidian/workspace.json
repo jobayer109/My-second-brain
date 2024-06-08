@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "98285d44c48714ab",
+        "id": "b3d7b3ecd2764164",
         "type": "tabs",
         "children": [
           {
-            "id": "ea37125cecb8bdfe",
+            "id": "85f5b3a29f22c8ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,10 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea37125cecb8bdfe",
+  "active": "85f5b3a29f22c8ed",
   "lastOpenFiles": [
-    "C++/1. Fundamentals/1. Hello Programming/2. How to computer works.md",
     "C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
+    "C++/1. Fundamentals/1. Hello Programming/2. How to computer works.md",
+    "Comouter Architecture 1.pdf",
     "C++/1. Fundamentals/1. Hello Programming",
     "C++/1. Fundamentals/2. Data types/2.7 Type Convertion & Coersion.md",
     "C++/1. Fundamentals/2. Data types/2.6 Char.md",
@@ -173,7 +166,6 @@
     "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
     "Javascript/1. Fundamentals 1/0.1 Pathways.md",
     "👤 Personal/Todos",
-    "👤 Personal",
     "Untitled.canvas",
     "Javascript/0. Pathways/Pathways.md",
     "Javascript/Untitled.md",
@@ -184,7 +176,6 @@
     "Javascript/4. DOM Projects/Guess My Number/Starter/CSS.md",
     "Javascript/4. DOM Projects/Guess My Number/Final/CSS.md",
     "Javascript/4. DOM Projects/Guess My Number/Starter/Javacript.md",
-    "Javascript/4. DOM Projects/Guess My Number/Starter/HTML.md",
-    "Javascript/2. Fundamentals 2/10. While loop.md"
+    "Javascript/4. DOM Projects/Guess My Number/Starter/HTML.md"
   ]
 }
