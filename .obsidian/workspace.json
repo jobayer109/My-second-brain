@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/0. Pathways/Pathways.md",
+                "file": "Javascript/4. DOM Projects/Guess My Number/Final/Javascript (pro).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 245.5
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/0. Pathways/Pathways.md",
+                "file": "Javascript/4. DOM Projects/Guess My Number/Final/Javascript (pro).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/0. Pathways/Pathways.md",
+                "file": "Javascript/4. DOM Projects/Guess My Number/Final/Javascript (pro).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/0. Pathways/Pathways.md"
+                "file": "Javascript/4. DOM Projects/Guess My Number/Final/Javascript (pro).md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "85f5b3a29f22c8ed",
   "lastOpenFiles": [
+    "Javascript/4. DOM Projects/Guess My Number/Final/Javascript (Noob).md",
+    "Javascript/4. DOM Projects/Guess My Number/Final/Javascript (pro).md",
+    "Javascript/0. Pathways/Pathways.md",
     "C++/3. Problem-solving",
     "C++/1. Fundamentals/5. Array",
     "C++/1. Fundamentals/4. Loop",
@@ -170,13 +173,10 @@
     "Hello C.pdf",
     "C++/4. Home works/Home Work.md",
     "C++/2. DSA",
-    "C++/1. Fundamentals",
     "Personal/Todos/📋Tasks.md",
     "Javascript/1. Fundamentals 1/1. What is JS.md",
-    "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
     "Javascript/1. Fundamentals 1/0.1 Pathways.md",
     "Untitled.canvas",
-    "Javascript/0. Pathways/Pathways.md",
     "Javascript/Untitled.md",
     "Javascript/1. Fundamentals 1/0.2 History.md",
     "Javascript/3. DOM and Events Fundamentals/0. Images.md",
