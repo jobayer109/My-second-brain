@@ -1,6 +1,6 @@
 # My Second Brain
 
-<img src="https://website-cdn.studysmarter.de/sites/2/uk/stsm_Building_a_Second_Brain_is_a_methodology_for_saving_and_sy_9fbc7d40-fb57-41fe-bf0b-9cadfd50ed90.png" alt="My Second Brain" width="100%" height="300">
+<img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgqbzlpbzvh0rurvjv37j.png" alt="My Second Brain" width="100%" height="300">
 
 ## Introduction
 
