@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Home works/Home Works.md",
+                "file": "C++/Home works/Home Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Home works/Home Works.md",
+                "file": "C++/Home works/Home Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Home works/Home Works.md",
+                "file": "C++/Home works/Home Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Home works/Home Works.md"
+                "file": "C++/Home works/Home Work.md"
               }
             }
           }
@@ -163,7 +163,7 @@
   "active": "e8d8450d3c402b33",
   "lastOpenFiles": [
     "👤 Personal/Todos/📋Tasks.md",
-    "C++/Home works/Home Works.md",
+    "C++/Home works/Home Work.md",
     "C++/Home works",
     "C++",
     "Javascript/1. Fundamentals 1/1. What is JS.md",
