@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
+                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
+                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
+                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md"
+                "file": "Javascript/1. Fundamentals 1/1. What is JS.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "4e8cc3ca084317ba",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
+    "Javascript/1. Fundamentals 1/0.1 Pathways.md",
+    "Personal/Todos",
+    "Personal",
+    "Untitled.canvas",
     "Javascript/0. Pathways/Pathways.md",
     "Javascript/Untitled.md",
     "Javascript/0. Pathways",
-    "Javascript/1. Fundamentals 1/0.1 Pathways.md",
     "Javascript/1. Fundamentals 1/0.2 History.md",
     "Javascript/1. Fundamentals 1/1. What is JS.md",
     "Javascript/3. DOM and Events Fundamentals/0. Images.md",
@@ -182,8 +184,6 @@
     "Javascript/1. Fundamentals 1/16. Javascript Releases.md",
     "Javascript/2. Fundamentals 2",
     "![image.md",
-    "Untitled",
-    "Javascript/1. Fundamentals 1",
-    "Javascript"
+    "Javascript/1. Fundamentals 1"
   ]
 }
