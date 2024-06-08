@@ -1,6 +1,6 @@
-- [x] Buy groceries
+- [x] Buy groceries ⛔ tskhos
 - [x] Finish the report
-- [ ] Call the plumber
+- [ ] Call the plumber 🆔 tskhos
 - [ ] Buy groceries
 - [x] Finish the report
 - [ ] Call the plumber
@@ -8,10 +8,4 @@
 - [ ] Finish the report
 - [x] Call the plumber
 - [ ] Buy groceries
-- [ ] Finish the report
-- [ ] Call the plumber
-- [X]
-
-
-- 
-- 
+- [ ] Finish the report📅 2024-06-09  ⏫  🔁 
