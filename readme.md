@@ -1,10 +1,10 @@
 # My Second Brain
 
-![My Second Brain](https://website-cdn.studysmarter.de/sites/2/uk/stsm_Building_a_Second_Brain_is_a_methodology_for_saving_and_sy_9fbc7d40-fb57-41fe-bf0b-9cadfd50ed90.png)
+<img src="https://website-cdn.studysmarter.de/sites/2/uk/stsm_Building_a_Second_Brain_is_a_methodology_for_saving_and_sy_9fbc7d40-fb57-41fe-bf0b-9cadfd50ed90.png" alt="My Second Brain" width="100%" height="300">
 
 ## Introduction
-Welcome to my second brain! This repository is a comprehensive collection of my thoughts, notes, and knowledge accumulated over time. Inspired by the concept of a second brain, this digital repository helps me organize and retain information efficiently.
 
+Welcome to my second brain! This repository is a comprehensive collection of my thoughts, notes, and knowledge accumulated over time. Inspired by the concept of a second brain, this digital repository helps me organize and retain information efficiently.
 
 ## Features
 
@@ -17,6 +17,8 @@ Welcome to my second brain! This repository is a comprehensive collection of my 
 
 To explore this repository:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Jobayer109/My-second-brain
+**Clone the Repository**:
+
+```bash
+git clone https://github.com/Jobayer109/My-second-brain
+```
