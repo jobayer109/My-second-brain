@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
+                "file": "Personal/Todos/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
+                "file": "Personal/Todos/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
+                "file": "Personal/Todos/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/1. What is JS.md"
+                "file": "Personal/Todos/Untitled.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   "active": "e8d8450d3c402b33",
   "lastOpenFiles": [
     "Javascript/1. Fundamentals 1/1. What is JS.md",
+    "Personal/Todos/Untitled.md",
     "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
     "Javascript/1. Fundamentals 1/0.1 Pathways.md",
     "Personal/Todos",
