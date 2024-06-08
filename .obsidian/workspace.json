@@ -160,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8d8450d3c402b33",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "C++/2. DSA",
+    "C++/1. Fundamentals",
     "👤 Personal/Todos/📋Tasks.md",
     "C++/Home works/Home Work.md",
     "C++/Home works",
@@ -188,7 +190,6 @@
     "Javascript/4. DOM Projects/Guess My Number",
     "Javascript/4. DOM Projects",
     "Javascript/2. Fundamentals 2/10. While loop.md",
-    "Javascript/3. DOM and Events Fundamentals",
     "Javascript/2. Fundamentals 2/9. Looping Arrays, Breaking and Continuing.md",
     "Javascript/2. Fundamentals 2/8. For loop.md",
     "Javascript/2. Fundamentals 2/7. Object.md",
@@ -197,7 +198,6 @@
     "Javascript/2. Fundamentals 2/4. Arrow Function.md",
     "Javascript/2. Fundamentals 2/3. Function declaration vs expression.md",
     "Javascript/2. Fundamentals 2/2. Basic Function.md",
-    "Javascript/2. Fundamentals 2/1. Activating Strict Mode.md",
-    "Javascript/1. Fundamentals 1/16. Javascript Releases.md"
+    "Javascript/2. Fundamentals 2/1. Activating Strict Mode.md"
   ]
 }
