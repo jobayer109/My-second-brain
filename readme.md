@@ -15,8 +15,6 @@ Welcome to my second brain! This repository is a comprehensive collection of my 
 
 ## Getting Started
 
-To explore this repository:
-
 **Clone the Repository**:
 
 ```bash
