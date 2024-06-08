@@ -1,0 +1,45 @@
+from PIL import Image, ImageDraw, ImageFont
+
+# Create an image
+width, height = 1200, 600
+background_color = (245, 245, 245)
+image = Image.new("RGB", (width, height), color=background_color)
+draw = ImageDraw.Draw(image)
+
+# Load a font
+font_path = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+font = ImageFont.truetype(font_path, 80)
+subfont = ImageFont.truetype(font_path, 40)
+
+# Draw the title
+title_text = "My Second Brain"
+text_width, text_height = draw.textsize(title_text, font=font)
+draw.text(((width - text_width) / 2, 50), title_text, font=font, fill="black")
+
+# Draw a simple brain icon (placeholder)
+brain_icon = [
+    (width / 2 - 100, height / 2 - 100),
+    (width / 2 + 100, height / 2 + 100)
+]
+draw.ellipse(brain_icon, outline="black", width=5)
+
+# Draw surrounding icons (placeholders)
+icons = ["📚", "💡", "⚙️", "💾"]
+icon_positions = [
+    (width / 4, height / 2 - 150),
+    (3 * width / 4, height / 2 - 150),
+    (width / 4, height / 2 + 150),
+    (3 * width / 4, height / 2 + 150)
+]
+
+for icon, position in zip(icons, icon_positions):
+    icon_text = icon
+    text_width, text_height = draw.textsize(icon_text, font=subfont)
+    draw.text((position[0] - text_width / 2, position[1] - text_height / 2), icon_text, font=subfont, fill="black")
+
+# Save the image
+image_path = "/mnt/data/second_brain_cover.png"
+image.save(image_path)
+image.show()
+
+image_path
