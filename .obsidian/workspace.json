@@ -139,8 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec12022d4c773fcb",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "Javascript/4. DOM Projects/Modal Open/Final",
+    "Javascript/4. DOM Projects/Modal Open/Starter",
+    "Javascript/4. DOM Projects/Modal Open",
     "readme.md",
     "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
     "Javascript/4. DOM Projects/Guess My Number/Final/Javascript (pro).md",
@@ -163,9 +166,7 @@
     "C++/1. Fundamentals/2. Data types.md",
     "C++/1. Fundamentals/2. Data types",
     "Comouter Architecture.pdf",
-    "Hello C.pdf",
     "C++/4. Home works/Home Work.md",
-    "C++/2. DSA",
     "Personal/Todos/📋Tasks.md",
     "Javascript/1. Fundamentals 1/1. What is JS.md",
     "Javascript/1. Fundamentals 1/0.1 Pathways.md",
@@ -176,7 +177,6 @@
     "Javascript/3. DOM and Events Fundamentals/1. What is DOM.md",
     "Javascript/4. DOM Projects/Guess My Number/Final/HTML.md",
     "Javascript/4. DOM Projects/Guess My Number/Starter/CSS.md",
-    "Javascript/4. DOM Projects/Guess My Number/Final/CSS.md",
-    "Javascript/4. DOM Projects/Guess My Number/Starter/Javacript.md"
+    "Javascript/4. DOM Projects/Guess My Number/Final/CSS.md"
   ]
 }
