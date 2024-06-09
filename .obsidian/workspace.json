@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "de96cbc445d276d1",
+        "id": "04c30e068509421e",
         "type": "tabs",
         "children": [
           {
-            "id": "98cb4c3729853dda",
+            "id": "c4a613fec5c1e9c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Todos/📋Tasks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Todos/📋Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Todos/📋Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Todos/📋Tasks.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -145,14 +137,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98cb4c3729853dda",
+  "active": "c4a613fec5c1e9c3",
   "lastOpenFiles": [
+    "Personal/Todos/hello draw.md",
+    "Personal/Todos/📋Tasks.md",
+    "Excalidraw/Drawing 2024-06-09 10.47.17.excalidraw.md",
+    "Excalidraw",
     "Javascript/1. Fundamentals 1/1. What is JS.md",
     "Javascript/1. Fundamentals 1/0.2 History.md",
-    "Personal/Todos/📋Tasks.md",
     "Presentations/Personal/Untitled.md",
     "Untitled.md",
     "Presentations/Course",
@@ -174,7 +171,6 @@
     "Javascript/4. DOM Projects/Guess My Number/Final/Javascript (pro).md",
     "Javascript/0. Pathways/Pathways.md",
     "C++/3. Problem-solving",
-    "C++/1. Fundamentals/5. Array",
     "C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
     "C++/1. Fundamentals/1. Hello Programming/2. How to computer works.md",
     "C++/1. Fundamentals/2. Data types/2.7 Type Convertion & Coersion.md",
@@ -184,8 +180,6 @@
     "C++/1. Fundamentals/2. Data types/2.3 Double.md",
     "C++/1. Fundamentals/2. Data types/2.2 Float.md",
     "C++/1. Fundamentals/2. Data types/2.1 Int.md",
-    "C++/1. Fundamentals/2. Data types.md",
-    "C++/4. Home works/Home Work.md",
     "Untitled.canvas"
   ]
 }
