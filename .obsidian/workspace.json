@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Starter/Javascript.md",
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Starter/Javascript.md",
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Starter/Javascript.md",
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Starter/Javascript.md"
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "ec12022d4c773fcb",
   "lastOpenFiles": [
-    "Javascript/4. DOM Projects/Modal Open/Starter/CSS.md",
+    "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
+    "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
+    "Javascript/4. DOM Projects/Modal Open/Untitled",
+    "Javascript/4. DOM Projects/Modal Open/Final/HTML.md",
     "Javascript/4. DOM Projects/Modal Open/Starter/Javascript.md",
+    "Javascript/4. DOM Projects/Modal Open/Starter/CSS.md",
     "Javascript/4. DOM Projects/Modal Open/Starter/HTML.md",
     "Javascript/4. DOM Projects/Modal Open/Final",
     "Javascript/4. DOM Projects/Modal Open/Starter",
@@ -175,16 +179,12 @@
     "C++/1. Fundamentals/2. Data types/2.2 Float.md",
     "C++/1. Fundamentals/2. Data types/2.1 Int.md",
     "C++/1. Fundamentals/2. Data types.md",
-    "C++/1. Fundamentals/2. Data types",
     "C++/4. Home works/Home Work.md",
     "Personal/Todos/📋Tasks.md",
     "Javascript/1. Fundamentals 1/1. What is JS.md",
     "Javascript/1. Fundamentals 1/0.1 Pathways.md",
     "Untitled.canvas",
     "Javascript/Untitled.md",
-    "Javascript/1. Fundamentals 1/0.2 History.md",
-    "Javascript/3. DOM and Events Fundamentals/0. Images.md",
-    "Javascript/3. DOM and Events Fundamentals/1. What is DOM.md",
-    "Javascript/4. DOM Projects/Guess My Number/Final/HTML.md"
+    "Javascript/1. Fundamentals 1/0.2 History.md"
   ]
 }
