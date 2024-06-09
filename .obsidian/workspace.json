@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
+                "file": "Personal/Todos/📋Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
+                "file": "Personal/Todos/📋Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
+                "file": "Personal/Todos/📋Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/1. Fundamentals 1/1. What is JS.md"
+                "file": "Personal/Todos/📋Tasks.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "98cb4c3729853dda",
   "lastOpenFiles": [
-    "Javascript/1. Fundamentals 1/0.2 History.md",
     "Javascript/1. Fundamentals 1/1. What is JS.md",
+    "Javascript/1. Fundamentals 1/0.2 History.md",
     "Personal/Todos/📋Tasks.md",
     "Presentations/Personal/Untitled.md",
     "Untitled.md",
