@@ -4,19 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "66221a0117d9b0e1",
+        "id": "8665da89a7bddfd9",
         "type": "tabs",
         "children": [
           {
-            "id": "dea9ba1ebbfc8b50",
+            "id": "01dca658790732a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentations/Personal/Untitled.md",
+                "file": "Personal/Todos/📋Tasks.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eee9319798b02ef2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9f0208eb59e8f45",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentations/Personal/Untitled.md",
+                "file": "Personal/Todos/📋Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentations/Personal/Untitled.md",
+                "file": "Personal/Todos/📋Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentations/Personal/Untitled.md"
+                "file": "Personal/Todos/📋Tasks.md"
               }
             }
           }
@@ -148,10 +162,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "dea9ba1ebbfc8b50",
+  "active": "01dca658790732a2",
   "lastOpenFiles": [
-    "Untitled.md",
     "Presentations/Personal/Untitled.md",
+    "Untitled.md",
     "Presentations/Course",
     "Presentations/School",
     "Presentations/Personal",
