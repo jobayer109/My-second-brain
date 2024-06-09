@@ -11,8 +11,12 @@
             "id": "dea9ba1ebbfc8b50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Presentations/Personal/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Presentations/Personal/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Presentations/Personal/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Presentations/Personal/Untitled.md"
               }
             }
           }
@@ -142,13 +148,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "dea9ba1ebbfc8b50",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Presentations/Personal/Untitled.md",
     "Presentations/Course",
     "Presentations/School",
     "Presentations/Personal",
     "Presentations",
-    "Untitled.md",
     "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
     "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
     "Javascript/4. DOM Projects/Modal Open/Final/HTML.md",
@@ -165,7 +172,6 @@
     "Javascript/0. Pathways/Pathways.md",
     "C++/3. Problem-solving",
     "C++/1. Fundamentals/5. Array",
-    "C++/1. Fundamentals/4. Loop",
     "C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
     "C++/1. Fundamentals/1. Hello Programming/2. How to computer works.md",
     "C++/1. Fundamentals/2. Data types/2.7 Type Convertion & Coersion.md",
