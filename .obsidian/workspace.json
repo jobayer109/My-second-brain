@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6b14fa2ee29eb71a",
+        "id": "66221a0117d9b0e1",
         "type": "tabs",
         "children": [
           {
-            "id": "ec12022d4c773fcb",
+            "id": "dea9ba1ebbfc8b50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54f5d31f8b2adfa9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -159,11 +142,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "54f5d31f8b2adfa9",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "Presentations/Course",
+    "Presentations/School",
+    "Presentations/Personal",
+    "Presentations",
+    "Untitled.md",
+    "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
     "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
     "Javascript/4. DOM Projects/Modal Open/Final/HTML.md",
-    "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
     "Javascript/4. DOM Projects/Modal Open/Untitled",
     "Javascript/4. DOM Projects/Modal Open/Starter/Javascript.md",
     "Javascript/4. DOM Projects/Modal Open/Starter/CSS.md",
@@ -178,11 +166,8 @@
     "C++/3. Problem-solving",
     "C++/1. Fundamentals/5. Array",
     "C++/1. Fundamentals/4. Loop",
-    "C++/1. Fundamentals/3. Function",
     "C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
     "C++/1. Fundamentals/1. Hello Programming/2. How to computer works.md",
-    "Computer Architecture.pdf",
-    "C++/1. Fundamentals/1. Hello Programming",
     "C++/1. Fundamentals/2. Data types/2.7 Type Convertion & Coersion.md",
     "C++/1. Fundamentals/2. Data types/2.6 Char.md",
     "C++/1. Fundamentals/2. Data types/2.5 Boolean.md",
@@ -195,8 +180,6 @@
     "Personal/Todos/📋Tasks.md",
     "Javascript/1. Fundamentals 1/1. What is JS.md",
     "Javascript/1. Fundamentals 1/0.1 Pathways.md",
-    "Untitled.canvas",
-    "Javascript/Untitled.md",
-    "Javascript/1. Fundamentals 1/0.2 History.md"
+    "Untitled.canvas"
   ]
 }
