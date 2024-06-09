@@ -6,7 +6,6 @@
       {
         "id": "de96cbc445d276d1",
         "type": "tabs",
-        "dimension": 16.181229773462782,
         "children": [
           {
             "id": "98cb4c3729853dda",
@@ -21,42 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "1f464aeb60491497",
-        "type": "split",
-        "dimension": 83.81877022653721,
-        "children": [
-          {
-            "id": "8fe08e333b5a077a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "526ae652bd484a29",
-                "type": "leaf",
-                "state": {
-                  "type": "reveal-preview-view",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
-            "id": "322f9fbb21f9c983",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b15d349cfdb17f72",
-                "type": "leaf",
-                "state": {
-                  "type": "reveal-preview-view",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -186,7 +148,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "526ae652bd484a29",
+  "active": "98cb4c3729853dda",
   "lastOpenFiles": [
     "Javascript/1. Fundamentals 1/0.2 History.md",
     "Javascript/1. Fundamentals 1/1. What is JS.md",
