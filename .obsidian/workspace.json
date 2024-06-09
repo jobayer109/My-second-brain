@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54f5d31f8b2adfa9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ec12022d4c773fcb",
+  "active": "54f5d31f8b2adfa9",
   "lastOpenFiles": [
     "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
     "Javascript/4. DOM Projects/Modal Open/Final/HTML.md",
