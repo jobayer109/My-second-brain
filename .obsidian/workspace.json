@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md"
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/HTML.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "ec12022d4c773fcb",
   "lastOpenFiles": [
-    "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
     "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
+    "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
     "Javascript/4. DOM Projects/Modal Open/Untitled",
     "Javascript/4. DOM Projects/Modal Open/Final/HTML.md",
     "Javascript/4. DOM Projects/Modal Open/Starter/Javascript.md",
