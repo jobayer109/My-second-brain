@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Starter/HTML.md",
+                "file": "Javascript/4. DOM Projects/Modal Open/Starter/CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Starter/HTML.md",
+                "file": "Javascript/4. DOM Projects/Modal Open/Starter/CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Starter/HTML.md",
+                "file": "Javascript/4. DOM Projects/Modal Open/Starter/CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Starter/HTML.md"
+                "file": "Javascript/4. DOM Projects/Modal Open/Starter/CSS.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "ec12022d4c773fcb",
   "lastOpenFiles": [
     "Javascript/4. DOM Projects/Modal Open/Starter/HTML.md",
+    "Javascript/4. DOM Projects/Modal Open/Starter/CSS.md",
     "Javascript/4. DOM Projects/Modal Open/Final",
     "Javascript/4. DOM Projects/Modal Open/Starter",
     "Javascript/4. DOM Projects/Modal Open",
@@ -184,7 +185,6 @@
     "Javascript/3. DOM and Events Fundamentals/0. Images.md",
     "Javascript/3. DOM and Events Fundamentals/1. What is DOM.md",
     "Javascript/4. DOM Projects/Guess My Number/Final/HTML.md",
-    "Javascript/4. DOM Projects/Guess My Number/Starter/CSS.md",
-    "Javascript/4. DOM Projects/Guess My Number/Final/CSS.md"
+    "Javascript/4. DOM Projects/Guess My Number/Starter/CSS.md"
   ]
 }
