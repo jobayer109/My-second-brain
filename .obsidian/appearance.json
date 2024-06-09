@@ -1,5 +1,7 @@
 {
   "accentColor": "#19c83c",
   "theme": "system",
-  "cssTheme": "GitHub Theme"
+  "cssTheme": "GitHub Theme",
+  "baseFontSize": 16,
+  "nativeMenus": false
 }
