@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
-                "mode": "source",
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/4. DOM Projects/Modal Open/Final/CSS.md"
+                "file": "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md"
               }
             }
           }
@@ -144,14 +144,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "ec12022d4c773fcb",
   "lastOpenFiles": [
+    "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
     "Javascript/4. DOM Projects/Modal Open/Final/HTML.md",
     "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
-    "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
     "Javascript/4. DOM Projects/Modal Open/Untitled",
     "Javascript/4. DOM Projects/Modal Open/Starter/Javascript.md",
     "Javascript/4. DOM Projects/Modal Open/Starter/CSS.md",
