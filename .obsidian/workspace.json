@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8665da89a7bddfd9",
+        "id": "de96cbc445d276d1",
         "type": "tabs",
+        "dimension": 16.181229773462782,
         "children": [
           {
-            "id": "01dca658790732a2",
+            "id": "98cb4c3729853dda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Todos/📋Tasks.md",
+                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,18 +23,40 @@
         ]
       },
       {
-        "id": "eee9319798b02ef2",
-        "type": "tabs",
+        "id": "1f464aeb60491497",
+        "type": "split",
+        "dimension": 83.81877022653721,
         "children": [
           {
-            "id": "c9f0208eb59e8f45",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
+            "id": "8fe08e333b5a077a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "526ae652bd484a29",
+                "type": "leaf",
+                "state": {
+                  "type": "reveal-preview-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "322f9fbb21f9c983",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b15d349cfdb17f72",
+                "type": "leaf",
+                "state": {
+                  "type": "reveal-preview-view",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 245.5,
+    "collapsed": true
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Todos/📋Tasks.md",
+                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Todos/📋Tasks.md",
+                "file": "Javascript/1. Fundamentals 1/1. What is JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Todos/📋Tasks.md"
+                "file": "Javascript/1. Fundamentals 1/1. What is JS.md"
               }
             }
           }
@@ -162,8 +186,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "01dca658790732a2",
+  "active": "526ae652bd484a29",
   "lastOpenFiles": [
+    "Javascript/1. Fundamentals 1/0.2 History.md",
+    "Javascript/1. Fundamentals 1/1. What is JS.md",
+    "Personal/Todos/📋Tasks.md",
     "Presentations/Personal/Untitled.md",
     "Untitled.md",
     "Presentations/Course",
@@ -197,9 +224,6 @@
     "C++/1. Fundamentals/2. Data types/2.1 Int.md",
     "C++/1. Fundamentals/2. Data types.md",
     "C++/4. Home works/Home Work.md",
-    "Personal/Todos/📋Tasks.md",
-    "Javascript/1. Fundamentals 1/1. What is JS.md",
-    "Javascript/1. Fundamentals 1/0.1 Pathways.md",
     "Untitled.canvas"
   ]
 }
