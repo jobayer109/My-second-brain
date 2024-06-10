@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/2. Javascript Runtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/2. Javascript Runtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/2. Javascript Runtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md"
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/2. Javascript Runtime.md"
               }
             }
           }
@@ -150,10 +150,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ccf6ab84ffcad3f9",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/5. Behind the Scenes/0. Topics.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/2. Javascript Runtime.md",
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/0. Topics.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/Hello.md",
@@ -185,7 +186,6 @@
     "Programming Hub/Languages/C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
     "Programming Hub/Languages/Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
     "Programming Hub/Languages/Javascript/4. DOM Projects/Modal Open/Final/Drawing 2024-06-10 15.46.32.excalidraw.md",
-    "Programming Hub/C++/1. Fundamentals/3. Function/What is Function😍.md",
     "Programming Hub/Development/Browser/Tab links",
     "Programming Hub/Development/Browser/Extensions",
     "Untitled.canvas"
