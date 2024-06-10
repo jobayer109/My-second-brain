@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Development/Github/Delete Commits.md",
-                "mode": "source",
+                "file": "Programming Hub/C++/1. Fundamentals/3. Function/What is Function😍.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Development/Github/Delete Commits.md",
+                "file": "Programming Hub/C++/1. Fundamentals/3. Function/What is Function😍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Development/Github/Delete Commits.md",
+                "file": "Programming Hub/C++/1. Fundamentals/3. Function/What is Function😍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Development/Github/Delete Commits.md"
+                "file": "Programming Hub/C++/1. Fundamentals/3. Function/What is Function😍.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "c4a613fec5c1e9c3",
   "lastOpenFiles": [
+    "Programming Hub/Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
     "Programming Hub/Development/Github/Delete Commits.md",
     "Programming Hub/Development/Browser/Tab links",
     "Programming Hub/Development/Browser/Extensions",
@@ -161,25 +162,24 @@
     "Personal/Todos/📋Tasks.md",
     "Excalidraw/Drawing 2024-06-09 10.47.17.excalidraw.md",
     "Excalidraw",
-    "Javascript/1. Fundamentals 1/1. What is JS.md",
-    "Javascript/1. Fundamentals 1/0.2 History.md",
+    "Programming Hub/Javascript/1. Fundamentals 1/1. What is JS.md",
+    "Programming Hub/Javascript/1. Fundamentals 1/0.2 History.md",
     "Presentations/Personal/Untitled.md",
     "Untitled.md",
     "Presentations/Course",
     "Presentations/School",
     "Presentations/Personal",
     "Presentations",
-    "Javascript/4. DOM Projects/Modal Open/Final/Javascript.md",
-    "Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
-    "Javascript/4. DOM Projects/Modal Open/Final/HTML.md",
+    "Programming Hub/Javascript/4. DOM Projects/Modal Open/Final/CSS.md",
+    "Programming Hub/Javascript/4. DOM Projects/Modal Open/Final/HTML.md",
     "Javascript/4. DOM Projects/Modal Open/Untitled",
-    "Javascript/4. DOM Projects/Modal Open/Starter/Javascript.md",
-    "Javascript/4. DOM Projects/Modal Open/Starter/CSS.md",
-    "Javascript/4. DOM Projects/Modal Open/Starter/HTML.md",
+    "Programming Hub/Javascript/4. DOM Projects/Modal Open/Starter/Javascript.md",
+    "Programming Hub/Javascript/4. DOM Projects/Modal Open/Starter/CSS.md",
+    "Programming Hub/Javascript/4. DOM Projects/Modal Open/Starter/HTML.md",
     "readme.md",
-    "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
+    "Programming Hub/Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
     "Javascript/4. DOM Projects/Guess My Number/Final/Javascript (pro).md",
-    "Javascript/0. Pathways/Pathways.md",
+    "Programming Hub/Javascript/0. Pathways/Pathways.md",
     "C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
     "C++/1. Fundamentals/1. Hello Programming/2. How to computer works.md",
     "C++/1. Fundamentals/2. Data types/2.7 Type Convertion & Coersion.md",
