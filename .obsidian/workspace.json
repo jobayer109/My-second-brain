@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md"
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime.md"
               }
             }
           }
@@ -152,8 +152,12 @@
   },
   "active": "ccf6ab84ffcad3f9",
   "lastOpenFiles": [
-    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/Hello.md",
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime.md",
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/JS Engine & Runtime",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes",
+    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Fun.md",
     "Programming Hub/Development/Github/Delete Commits.md",
     "What is Function😍.pdf",
@@ -182,12 +186,8 @@
     "Programming Hub/Development/Browser/Tab links",
     "Programming Hub/Development/Browser/Extensions",
     "Programming Hub/Development/Browser",
-    "Programming Hub/Development/Github",
     "Personal/Todos/hello draw.md",
     "Personal/Todos/📋Tasks.md",
-    "Excalidraw/Drawing 2024-06-09 10.47.17.excalidraw.md",
-    "Programming Hub/Languages/Javascript/1. Fundamentals 1/1. What is JS.md",
-    "Presentations/Course",
     "Untitled.canvas"
   ]
 }
