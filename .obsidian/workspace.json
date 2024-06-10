@@ -11,8 +11,12 @@
             "id": "c4a613fec5c1e9c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Hub/Development/Github/Delete Commits.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Hub/Development/Github/Delete Commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Hub/Development/Github/Delete Commits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Hub/Development/Github/Delete Commits.md"
+              }
             }
           }
         ],
@@ -144,6 +152,11 @@
   },
   "active": "c4a613fec5c1e9c3",
   "lastOpenFiles": [
+    "Programming Hub/Development/Github/Delete Commits.md",
+    "Programming Hub/Development/Browser/Tab links",
+    "Programming Hub/Development/Browser/Extensions",
+    "Programming Hub/Development/Browser",
+    "Programming Hub/Development/Github",
     "Personal/Todos/hello draw.md",
     "Personal/Todos/📋Tasks.md",
     "Excalidraw/Drawing 2024-06-09 10.47.17.excalidraw.md",
@@ -163,14 +176,10 @@
     "Javascript/4. DOM Projects/Modal Open/Starter/Javascript.md",
     "Javascript/4. DOM Projects/Modal Open/Starter/CSS.md",
     "Javascript/4. DOM Projects/Modal Open/Starter/HTML.md",
-    "Javascript/4. DOM Projects/Modal Open/Final",
-    "Javascript/4. DOM Projects/Modal Open/Starter",
-    "Javascript/4. DOM Projects/Modal Open",
     "readme.md",
     "Javascript/4. DOM Projects/Guess My Number/Final/Javascript.md",
     "Javascript/4. DOM Projects/Guess My Number/Final/Javascript (pro).md",
     "Javascript/0. Pathways/Pathways.md",
-    "C++/3. Problem-solving",
     "C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
     "C++/1. Fundamentals/1. Hello Programming/2. How to computer works.md",
     "C++/1. Fundamentals/2. Data types/2.7 Type Convertion & Coersion.md",
@@ -179,7 +188,6 @@
     "C++/1. Fundamentals/2. Data types/2.4 String.md",
     "C++/1. Fundamentals/2. Data types/2.3 Double.md",
     "C++/1. Fundamentals/2. Data types/2.2 Float.md",
-    "C++/1. Fundamentals/2. Data types/2.1 Int.md",
     "Untitled.canvas"
   ]
 }
