@@ -11,14 +11,11 @@
             "id": "9b19a30db7632e12",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/0. Behind canvas.canvas",
-                "viewState": {
-                  "x": -721.1626608509796,
-                  "y": -715.616753496834,
-                  "zoom": -1.2222222222222223
-                }
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -84,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 221.5
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/0. Behind canvas.canvas",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/0. Behind canvas.canvas",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/0. Behind canvas.canvas"
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md"
               }
             }
           }
@@ -167,8 +164,9 @@
   },
   "active": "9b19a30db7632e12",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/0. Behind canvas.canvas",
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
     "Programming Hub/What is Function😍.pdf",
     "readme.md",
@@ -200,7 +198,6 @@
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.3 Double.md",
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.4 String.md",
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.5 Boolean.md",
-    "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.6 Char.md",
     "Programming Hub/Development/Browser/Tab links",
     "Programming Hub/Development/Browser/Extensions",
     "Untitled.canvas"
