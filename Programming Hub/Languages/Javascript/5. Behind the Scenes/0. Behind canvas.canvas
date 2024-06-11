@@ -1,14 +1,15 @@
 {
 	"nodes":[
-		{"id":"2eed18f70da51a69","x":25,"y":-512,"width":108,"height":50,"type":"text","text":"Node.js\n"},
-		{"id":"5fc831dd576a1ebb","type":"text","text":"Browsers\n","x":-180,"y":-512,"width":120,"height":50},
-		{"id":"f112f8bb840d5880","type":"text","text":"Environments for running JS code ","x":-180,"y":-640,"width":313,"height":70},
-		{"id":"46965642ccbad0e3","x":-148,"y":-420,"width":281,"height":60,"color":"1","type":"text","text":"How to execute a source code "},
-		{"id":"6d87f24626dc9db5","x":200,"y":-526,"width":400,"height":272,"type":"file","file":"Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md"}
+		{"id":"17e92d1bf7d07af8","type":"text","text":"# Javascript Runtime","x":-780,"y":-790,"width":300,"height":70,"color":"#e7e7e7"},
+		{"id":"27730615ba0b792d","type":"text","text":"## **Runtime API**\nAdditional libraries and APIs that provide functionalities such as file system access, network requests, and timers, which are not available in the basic JavaScript engine.","x":-780,"y":-1160,"width":300,"height":200,"color":"6"},
+		{"id":"bdeea0367d26a409","type":"text","text":"## **Javascript Engine**\nA JavaScript engine, like Google's V8, interprets, compiles, and executes JavaScript code. It parses the code into an AST, converts it to bytecode, and optimizes hot paths into machine code via JIT compilation. This process enhances performance and ensures efficient execution of JavaScript applications.","x":-820,"y":-560,"width":380,"height":280,"color":"1"},
+		{"id":"2a13df8afd3cccdb","type":"text","text":"## **Callback Queue**\nA queue that holds callbacks (functions to be executed) that are ready to be processed after asynchronous operations complete. The event loop pulls these callbacks into the call stack for execution when the stack is empty.","x":-1360,"y":-855,"width":400,"height":200,"color":"2"},
+		{"id":"2508fac0c567f711","type":"text","text":"## **Event Loop**\nThe event loop in JavaScript is a mechanism which manages asynchronous operations, ensuring tasks are executed efficiently without blocking the main thread, enabling responsiveness in applications.","x":-280,"y":-865,"width":340,"height":220,"color":"5"}
 	],
 	"edges":[
-		{"id":"14f28c368bd10326","fromNode":"f112f8bb840d5880","fromSide":"bottom","toNode":"5fc831dd576a1ebb","toSide":"top","label":"env"},
-		{"id":"237865578e5c4678","fromNode":"f112f8bb840d5880","fromSide":"bottom","toNode":"2eed18f70da51a69","toSide":"top","label":"env"},
-		{"id":"822b3121e79148dc","fromNode":"46965642ccbad0e3","fromSide":"right","toNode":"6d87f24626dc9db5","toSide":"left"}
+		{"id":"40f841770be504aa","fromNode":"17e92d1bf7d07af8","fromSide":"bottom","toNode":"bdeea0367d26a409","toSide":"top"},
+		{"id":"ed186d113b270988","fromNode":"17e92d1bf7d07af8","fromSide":"right","toNode":"2508fac0c567f711","toSide":"left"},
+		{"id":"5afb48653e941f97","fromNode":"17e92d1bf7d07af8","fromSide":"left","toNode":"2a13df8afd3cccdb","toSide":"right"},
+		{"id":"73abc09e71281231","fromNode":"17e92d1bf7d07af8","fromSide":"top","toNode":"27730615ba0b792d","toSide":"bottom"}
 	]
 }

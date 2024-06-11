@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "1ccf6681eee36979",
+        "id": "1159286ac8ea8170",
         "type": "tabs",
         "children": [
           {
-            "id": "866c91baac2c7c31",
+            "id": "9b19a30db7632e12",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/0. Behind canvas.canvas",
                 "viewState": {
-                  "x": 241.8333740234375,
-                  "y": -415.6666259765625,
-                  "zoom": 0
+                  "x": -721.1626608509796,
+                  "y": -715.616753496834,
+                  "zoom": -1.2222222222222223
                 }
+              }
+            }
+          },
+          {
+            "id": "9b25b0fd0fdfadc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -153,13 +165,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "866c91baac2c7c31",
+  "active": "9b19a30db7632e12",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/0. Behind canvas.canvas",
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
     "Programming Hub/What is Function😍.pdf",
     "readme.md",
-    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
-    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
     "JavaScript Runtime in Browser.md",
     "().md",
     "www.google.com.md",
