@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"2eed18f70da51a69","x":25,"y":-512,"width":108,"height":50,"type":"text","text":"Node.js\n"},
+		{"id":"5fc831dd576a1ebb","type":"text","text":"Browser\n","x":-180,"y":-512,"width":100,"height":50},
+		{"id":"f112f8bb840d5880","type":"text","text":"Environments","x":-120,"y":-640,"width":173,"height":70}
+	],
+	"edges":[
+		{"id":"14f28c368bd10326","fromNode":"f112f8bb840d5880","fromSide":"bottom","toNode":"5fc831dd576a1ebb","toSide":"top"},
+		{"id":"237865578e5c4678","fromNode":"f112f8bb840d5880","fromSide":"bottom","toNode":"2eed18f70da51a69","toSide":"top"}
+	]
+}
