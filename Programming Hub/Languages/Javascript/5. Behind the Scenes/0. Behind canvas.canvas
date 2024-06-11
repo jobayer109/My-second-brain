@@ -1,11 +1,14 @@
 {
 	"nodes":[
 		{"id":"2eed18f70da51a69","x":25,"y":-512,"width":108,"height":50,"type":"text","text":"Node.js\n"},
-		{"id":"5fc831dd576a1ebb","type":"text","text":"Browser\n","x":-180,"y":-512,"width":100,"height":50},
-		{"id":"f112f8bb840d5880","type":"text","text":"Environments","x":-120,"y":-640,"width":173,"height":70}
+		{"id":"5fc831dd576a1ebb","type":"text","text":"Browsers\n","x":-180,"y":-512,"width":120,"height":50},
+		{"id":"f112f8bb840d5880","type":"text","text":"Environments for running JS code ","x":-180,"y":-640,"width":313,"height":70},
+		{"id":"46965642ccbad0e3","x":-148,"y":-420,"width":281,"height":60,"color":"1","type":"text","text":"How to execute a source code "},
+		{"id":"6d87f24626dc9db5","x":200,"y":-526,"width":400,"height":272,"type":"file","file":"Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md"}
 	],
 	"edges":[
-		{"id":"14f28c368bd10326","fromNode":"f112f8bb840d5880","fromSide":"bottom","toNode":"5fc831dd576a1ebb","toSide":"top"},
-		{"id":"237865578e5c4678","fromNode":"f112f8bb840d5880","fromSide":"bottom","toNode":"2eed18f70da51a69","toSide":"top"}
+		{"id":"14f28c368bd10326","fromNode":"f112f8bb840d5880","fromSide":"bottom","toNode":"5fc831dd576a1ebb","toSide":"top","label":"env"},
+		{"id":"237865578e5c4678","fromNode":"f112f8bb840d5880","fromSide":"bottom","toNode":"2eed18f70da51a69","toSide":"top","label":"env"},
+		{"id":"822b3121e79148dc","fromNode":"46965642ccbad0e3","fromSide":"right","toNode":"6d87f24626dc9db5","toSide":"left"}
 	]
 }
