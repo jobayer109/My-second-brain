@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
+                "file": "Programming Hub/Languages/Javascript/0. Pathways/Pathways.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
+                "file": "Programming Hub/Languages/Javascript/0. Pathways/Pathways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
+                "file": "Programming Hub/Languages/Javascript/0. Pathways/Pathways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md"
+                "file": "Programming Hub/Languages/Javascript/0. Pathways/Pathways.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "9b19a30db7632e12",
   "lastOpenFiles": [
+    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/0. Behind canvas.canvas",
     "Personal/Plans/Routine.md",
     "Personal/Plans/hello draw.md",
@@ -191,7 +192,6 @@
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/JS Engine & Runtime",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes",
-    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Fun.md",
     "Programming Hub/Development/Github/Delete Commits.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function",
