@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76ef1a3926096a74",
+        "id": "f6601b8119d7b795",
         "type": "tabs",
         "children": [
           {
-            "id": "7605a211310a1e16",
+            "id": "ef97f7e2f25473c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/5. Primitive vs Reference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/5. Primitive vs Reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/5. Primitive vs Reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md"
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/5. Primitive vs Reference.md"
               }
             }
           },
@@ -158,8 +158,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7605a211310a1e16",
+  "active": "ef97f7e2f25473c2",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/5. Primitive vs Reference.md",
+    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md",
     "Personal/Plans/Routine.md",
     "Programming Hub/Languages/Javascript/0. Pathways/Pathways.md",
@@ -180,7 +182,6 @@
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/Hello.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/JS Engine & Runtime",
-    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Fun.md",
     "Programming Hub/Development/Github/Delete Commits.md",
@@ -194,7 +195,6 @@
     "Programming Hub/Languages/Javascript/2. Fundamentals 2/3. Function declaration vs expression.md",
     "Programming Hub/Languages/Javascript/2. Fundamentals 2/4. Arrow Function.md",
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.1 Int.md",
-    "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.2 Float.md",
     "Programming Hub/Development/Browser/Tab links",
     "Programming Hub/Development/Browser/Extensions",
     "Untitled.canvas"
