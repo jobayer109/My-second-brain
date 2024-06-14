@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/5. Primitive vs Reference.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/6. Hoisting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/5. Primitive vs Reference.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/6. Hoisting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/5. Primitive vs Reference.md",
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/6. Hoisting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/5. Primitive vs Reference.md"
+                "file": "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/6. Hoisting.md"
               }
             }
           },
@@ -160,9 +160,12 @@
   },
   "active": "ef97f7e2f25473c2",
   "lastOpenFiles": [
+    "Hoisting2.png",
+    "Hoisting1.png",
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/5. Primitive vs Reference.md",
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/6. Hoisting.md",
     "Primitive vs Ref examples.png",
     "Primitive vs Object.png",
-    "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/5. Primitive vs Reference.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md",
     "Personal/Plans/Routine.md",
@@ -195,7 +198,6 @@
     "Excalidraw/Drawing 2024-06-10 15.50.27.excalidraw.md",
     "Excalidraw",
     "Programming Hub/Languages/Javascript/2. Fundamentals 2/3. Function declaration vs expression.md",
-    "Programming Hub/Languages/Javascript/2. Fundamentals 2/4. Arrow Function.md",
     "Programming Hub/Development/Browser/Tab links",
     "Programming Hub/Development/Browser/Extensions",
     "Untitled.canvas"
