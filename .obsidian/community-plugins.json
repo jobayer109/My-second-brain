@@ -8,5 +8,6 @@
   "mousewheel-image-zoom",
   "homepage",
   "multi-column-markdown",
-  "editing-toolbar"
+  "editing-toolbar",
+  "execute-code"
 ]
