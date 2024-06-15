@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Personal/Homepage/Hello.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -167,8 +167,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "5069a14eb5c8410a",
   "lastOpenFiles": [
+    "cropped_image.jpg",
+    "cropped_image.png",
     "Resources/IMG20240511180943.jpg",
     "readme.md",
     "Personal/Homepage/Hello.md",
