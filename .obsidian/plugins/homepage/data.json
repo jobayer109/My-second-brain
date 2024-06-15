@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "Personal/Homepage/Homepage",
+      "value": "Personal/Homepage/Hello",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Keep open notes",
