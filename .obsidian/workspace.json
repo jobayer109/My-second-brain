@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8936ea10f628ddaa",
+        "id": "66eddd1946487e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "f69229d9b180596b",
+            "id": "21d25d2272c21dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Personal/Homepage/Homepage.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -167,10 +167,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f69229d9b180596b",
+  "active": "21d25d2272c21dc2",
   "lastOpenFiles": [
-    "Project Alpha.md",
     "Personal/Homepage/Homepage.md",
+    "Personal/Homepage/😍 Hello.md",
+    "Project Alpha.md",
     "Personal/Homepage/~syncthing~Homepage.md.tmp",
     "Personal/Homepage/Welcome To My Second Brain.md",
     "Programming Hub/Languages/Javascript/1. Frameworks",
@@ -210,7 +211,6 @@
     "Hello.md",
     "Programming Hub/Languages/Javascript/5. Behind the Scenes/1. JS Engine & Runtime.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime",
-    "Programming Hub/Languages/Javascript/5. Behind the Scenes/Hello.md",
-    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Fun.md"
+    "Programming Hub/Languages/Javascript/5. Behind the Scenes/Hello.md"
   ]
 }
