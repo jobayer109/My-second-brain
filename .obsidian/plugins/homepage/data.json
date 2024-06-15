@@ -2,10 +2,10 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "Programming Hub/Languages/Javascript/0. Pathways/Pathways",
+      "value": "Personal/Homepage/Homepage",
       "kind": "File",
       "openOnStartup": true,
-      "openMode": "Replace last note",
+      "openMode": "Keep open notes",
       "manualOpenMode": "Replace last note",
       "view": "Reading view",
       "revertView": true,
