@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "497cafe3cd852fae",
+        "id": "8936ea10f628ddaa",
         "type": "tabs",
         "children": [
           {
-            "id": "2161affe6567011c",
+            "id": "f69229d9b180596b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Personal/Homepage/Homepage.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -167,11 +167,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2161affe6567011c",
+  "active": "f69229d9b180596b",
   "lastOpenFiles": [
+    "Project Alpha.md",
+    "Personal/Homepage/Homepage.md",
     "Personal/Homepage/~syncthing~Homepage.md.tmp",
     "Personal/Homepage/Welcome To My Second Brain.md",
-    "Personal/Homepage/Homepage.md",
     "Programming Hub/Languages/Javascript/1. Frameworks",
     "Programming Hub/Languages/Javascript/0. Vanilla JS",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
