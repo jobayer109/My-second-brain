@@ -22,6 +22,8 @@
 
 ## 2. Execution Context
 - **Global Execution Context**
+  -  Default execution context is either `window` or, `Global`
+  - Whenever we declare anything in `global` / `window` scope is automatically attached with the  `global` / `window` object.
   - Created <font color="#ffff00">before</font> any code is executed.
   - Includes global object 
 	  - `window` in browsers, `global` in Node.js, 
@@ -36,9 +38,13 @@
     ```
   
 - **Function Execution Context**
-  - Created each time a function is called.
-  - Includes local variables, arguments, `this`, and a reference to the outer environment.
-  - Example:
+  - Created each time a ***function is called***.
+  - Whenever we call a function it will get a brand new context / scope of its own.
+  - Includes `local variables`, `arguments`, `this`, and a `reference` to the outer environment.
+	  1. **Local Variables**:
+		- These are variables declared within the function using `var`, `let`, or `const`.
+        - Local variables are accessible only within the function's scope and cannot be accessed from outside the function.
+	   2. 
     ```javascript
     function multiply(a, b) {
       let result = a * b;

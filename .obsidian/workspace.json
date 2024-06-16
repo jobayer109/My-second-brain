@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "733a9e8bcf4b845e",
+            "id": "673a7787cee3ca8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Mind map.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d33ced0f020daf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -218,12 +206,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "733a9e8bcf4b845e",
+  "active": "673a7787cee3ca8c",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Mind map.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
     "Personal/Homepage/Hello.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/0.2 History.md",
