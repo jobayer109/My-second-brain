@@ -26,7 +26,7 @@
 - #### Global Execution Context
   -  Default execution context is either `window` or, `Global`
   - Whenever we declare anything in `global` / `window` scope is automatically attached with the  `global` / `window` object.
-  - Created <font color="#ffff00">before</font> any code is executed.
+  - Created before any code is executed.
   - Includes global object 
 	  - `window` in browsers, `global` in Node.js, 
 	  - `scope chain` and 
@@ -65,11 +65,10 @@
 
 ---
 
-## 3. Execution Phase
+# 3. Execution Phase ( 2 phases)
 - **Creation Phase**
-  - **Global Object Setup**: Sets up global variables and functions.
-  - **Hoisting**: Variables are declared but not initialized until runtime.
-  - Example:
+  - **Global Object Setup**: During this phase, JavaScript sets up global variables and functions that are declared in the code. This includes allocating memory for these variables and functions.
+  - **Hoisting**: Variables and functions are declared throughout the code but are not yet initialized with values. Instead, JavaScript hoists (moves) these declarations to the top of their respective scopes during compilation.
     ```javascript
     console.log(x); // undefined
     var x = 5;
@@ -77,9 +76,16 @@
     ```
 
 - **Execution Phase**
-  - Executes code line by line within function contexts.
-  - Manages the call stack and updates variable values.
-  - Example:
+  After the Creation Phase in JavaScript's execution, the program moves on to the Execution Phase. Here’s what happens during the Execution Phase:
+
+	1. **Initialization of Variables and Functions**:
+        - During the Execution Phase, variables are initialized (assigned values) and functions are executed.
+       
+	1. **Top-to-Bottom Execution**:
+        - JavaScript executes the code line by line from top to bottom. This includes evaluating expressions, invoking functions, and assigning values to variables.
+
+    3. **Function Calls and Stack Management**:
+        - When a function is called, a new function execution context is created and pushed onto the Call Stack. This context includes local variables, arguments, and a reference to the outer environment (lexical scope).
     ```javascript
     function foo() {
       console.log("Hello");
