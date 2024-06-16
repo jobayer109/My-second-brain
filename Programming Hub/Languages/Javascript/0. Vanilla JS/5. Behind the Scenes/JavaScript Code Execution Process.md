@@ -1,9 +1,8 @@
-# JS Code Execution Process
+# JavaScript Runtime
 
 ## 1. Parsing
 - **Lexical Analysis (Tokenization)**
   - Converts source code into tokens (keywords, identifiers, operators).
-  - Example:
     ```javascript
     let x = 10;
     // Tokens: [let, x, =, 10, ;]
@@ -11,7 +10,6 @@
 
 - **Syntactic Analysis (Parsing)**
   - Converts tokens into an Abstract Syntax Tree (AST).
-  - Example:
     ```plaintext
     Program
     ├── VariableDeclaration
@@ -27,7 +25,7 @@
   -  Default execution context is either `window` or, `Global`
   - Whenever we declare anything in `global` / `window` scope is automatically attached with the  `global` / `window` object.
   - Created before any code is executed.
-  - Includes global object 
+   - Includes global object 
 	  - `window` in browsers, `global` in Node.js, 
 	  - `scope chain` and 
 	  - `this` binding.
@@ -94,11 +92,14 @@
     ```
 
 
-## 4. Call Stack
+## 4. JavaScript Engine (V8)
+### Call Stack
 - **Definition**
-  - A stack data structure that stores function calls.
+  - The call stack keeps track of the execution context of functions in JavaScript.
   - Follows Last In, First Out (LIFO) principle.
-  - Example:
+  - When a function is called, it is added to the top of the stack.
+  - The interpreter executes the function at the top of the stack.
+  - Functions are removed from the stack when they complete execution.
     ```javascript
     function first() {
       console.log("First");
@@ -111,7 +112,7 @@
     // Call Stack: [first()] -> [first(), second()] -> [first()] -> []
     ```
 
-## 5. Memory Heap
+### Heap Memory
 - **Definition**
   - Allocates memory for variables and objects.
   - Handles memory allocation and deallocation.
@@ -121,9 +122,7 @@
     ```
 
 - **Garbage Collection**
-  - Automatically frees memory no longer in use.
-  - Uses algorithms like Mark-and-Sweep.
-  - Example:
+  - When JavaScript no longer has any references to a particular object or data stored in the heap, it considers that memory as no longer needed. Periodically, the garbage collector runs to identify such unused memory (garbage) and reclaim it, freeing up space in the heap for new allocations.
     ```javascript
     let obj = { name: "John" };
     obj = null; // 'obj' is eligible for garbage collection.
