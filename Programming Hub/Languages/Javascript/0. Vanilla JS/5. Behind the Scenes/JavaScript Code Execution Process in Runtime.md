@@ -246,14 +246,12 @@ Promise.resolve().then(() => {
 });
 
 console.log("End");
-**Expected Output**:
 ```
 **Expected Output**:
 ```
 Script start
 Script end
-Microtask 
+Microtask
 Timeout
 ```
-
----
+![[JS runtime pro.png]]
