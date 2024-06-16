@@ -20,8 +20,10 @@
     │       └── NumericLiteral: 10
     ```
 
-## 2. Execution Context
-- **Global Execution Context**
+---
+
+# 2. Execution Context
+- #### Global Execution Context
   -  Default execution context is either `window` or, `Global`
   - Whenever we declare anything in `global` / `window` scope is automatically attached with the  `global` / `window` object.
   - Created <font color="#ffff00">before</font> any code is executed.
@@ -37,14 +39,22 @@
     foo();
     ```
   
-- **Function Execution Context**
+- #### Function Execution Context
   - Created each time a ***function is called***.
   - Whenever we call a function it will get a brand new context / scope of its own.
   - Includes `local variables`, `arguments`, `this`, and a `reference` to the outer environment.
 	  1. **Local Variables**:
-		- These are variables declared within the function using `var`, `let`, or `const`.
         - Local variables are accessible only within the function's scope and cannot be accessed from outside the function.
-	   2. 
+	   2. **Arguments**:
+        - Function arguments can be accessed either through the `arguments` object (applicable in non-strict mode) or directly via named parameters declared within the function.
+       3. **`this` Binding**:
+		- `this` এর মাধ্যমে ফাংশন কোথায় ও কীভাবে কল হচ্ছে তা নির্ধারণ করা হয়। ফাংশন যে কনটেক্সটে কল হচ্ছে, সে কনটেক্সটের অনুসারে `this` এর মান পরিবর্তিত হয়।
+		- Its value depends on how the function is called:
+		    - <font color="#00b050">In non-method functions (regular functions)</font>, `this` refers to the  `window` / `global` object in non-strict mode.
+			- <font color="#00b050">In strict mode</font>, `this` is `undefined` if the function is not called inside another function.
+			- <font color="#00b050">In method functions (functions defined as object properties)</font>, `this` refers to the object that owns the method when the method is called.
+	   4. **Reference to the Outer Environment**: This refers to the lexical scope in which the function was declared. It allows functions to access variables from their containing (outer) scope, even after the outer function has finished execution.
+	   
     ```javascript
     function multiply(a, b) {
       let result = a * b;
@@ -52,6 +62,8 @@
     }
     let product = multiply(3, 4);
     ```
+
+---
 
 ## 3. Execution Phase
 - **Creation Phase**
