@@ -93,7 +93,8 @@
     foo(); // Output: "Hello"
     ```
 
-## 4. Call Stack
+
+# 4. Call Stack
 - **Definition**
   - A stack data structure that stores function calls.
   - Follows Last In, First Out (LIFO) principle.
@@ -110,7 +111,7 @@
     // Call Stack: [first()] -> [first(), second()] -> [first()] -> []
     ```
 
-## 5. Memory Heap
+# 5. Memory Heap
 - **Definition**
   - Allocates memory for variables and objects.
   - Handles memory allocation and deallocation.
@@ -128,7 +129,7 @@
     obj = null; // 'obj' is eligible for garbage collection.
     ```
 
-## 6. Web APIs
+# 6. Web APIs
 - **Definition**
   - Browser-provided APIs for asynchronous tasks (DOM manipulation, timers).
   - Executes tasks outside JavaScript engine.
@@ -139,7 +140,7 @@
     }, 1000);
     ```
 
-## 7. Queues (Microtask Queue and Macrotask Queue)
+# 7. Queues (Microtask Queue and Macrotask Queue)
 - **Microtask Queue**
   - Stores microtasks (Promise callbacks, `process.nextTick`).
   - Executes before the next macrotask.
@@ -156,7 +157,7 @@
     setTimeout(() => console.log("Macrotask"), 0);
     ```
 
-## 8. Event Loop
+# 8. Event Loop
 - **Definition**
   - Monitors the call stack and queues.
   - Executes tasks from the queue when the call stack is empty.
@@ -179,7 +180,7 @@
     // Output: "Start", "End", "Timeout"
     ```
 
-### Complete Example
+# Complete Example
 ```javascript
 console.log("Start");
 
