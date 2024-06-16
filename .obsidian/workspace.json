@@ -18,30 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "14f958c5adfe35dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43becf715ccf2ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -208,11 +184,11 @@
   },
   "active": "673a7787cee3ca8c",
   "lastOpenFiles": [
-    "Resources/JS runtime pro.png",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/JavaScript Code Execution Process in Runtime.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/JavaScript Code Execution Process in Runtime.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
+    "Resources/JS runtime pro.png",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
     "Personal/Homepage/Hello.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/0.2 History.md",
@@ -227,7 +203,6 @@
     "Resources/JS Runtime2.png",
     "Resources/JS runtime.png",
     "Resources/JIT.png",
-    "Resources/Hoisting2.png",
     "readme.md",
     "Project Alpha.md",
     "Personal/Homepage/😍 Hello.md",

@@ -1,6 +1,7 @@
-# JavaScript Runtime
 
-## 1. Parsing
+![[JS runtime pro.png]]
+
+# 1. Parsing
 - **Lexical Analysis (Tokenization)**
   - Converts source code into tokens (keywords, identifiers, operators).
     ```javascript
@@ -18,17 +19,21 @@
     │       └── NumericLiteral: 10
     ```
 
+
+
 ---
 
-## 2. Execution Context
+
+# 2. Execution Context
 - #### Global Execution Context
   -  Default execution context is either `window` or, `Global`
   - Whenever we declare anything in `global` / `window` scope is automatically attached with the  `global` / `window` object.
   - Created before any code is executed.
    - Includes global object 
-	  - `window` in browsers, `global` in Node.js, 
-	  - `scope chain` and 
-	  - `this` binding.
+	   - `window` in browsers, `global` in Node.js,
+	   - `scope chain` and 
+	   - `this` binding.
+	
     ```javascript
     let x = 10;
     function foo() {
@@ -38,7 +43,7 @@
     ```
   
 - #### Function Execution Context
-  - Created each time a ***function is called***.
+  - Created each time a **function is called**.
   - Whenever we call a function it will get a brand new context / scope of its own.
   - Includes `local variables`, `arguments`, `this`, and a `reference` to the outer environment.
 	  1. **Local Variables**:
@@ -46,25 +51,20 @@
 	   2. **Arguments**:
         - Function arguments can be accessed either through the `arguments` object (applicable in non-strict mode) or directly via named parameters declared within the function.
        3. **`this` Binding**:
-		- `this` এর মাধ্যমে ফাংশন কোথায় ও কীভাবে কল হচ্ছে তা নির্ধারণ করা হয়। ফাংশন যে কনটেক্সটে কল হচ্ছে, সে কনটেক্সটের অনুসারে `this` এর মান পরিবর্তিত হয়।
-		- Its value depends on how the function is called:
-		    - <font color="#00b050">In non-method functions (regular functions)</font>, `this` refers to the  `window` / `global` object in non-strict mode.
-			- <font color="#00b050">In strict mode</font>, `this` is `undefined` if the function is not called inside another function.
-			- <font color="#00b050">In method functions (functions defined as object properties)</font>, `this` refers to the object that owns the method when the method is called.
+	        - `this` defines where and how the function is being called. The value of `this` varies according to the context in which the function is being called.
+	        - Its value depends on how the function is called:
+		        - <font color="#00b050">In non-method functions (regular functions)</font>, `this` refers to the  `window` / `global` object in non-strict mode.
+		        - <font color="#00b050">In strict mode</font>, `this` is `undefined` if the function is not called inside another function.
+		        - <font color="#00b050">In method functions (functions defined as object properties)</font>, `this` refers to the object that owns the method when the method is called.
+		
 	   4. **Reference to the Outer Environment**: This refers to the lexical scope in which the function was declared. It allows functions to access variables from their containing (outer) scope, even after the outer function has finished execution.
-	   
-    ```javascript
-    function multiply(a, b) {
-      let result = a * b;
-      return result;
-    }
-    let product = multiply(3, 4);
-    ```
+
 
 ---
 
-## 3. Execution Phase ( 2 phases)
-- **Creation Phase**
+
+# 3. Execution Phase ( 2 phases)
+- ##### Creation Phase
   - **Global Object Setup**: During this phase, JavaScript sets up global variables and functions that are declared in the code. This includes allocating memory for these variables and functions.
   - **Hoisting**: Variables and functions are declared throughout the code but are not yet initialized with values. Instead, JavaScript hoists (moves) these declarations to the top of their respective scopes during compilation.
     ```javascript
@@ -73,7 +73,7 @@
     console.log(x); // 5
     ```
 
-- **Execution Phase**
+- #####  Execution Phase
   After the Creation Phase in JavaScript's execution, the program moves on to the Execution Phase. Here’s what happens during the Execution Phase:
 
 	1. **Initialization of Variables and Functions**:
@@ -92,7 +92,10 @@
     ```
 
 
-## 4. JavaScript Engine (**V8 and others**)
+---
+
+
+# 4. JavaScript Engine (**V8 and others**)
 ### Call Stack
   - <span style="background:rgba(5, 117, 197, 0.2)">The call stack keeps track of the execution context of functions in JavaScript and follows the Last In, First Out (LIFO) principle.</span>
   - <span style="background:rgba(240, 200, 0, 0.2)">Primitive values (e.g., numbers, strings, Booleans, null, undefined) are stored directly in the call stack.</span>
@@ -130,9 +133,11 @@
     obj = null; // 'obj' is eligible for garbage collection.
     ```
 
+
 ---
 
-## 5. Web APIs
+
+# 5. Web APIs
   - Web APIs are not technically part of the JavaScript language itself.
   - Browser-provided APIs for asynchronous tasks (<font color="#00b0f0">DOM manipulation, timers, Geolocations, fetch, Canvas, Web storage, WebSocket, Notifications, History</font>).
   - Executes tasks outside JavaScript engine.
@@ -155,7 +160,7 @@
 8. **History API**
     - Manipulates the browser session history.
 
-## 6. Queues (*Microtask Queue and MacroTask Queue*)
+# 6. Queues ( Microtask Queue and MacroTask Queue )
    - JavaScript manages asynchronous operations using two types of queues: the Microtask Queue and the Macrotask Queue. Understanding these queues helps in writing efficient asynchronous code.
 
 #####      Microtask Queue
@@ -208,9 +213,11 @@ Macrotask 1
 Macrotask 2
 ```
 
+
 ---
 
-## 7. Event Loop
+
+# 7. Event Loop
 - **Definition**
   - Monitors the call stack and queues.
   - Executes tasks from the queue when the call stack is empty.
@@ -233,25 +240,3 @@ Macrotask 2
     // Output: "Start", "End", "Timeout"
     ```
 
-## Complete Example
-```javascript
-console.log("Start");
-
-setTimeout(() => {
-  console.log("Timeout");
-}, 0);
-
-Promise.resolve().then(() => {
-  console.log("Microtask");
-});
-
-console.log("End");
-```
-**Expected Output**:
-```
-Script start
-Script end
-Microtask
-Timeout
-```
-![[JS runtime pro.png]]
