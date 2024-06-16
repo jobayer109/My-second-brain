@@ -92,7 +92,7 @@
     ```
 
 
-## 4. JavaScript Engine (V8)
+## 4. JavaScript Engine (**V8 and others**)
 ### Call Stack
   - <span style="background:rgba(5, 117, 197, 0.2)">The call stack keeps track of the execution context of functions in JavaScript and follows the Last In, First Out (LIFO) principle.</span>
   - <span style="background:rgba(240, 200, 0, 0.2)">Primitive values (e.g., numbers, strings, Booleans, null, undefined) are stored directly in the call stack.</span>
@@ -132,18 +132,30 @@
 
 ---
 
-## 6. Web APIs
-- **Definition**
-  - Browser-provided APIs for asynchronous tasks (DOM manipulation, timers).
+## 5. Web APIs
+  - Web APIs are not technically part of the JavaScript language itself.
+  - Browser-provided APIs for asynchronous tasks (<font color="#00b0f0">DOM manipulation, timers, Geolocations, fetch, Canvas, Web storage, WebSocket, Notifications, History</font>).
   - Executes tasks outside JavaScript engine.
-  - Example:
-    ```javascript
-    setTimeout(() => {
-      console.log("Timeout");
-    }, 1000);
-    ```
 
-## 7. Queues (Microtask Queue and Macrotask Queue)
+1. **DOM (Document Object Model) API**
+    - Allows interaction with and manipulation of HTML and CSS.
+    - Key methods: `getElementById`, `querySelector`, `createElement`, `addEventListener`.
+2. **Fetch API**
+    - Modern method to make HTTP requests.
+3. **Geolocation API**
+    - Accesses the geographical location of the user.
+4. **Canvas API**
+    - Draws graphics via JavaScript and the HTML `<canvas>` element.
+5. **Web Storage API**
+    - Stores data on the client side with `localStorage` and `sessionStorage`.
+6. **WebSocket API**
+    - Opens a persistent connection for real-time communication.
+7. **Notifications API**
+    - Sends notifications displayed outside the browser.
+8. **History API**
+    - Manipulates the browser session history.
+
+## 6. Queues (Microtask Queue and MacroTask Queue)
 - **Microtask Queue**
   - Stores microtasks (Promise callbacks, `process.nextTick`).
   - Executes before the next macrotask.
@@ -160,7 +172,7 @@
     setTimeout(() => console.log("Macrotask"), 0);
     ```
 
-## 8. Event Loop
+## 7. Event Loop
 - **Definition**
   - Monitors the call stack and queues.
   - Executes tasks from the queue when the call stack is empty.
