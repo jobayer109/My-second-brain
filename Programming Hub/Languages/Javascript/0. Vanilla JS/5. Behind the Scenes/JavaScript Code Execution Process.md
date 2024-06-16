@@ -156,21 +156,59 @@
     - Manipulates the browser session history.
 
 ## 6. Queues (Microtask Queue and MacroTask Queue)
-- **Microtask Queue**
-  - Stores microtasks (Promise callbacks, `process.nextTick`).
-  - Executes before the next macrotask.
-  - Example:
-    ```javascript
-    Promise.resolve().then(() => console.log("Microtask"));
-    ```
+   - JavaScript manages asynchronous operations using two types of queues: the Microtask Queue and the Macrotask Queue. Understanding these queues helps in writing efficient asynchronous code.
 
-- **Macrotask Queue (Task Queue)**
-  - Stores macrotasks (setTimeout, setInterval, I/O operations).
-  - Executes after the microtask queue is empty.
-  - Example:
-    ```javascript
-    setTimeout(() => console.log("Macrotask"), 0);
-    ```
+#####      Microtask Queue
+- **Purpose**: Handles tasks that need to be executed immediately after the current script execution.
+- **Common Microtasks**: Promise callbacks, `process.nextTick` (Node.js).
+- **Execution Order**: Microtasks are processed before any macrotasks.
+
+  ```javascript
+  Promise.resolve().then(() => console.log("Microtask"));
+  ```
+
+#####      Macrotask Queue (Task Queue)
+- **Purpose**: Handles tasks that can be deferred and executed after the current script and all microtasks are completed.
+- **Common Macrotasks**: `setTimeout`, `setInterval`, I/O operations.
+- **Execution Order**: Macrotasks are processed after the microtask queue is empty.
+
+  ```javascript
+  setTimeout(() => console.log("Macrotask"), 2);
+  ```
+
+##### Execution Flow Example
+```javascript
+console.log("Script start");
+
+setTimeout(() => {
+  console.log("Macrotask 1");
+}, 0);
+
+Promise.resolve().then(() => {
+  console.log("Microtask 1");
+});
+
+Promise.resolve().then(() => {
+  console.log("Microtask 2");
+});
+
+setTimeout(() => {
+  console.log("Macrotask 2");
+}, 0);
+
+console.log("Script end");
+```
+**Expected Output**:
+```
+Script start
+Script end
+Microtask 1
+Microtask 2
+Macrotask 1
+Macrotask 2
+```
+
+---
 
 ## 7. Event Loop
 - **Definition**
