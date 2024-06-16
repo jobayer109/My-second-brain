@@ -155,7 +155,7 @@
 8. **History API**
     - Manipulates the browser session history.
 
-## 6. Queues (Microtask Queue and MacroTask Queue)
+## 6. Queues (*Microtask Queue and MacroTask Queue*)
    - JavaScript manages asynchronous operations using two types of queues: the Microtask Queue and the Macrotask Queue. Understanding these queues helps in writing efficient asynchronous code.
 
 #####      Microtask Queue
@@ -214,7 +214,7 @@ Macrotask 2
 - **Definition**
   - Monitors the call stack and queues.
   - Executes tasks from the queue when the call stack is empty.
-  - Example:
+  
     ```javascript
     console.log("Start");
     setTimeout(() => console.log("Timeout"), 0);
@@ -225,7 +225,7 @@ Macrotask 2
 - **Process**
   - Checks call stack.
   - Processes microtasks before macrotasks.
-  - Example:
+  
     ```javascript
     console.log("Start");
     setTimeout(() => console.log("Timeout"), 0);
@@ -246,3 +246,14 @@ Promise.resolve().then(() => {
 });
 
 console.log("End");
+**Expected Output**:
+```
+**Expected Output**:
+```
+Script start
+Script end
+Microtask 
+Timeout
+```
+
+---
