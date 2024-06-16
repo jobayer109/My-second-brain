@@ -94,12 +94,11 @@
 
 ## 4. JavaScript Engine (V8)
 ### Call Stack
-- **Definition**
-  - The call stack keeps track of the execution context of functions in JavaScript.
-  - Follows Last In, First Out (LIFO) principle.
-  - When a function is called, it is added to the top of the stack.
-  - The interpreter executes the function at the top of the stack.
-  - Functions are removed from the stack when they complete execution.
+  - <span style="background:rgba(5, 117, 197, 0.2)">The call stack keeps track of the execution context of functions in JavaScript and follows the Last In, First Out (LIFO) principle.</span>
+  - <span style="background:rgba(240, 200, 0, 0.2)">Primitive values (e.g., numbers, strings, Booleans, null, undefined) are stored directly in the call stack.</span>
+  - <span style="background:rgba(5, 117, 197, 0.2)">When a function is called, it is added to the top of the stack, and the interpreter executes the function at the top.</span>
+  - <span style="background:rgba(240, 200, 0, 0.2)">Functions are removed from the stack when they complete execution.</span>
+
     ```javascript
     function first() {
       console.log("First");
@@ -113,20 +112,25 @@
     ```
 
 ### Heap Memory
-- **Definition**
-  - Allocates memory for variables and objects.
-  - Handles memory allocation and deallocation.
-  - Example:
+- <span style="background:rgba(5, 117, 197, 0.2)">The heap is where JavaScript allocates memory for objects and complex data structures like arrays.</span>
+- <span style="background:rgba(240, 200, 0, 0.2)">Memory allocation in the heap is less structured compared to the call stack, allowing for more flexible storage.</span>
+- <span style="background:rgba(5, 117, 197, 0.2)">When you create an object or array, JavaScript allocates memory in the heap and stores a reference to it in the call stack.</span>
+
     ```javascript
     let obj = { name: "John", age: 30 };
     ```
 
-- **Garbage Collection**
-  - When JavaScript no longer has any references to a particular object or data stored in the heap, it considers that memory as no longer needed. Periodically, the garbage collector runs to identify such unused memory (garbage) and reclaim it, freeing up space in the heap for new allocations.
+##### Garbage Collection
+  - JavaScript uses garbage collection to manage memory automatically.
+  - When there are no more references to an object or data stored in the heap, JavaScript marks that memory as no longer needed.
+  - Periodically, the garbage collector runs to identify and reclaim unused memory, freeing up space in the heap for new allocations.
+
     ```javascript
     let obj = { name: "John" };
     obj = null; // 'obj' is eligible for garbage collection.
     ```
+
+---
 
 ## 6. Web APIs
 - **Definition**
