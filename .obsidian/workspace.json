@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9b15786d94e789c4",
+        "id": "49e070b8b573cb0c",
         "type": "tabs",
         "children": [
           {
-            "id": "7e144724592140a4",
+            "id": "aba494dfa48d87ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 227.5
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md"
               }
             }
           },
@@ -182,10 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e144724592140a4",
+  "active": "aba494dfa48d87ea",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Parameters.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Parameters.md",
     "Programming Hub/Languages/Javascript/Interview Questions/JS Runtime.md",
     "Programming Hub/Languages/Javascript/Interview Questions",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md",
@@ -231,7 +232,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/0. Topics/0. Topics.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/0. Topics",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
-    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md"
+    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md"
   ]
 }
