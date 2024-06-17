@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Para.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Para.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Para.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Para.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md"
               }
             }
           },
@@ -184,7 +184,8 @@
   },
   "active": "7e144724592140a4",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Para.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Parameters.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
     "Programming Hub/Languages/Javascript/Interview Questions/JS Runtime.md",
     "Programming Hub/Languages/Javascript/Interview Questions",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md",
@@ -231,7 +232,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/0. Topics",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md",
-    "Personal/Plans/Routine.md"
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md"
   ]
 }
