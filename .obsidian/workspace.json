@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md",
-                "mode": "preview",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   "active": "7e3460ddbe301426",
   "lastOpenFiles": [
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
     "Resources/JS runtime pro.png",
