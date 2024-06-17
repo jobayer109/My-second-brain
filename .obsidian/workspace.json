@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49e070b8b573cb0c",
+        "id": "747979488fc3cceb",
         "type": "tabs",
         "children": [
           {
-            "id": "aba494dfa48d87ea",
+            "id": "7eaa7cdc296bff8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,8 +182,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aba494dfa48d87ea",
+  "active": "7eaa7cdc296bff8e",
   "lastOpenFiles": [
+    "Resources/First class vs Higher order.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Parameters.md",
@@ -231,7 +232,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/6. Hoisting.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/0. Topics/0. Topics.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/0. Topics",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
-    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md"
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas"
   ]
 }

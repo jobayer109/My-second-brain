@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Homepage/Homepage.md",
-                "mode": "preview",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/JavaScript Code Execution Process in Runtime.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personal/Homepage/Homepage.md",
+            "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/JavaScript Code Execution Process in Runtime.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Personal/Homepage/Homepage.md",
+            "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/JavaScript Code Execution Process in Runtime.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Personal/Homepage/Homepage.md"
+            "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/JavaScript Code Execution Process in Runtime.md"
           }
         }
       }
@@ -130,7 +130,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
