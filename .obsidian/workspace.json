@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5aabb703543ee1c2",
+        "id": "390d7801ee7e1c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "7e3460ddbe301426",
+            "id": "9eb9dc1b02dd89ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md",
+                "file": "Programming Hub/Languages/Javascript/Interview Questions/JS Runtime.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md",
+                "file": "Programming Hub/Languages/Javascript/Interview Questions/JS Runtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md",
+                "file": "Programming Hub/Languages/Javascript/Interview Questions/JS Runtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md"
+                "file": "Programming Hub/Languages/Javascript/Interview Questions/JS Runtime.md"
               }
             }
           },
@@ -182,10 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7e3460ddbe301426",
+  "active": "9eb9dc1b02dd89ff",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md",
+    "Programming Hub/Languages/Javascript/Interview Questions/JS Runtime.md",
+    "Programming Hub/Languages/Javascript/Interview Questions",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
     "Resources/JS runtime pro.png",
@@ -230,8 +232,6 @@
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md",
     "Personal/Plans/Routine.md",
-    "Personal/Plans/hello draw.md",
-    "JavaScript Runtime in Browser.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime"
+    "Personal/Plans/hello draw.md"
   ]
 }
