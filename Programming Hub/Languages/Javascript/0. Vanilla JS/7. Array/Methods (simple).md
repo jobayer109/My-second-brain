@@ -1,9 +1,7 @@
-## JavaScript Array Methods: `slice`, `splice`, `reverse`, এবং `join`
+## Array Methods: `slice`, `splice`, `reverse`, & `join`
 
 ### 1. `slice()`
-
-**বর্ণনা:**
-`slice()` method একটি নতুন array object-এ একটি অংশের shallow copy ফেরত দেয়, যা `start` থেকে `end` (end অন্তর্ভুক্ত নয়) পর্যন্ত নির্বাচিত হয়। মূল array পরিবর্তন হয় না।
+`slice()` method মূল array এর একটি  shallow copy তৈরী করে,  মূল array কে পরিবর্তন করেনা।
 
 **Syntax:**
 ```javascript
