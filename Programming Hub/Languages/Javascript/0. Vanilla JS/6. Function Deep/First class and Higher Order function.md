@@ -101,5 +101,16 @@ console.log(sayHello("Alice")); // Output: "Hello, Alice!"
 console.log(sayGoodbye("Bob")); // Output: "Goodbye, Bob!"
 ```
 
+### Explanation
+
+1. **`callFunctions(...funcs)`**:
+   - This higher-order function takes a variable number of functions as arguments (`...funcs`).
+   - It returns a new function that takes any number of arguments (`...args`).
+   - Inside the returned function, it maps over each function in `funcs` and calls it with the provided arguments, returning the results in an array.
+
+2. **`createGreeting(greeting)`**:
+   - This higher-order function takes a `greeting` string as an argument.
+   - It returns a new function that takes a `name` as an argument and returns a greeting message using the provided `greeting` and `name`.
+
 
 ---
