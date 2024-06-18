@@ -20,6 +20,8 @@ There are **two** common ways to write an IIFE:
 - **Encapsulation:** IIFEs help to encapsulate variables and functions within their scope, preventing them from polluting the global scope.
 - **Execution:** They are executed immediately after they are created, without needing to be called separately.
 
+---
+
 ### Practical Use Cases
 
 **1. Avoiding Global Variable Pollution:**
@@ -34,6 +36,7 @@ IIFEs are useful for avoiding global variable pollution. By wrapping code in an 
    ```
 
 ---
+
 **2. Creating Module Pattern:**
 IIFEs are often used to create modules in JavaScript. This pattern allows you to create private and public variables and methods, emulating the concept of classes and encapsulation.
 
@@ -59,6 +62,8 @@ IIFEs are often used to create modules in JavaScript. This pattern allows you to
    console.log(myModule.privateVar); // undefined
    ```
 
+---
+
 **3. Loop Iteration Variables:**
 IIFEs are handy in loops to create a new scope for each iteration variable, avoiding unexpected behaviors caused by closures.
 
@@ -73,6 +78,8 @@ IIFEs are handy in loops to create a new scope for each iteration variable, avoi
    // Output after 1 second: 0, 1, 2
    ```
 
+---
+
 **4. Initializing Code:**
 IIFEs can be used to initialize code that needs to run immediately and only once.
 
@@ -83,4 +90,6 @@ IIFEs can be used to initialize code that needs to run immediately and only once
    })();
    // Output: Initialization code running
    ```
+
+---
 
