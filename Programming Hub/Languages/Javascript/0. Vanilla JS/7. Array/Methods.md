@@ -1,4 +1,14 @@
 ## Array Methods: `slice`, `splice`, `reverse`, & `join`
+---
+
+| Method    | Mutability | Description                                                           | Practical Use Case                                    |
+| --------- | ---------- | --------------------------------------------------------------------- | ----------------------------------------------------- |
+| `slice`   | Immutable  | মূল array-এর একটি shallow copy তৈরী করে ।                             | মৌলিক array পরিবর্তন না করেই subarrays বের করার জন্য। |
+| `splice`  | Mutable    | উপাদানগুলো মুছে ফেলে, প্রতিস্থাপন করে, বা যোগ করে array পরিবর্তন করে। | array-তে উপাদান insert, remove, বা replace করার জন্য। |
+| `reverse` | Mutable    | array-এর উপাদানগুলি উল্টায়।                                          | উপাদানগুলির ক্রম উল্টানোর জন্য।                       |
+| `join`    | Immutable  | একটি string-এ array-এর সমস্ত উপাদান যুক্ত করে।                        | array-এর উপাদানগুলি থেকে একটি string তৈরির জন্য।      |
+
+---
 
 ### 1. `slice()`
 `slice()` method মূল array এর একটি  shallow copy তৈরী করে,  মূল array কে পরিবর্তন করেনা।
@@ -54,8 +64,6 @@ console.log(removed); // [3, 4]
 ---
 
 ### 3. `reverse()`
-
-**বর্ণনা:**
 `reverse()` method array-এর উপাদানগুলি উল্টানো হয়। প্রথম array উপাদানটি শেষ উপাদান হয়ে যায় এবং শেষ array উপাদানটি প্রথম উপাদান হয়ে যায়।
 
 **Syntax:**
@@ -64,23 +72,23 @@ array.reverse();
 ```
 
 **Parameters:**
-- None
+- None; অর্থাৎ কোনো প্যারামিটার প্রয়োজন নেই।
 
 **Mutability:**
 - Mutable: মূল array পরিবর্তিত হয়।
 
 **Use Case:**
-array-এর উপাদানগুলির ক্রম উল্টানোর জন্য।
+>array-এর উপাদানগুলির ক্রম উল্টানোর জন্য।
 ```javascript
 let numbers = [1, 2, 3, 4, 5];
 numbers.reverse();
 console.log(numbers); // [5, 4, 3, 2, 1]
 ```
 
-### 4. `join()`
+---
 
-**বর্ণনা:**
-`join()` method একটি string-এ array-এর সমস্ত উপাদান যুক্ত করে এবং এই string ফেরত দেয়। আপনি একটি separator string উল্লেখ করতে পারেন যা প্রতিটি উপাদানকে আলাদা করবে।
+### 4. `join()`
+`join()` method একটি string-এ array-এর সমস্ত উপাদানগুলিকে যুক্ত কর। একটি separator string উল্লেখ করা যেতে পারে; যাতে প্রতিটি উপাদানকে আলাদা করা যায়।
 
 **Syntax:**
 ```javascript
@@ -102,13 +110,4 @@ console.log(sentence); // "Hello world !"
 console.log(words); // ["Hello", "world", "!"]
 ```
 
-### Summary
-
-| Method   | Mutability        | Description                                                                 | Practical Use Case                                     |
-|----------|-------------------|-----------------------------------------------------------------------------|--------------------------------------------------------|
-| `slice`  | Immutable         | একটি নতুন array-তে একটি অংশের shallow copy ফেরত দেয়।                      | মৌলিক array পরিবর্তন না করেই subarrays বের করার জন্য।    |
-| `splice` | Mutable           | উপাদানগুলো মুছে ফেলে, প্রতিস্থাপন করে, বা যোগ করে array পরিবর্তন করে।     | array-তে উপাদান insert, remove, বা replace করার জন্য।   |
-| `reverse`| Mutable           | array-এর উপাদানগুলি উল্টায়।                                               | উপাদানগুলির ক্রম উল্টানোর জন্য।                         |
-| `join`   | Immutable         | একটি string-এ array-এর সমস্ত উপাদান যুক্ত করে।                              | array-এর উপাদানগুলি থেকে একটি string তৈরির জন্য।        |
-
-এই methods গুলি array গুলি ম্যানিপুলেট করার জন্য শক্তিশালী উপায় প্রদান করে, প্রতিটি এর নির্দিষ্ট ব্যবহার ক্ষেত্রে এবং মূল array-এ তাদের প্রভাব সহ।
+---

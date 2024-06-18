@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods (simple).md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods (simple).md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods (simple).md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods (simple).md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md"
               }
             }
           },
@@ -185,7 +185,7 @@
   "active": "7eaa7cdc296bff8e",
   "lastOpenFiles": [
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Untitled.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods (simple).md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/IIFE - Immediately Invoked Function Expression.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
