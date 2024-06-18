@@ -16,7 +16,7 @@ array.slice(start, end);
 - Immutable: মূল array পরিবর্তন হয় না।
 
 **Use Case:**
-মৌলিক array পরিবর্তন না করেই একটি subarray বের করার জন্য।
+>মূল array পরিবর্তন না করেই একটি subarray বের করার জন্য।
 ```javascript
 let numbers = [1, 2, 3, 4, 5];
 let subArray = numbers.slice(1, 3);
@@ -24,9 +24,9 @@ console.log(subArray); // [2, 3]
 console.log(numbers); // [1, 2, 3, 4, 5]
 ```
 
-### 2. `splice()`
+---
 
-**বর্ণনা:**
+### 2. `splice()`
 `splice()` method array-এর উপাদানগুলি পরিবর্তন করে এবং/অথবা নতুন উপাদান যোগ করে।
 
 **Syntax:**
@@ -43,13 +43,15 @@ array.splice(start, deleteCount, item1, item2, ...);
 - Mutable: মূল array পরিবর্তিত হয়।
 
 **Use Case:**
-array-তে উপাদান insert, remove, বা replace করার জন্য।
+>array-তে উপাদান insert, remove, বা replace করার জন্য।
 ```javascript
 let numbers = [1, 2, 3, 4, 5];
 let removed = numbers.splice(2, 2, 6, 7);
 console.log(numbers); // [1, 2, 6, 7, 5]
 console.log(removed); // [3, 4]
 ```
+
+---
 
 ### 3. `reverse()`
 
