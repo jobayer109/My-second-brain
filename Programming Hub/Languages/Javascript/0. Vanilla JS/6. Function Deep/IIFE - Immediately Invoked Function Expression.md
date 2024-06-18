@@ -83,5 +83,3 @@ IIFEs can be used to initialize code that needs to run immediately and only once
    // Output: Initialization code running
    ```
 
-**Summary:**
-IIFEs are a powerful tool in JavaScript that provide encapsulation and prevent global namespace pollution. They are particularly useful in scenarios where you want to run initialization code, create module patterns, manage loop iteration variables correctly, and avoid conflicts in variable naming.
