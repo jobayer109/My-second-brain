@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/4. Join.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/0. At a Glance.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/4. Join.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/0. At a Glance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/4. Join.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/0. At a Glance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/4. Join.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/0. At a Glance.md"
               }
             }
           },
@@ -162,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +184,9 @@
   },
   "active": "7eaa7cdc296bff8e",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Untitled.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/5. At.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/4. Join.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Untitled.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/3. Reverse.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/2. Splice.md",
@@ -222,7 +223,6 @@
     "readme.md",
     "Project Alpha.md",
     "Personal/Homepage/😍 Hello.md",
-    "Personal/Homepage/Welcome To My Second Brain.md",
     "Personal/Homepage/~syncthing~Homepage.md.tmp",
     "Programming Hub/Languages/Javascript/1. Frameworks",
     "Programming Hub/Languages/Javascript/0. Vanilla JS",
