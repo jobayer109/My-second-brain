@@ -2,7 +2,7 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A4",
+    "pageSize": "A3",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100

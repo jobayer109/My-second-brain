@@ -1,7 +1,9 @@
 ![[First class vs Higher order.png]]
 
 
-### First-Class Functions
+
+
+# First-Class Functions
 
 - **Treated as first-class citizens**.
 
@@ -45,20 +47,42 @@
 
 ---
 
-### Higher-Order Functions
+# Higher-Order Functions
 
 **Higher-order functions** are functions that either:
 - Take one or more functions as arguments (like `callFunction` in the example above).
 - Return a function as their result (like `createGreeting`).
 
-Examples of higher-order functions include `Array.prototype.map`, `Array.prototype.filter`, and `Array.prototype.reduce`, which accept functions as arguments to perform operations on array elements.
+Sure! Let's create a JavaScript example demonstrating higher-order functions that take one or more functions as arguments and return a function as their result.
 
----
+### Example
 
-### Benefits and Best Practices
+#### 1. Higher-order function that takes functions as arguments
 
-- **Flexibility**: First-class functions and higher-order functions enable writing modular and reusable code.
-- **Functional Programming**: Facilitates functional programming paradigms, promoting cleaner code and reducing side effects.
-- **Code Readability**: Enhances readability by separating concerns and improving the clarity of intent.
+```javascript
+function callFunctions(...funcs) {
+    return function(...args) {
+        return funcs.map(func => func(...args));
+    };
+}
+
+// Functions to be passed as arguments
+function add(a, b) {
+    return a + b;
+}
+
+function multiply(a, b) {
+    return a * b;
+}
+
+// Using callFunctions
+const combinedFunction = callFunctions(add, multiply);
+
+// Calling the returned function
+const result = combinedFunction(3, 4);
+console.log(result); // Output: [7, 12]
+```
+
+
 
 ---
