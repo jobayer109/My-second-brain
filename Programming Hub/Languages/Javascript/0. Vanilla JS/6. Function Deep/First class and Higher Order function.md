@@ -112,5 +112,19 @@ console.log(sayGoodbye("Bob")); // Output: "Goodbye, Bob!"
    - This higher-order function takes a `greeting` string as an argument.
    - It returns a new function that takes a `name` as an argument and returns a greeting message using the provided `greeting` and `name`.
 
+### Usage
+
+- **`callFunctions`**:
+  - We define two simple functions, `add` and `multiply`.
+  - We use `callFunctions` to combine them into a single function `combinedFunction`.
+  - When we call `combinedFunction(3, 4)`, it applies both `add` and `multiply` to the arguments `3` and `4`, returning their results in a list.
+
+- **`createGreeting`**:
+  - We create two greeting functions, `sayHello` and `sayGoodbye`, using `createGreeting`.
+  - When we call `sayHello("Alice")` and `sayGoodbye("Bob")`, they return personalized greeting messages.
+
+These examples illustrate how higher-order functions can be used to create flexible and reusable code in JavaScript.
+
+---
 
 ---
