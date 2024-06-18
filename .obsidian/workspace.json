@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md"
               }
             }
           },
@@ -184,13 +184,13 @@
   },
   "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
-    "Resources/First class vs Higher order.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
+    "Resources/First class vs Higher order.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Parameters.md",
     "Programming Hub/Languages/Javascript/Interview Questions/JS Runtime.md",
     "Programming Hub/Languages/Javascript/Interview Questions",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/7. Closure.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
@@ -209,7 +209,6 @@
     "Resources/Primitive vs Ref 2.png",
     "Resources/JS Runtime2.png",
     "Resources/JS runtime.png",
-    "Resources/JIT.png",
     "readme.md",
     "Project Alpha.md",
     "Personal/Homepage/😍 Hello.md",
