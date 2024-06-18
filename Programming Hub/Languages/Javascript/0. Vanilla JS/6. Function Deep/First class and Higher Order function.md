@@ -83,6 +83,23 @@ const result = combinedFunction(3, 4);
 console.log(result); // Output: [7, 12]
 ```
 
+#### 2. Higher-order function that returns a function
+
+```javascript
+function createGreeting(greeting) {
+    return function(name) {
+        return `${greeting}, ${name}!`;
+    };
+}
+
+// Using createGreeting
+const sayHello = createGreeting("Hello");
+const sayGoodbye = createGreeting("Goodbye");
+
+// Calling the returned functions
+console.log(sayHello("Alice")); // Output: "Hello, Alice!"
+console.log(sayGoodbye("Bob")); // Output: "Goodbye, Bob!"
+```
 
 
 ---
