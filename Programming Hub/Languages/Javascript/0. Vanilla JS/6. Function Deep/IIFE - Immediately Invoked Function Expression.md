@@ -33,6 +33,7 @@ IIFEs are useful for avoiding global variable pollution. By wrapping code in an 
    console.log(localVariable); // ReferenceError: localVariable is not defined
    ```
 
+---
 **2. Creating Module Pattern:**
 IIFEs are often used to create modules in JavaScript. This pattern allows you to create private and public variables and methods, emulating the concept of classes and encapsulation.
 
