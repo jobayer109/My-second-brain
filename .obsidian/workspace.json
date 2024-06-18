@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/0. At a Glance.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/0. At a Glance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/0. At a Glance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/0. At a Glance.md"
               }
             }
           },
@@ -184,8 +184,11 @@
   },
   "active": "7eaa7cdc296bff8e",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Untitled.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/0. At a Glance.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/1. Slice.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Untitled.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/IIFE - Immediately Invoked Function Expression.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
@@ -229,9 +232,6 @@
     "Tags",
     "Personal/Homepage",
     "Resources/What is Function😍.pdf",
-    "Excalidraw/Drawing 2024-06-15 12.09.10.excalidraw.md",
-    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas"
   ]
 }
