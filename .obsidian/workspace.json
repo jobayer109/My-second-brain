@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md"
               }
             }
           },
@@ -184,8 +184,10 @@
   },
   "active": "ca54787f99fadb0a",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md",
+    "Resources/OOP/Encapsulation.png",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/Untitled",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes",
     "Resources/OOP/Abstraction.png",
@@ -221,7 +223,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/IIFE - Immediately Invoked Function Expression.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
     "Resources/First class vs Higher order.png",
     "Programming Hub/Languages/Javascript/Interview Questions",
     "Resources/JS runtime pro.png",
@@ -229,7 +230,6 @@
     "Resources/Behind topics.png",
     "Resources/What is js.png",
     "Resources/TDZ.png",
-    "Resources/Primitive vs Reference.png",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas"
