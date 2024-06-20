@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/3. Inheritance.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/4. Polymorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/3. Inheritance.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/4. Polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/3. Inheritance.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/4. Polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/3. Inheritance.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/4. Polymorphism.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "ca54787f99fadb0a",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/3. Inheritance.md",
+    "Resources/OOP/Polymorphism.png",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
     "Resources/OOP/Inheritance.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/4. Polymorphism.md",
@@ -228,7 +229,6 @@
     "Resources/JS runtime pro.png",
     "cropped_image.png",
     "Resources/Behind topics.png",
-    "Resources/What is js.png",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas"
