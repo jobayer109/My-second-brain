@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor/1. with `new` operator.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor/1. with `new` operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor/1. with `new` operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor/1. with `new` operator.md"
               }
             }
           },
@@ -184,8 +184,10 @@
   },
   "active": "ca54787f99fadb0a",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/5. Prototypical inheritance.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor/1. with `new` operator.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/5. Prototypical inheritance.md",
     "Resources/Javascript/OOP/3 ways of implement Prototypical Inheritance.png",
     "Resources/Javascript/OOP/Prototype.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/4. Polymorphism.md",
@@ -207,7 +209,6 @@
     "Resources/Javascript/OOP/What is Function😍.pdf",
     "Resources/Javascript/OOP/Hello C.pdf",
     "Resources/Javascript/OOP/Computer Architecture.pdf",
-    "Resources/Javascript/OOP",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/3. Inheritance.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
@@ -229,7 +230,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/5. Join.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/4. Concat (arr1, arr2, ..).md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Untitled.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods.md",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas"
