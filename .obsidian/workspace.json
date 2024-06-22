@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/1. Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/1. Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/1. Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/1. Overview.md"
               }
             }
           },
@@ -196,8 +196,10 @@
   },
   "active": "ca54787f99fadb0a",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/Untitled.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/1. Overview.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/Untitled.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor & Prototype/0. Interview Questions.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor & Prototype/5. Prototypal Chain.md",
@@ -227,7 +229,6 @@
     "Resources/Javascript/pdf",
     "Resources/Javascript/OOP/What is Function😍.pdf",
     "Resources/Javascript/OOP/Hello C.pdf",
-    "Resources/Javascript/OOP/Computer Architecture.pdf",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/3. Inheritance.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/0. Array Methods at a Glance.md",
@@ -241,7 +242,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/11. Fill.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/10. Find Index.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/9. Sort.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/8. IndexOf.md",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas"
