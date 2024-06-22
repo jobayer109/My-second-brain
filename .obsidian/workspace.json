@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/4. Object.create().md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/4. Object.create().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/4. Object.create().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/4. Object.create().md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "a7a834d4eb47c38a",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/2. Getter & Setter.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/4. Object.create().md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/2. Getter & Setter.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/1. Overview.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
@@ -229,7 +230,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/14. Filter.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/13. Map.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/12. forEach.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/11. Fill.md",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas"
