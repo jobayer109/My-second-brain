@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "62100fa538c04990",
+        "id": "7bd4fab47eb782d5",
         "type": "tabs",
         "children": [
           {
-            "id": "a7a834d4eb47c38a",
+            "id": "c20c2b0834069686",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/5. Create Prototypal Inheritance/2.  Inheritance Between Object.create().md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 293.5
   },
   "right": {
     "id": "d3823d2f56e3afac",
