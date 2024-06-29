@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90ca473682c95b42",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ]
       }
@@ -184,8 +194,9 @@
   },
   "active": "c20c2b0834069686",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
+    "readme.md",
     "Personal/Github/Github Profile.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
     "Personal/Github",
     "Components Hub",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/00. Projects",
@@ -229,7 +240,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/18. Some & Every.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/17. Flat & flatMap.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/16. Reduce.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/7. Array/Methods/15. Find.md",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas"
