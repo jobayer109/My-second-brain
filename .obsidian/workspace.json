@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Github/Github Profile.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Github/Github Profile.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Github/Github Profile.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Github/Github Profile.md"
+                "file": "readme.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "c20c2b0834069686",
   "lastOpenFiles": [
-    "readme.md",
     "Personal/Github/Github Profile.md",
+    "readme.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
     "Personal/Github",
     "Components Hub",
