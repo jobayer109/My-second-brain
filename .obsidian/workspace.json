@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Plans/Tasks.md",
-                "mode": "source",
+                "file": "Programming Hub/DSA/Pointer/Basic Overview.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Plans/Tasks.md",
+                "file": "Programming Hub/DSA/Pointer/Basic Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Plans/Tasks.md",
+                "file": "Programming Hub/DSA/Pointer/Basic Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Plans/Tasks.md"
+                "file": "Programming Hub/DSA/Pointer/Basic Overview.md"
               }
             }
           },
@@ -182,11 +182,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "98360329a9091974",
   "lastOpenFiles": [
-    "Programming Hub/DSA",
     "Personal/Plans/Routine.md",
+    "Programming Hub/DSA/Pointer/Basic Overview.md",
+    "Programming Hub/DSA/Pointer",
     "Personal/Plans/Tasks.md",
+    "Programming Hub/DSA",
     "readme.md",
     "Personal/Github/Github Profile.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
@@ -217,8 +219,6 @@
     "Resources/Javascript/OOP/3 ways of implement Prototypical Inheritance.png",
     "Resources/Javascript/OOP/Prototype.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/4. Polymorphism.md",
-    "Resources/pdf/Hello C.pdf",
-    "Resources/pdf/Computer Architecture.pdf",
     "Resources/Javascript/Behind the scenes/TDZ.png",
     "Resources/Javascript/Behind the scenes/Primitive vs Reference.png",
     "Resources/Javascript/Behind the scenes/Primitive vs Ref 2.png",
