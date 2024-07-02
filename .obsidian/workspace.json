@@ -11,10 +11,8 @@
             "id": "eeaa0fe269d7cea5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240702074632.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240702074632.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240702074632.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eeaa0fe269d7cea5",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
     "School/Class Two/গুণের  সমস্যার  সমাধান.md",
     "Excalidraw/Drawing 2024-07-02 14.55.50.excalidraw.md",
