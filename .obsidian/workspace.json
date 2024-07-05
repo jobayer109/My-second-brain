@@ -11,8 +11,12 @@
             "id": "eeaa0fe269d7cea5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Teacher Attendance/Plan/Plan.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Teacher Attendance/Plan/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Teacher Attendance/Plan/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240702074632.png"
+                "file": "Projects/Teacher Attendance/Plan/Plan.md"
               }
             }
           },
@@ -176,8 +182,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "eeaa0fe269d7cea5",
   "lastOpenFiles": [
+    "Projects/Teacher Attendance/Plan/Plan.md",
+    "Projects/Teacher Attendance/Code",
+    "Projects/Teacher Attendance/Plan",
+    "Projects/Teacher Attendance",
+    "Projects",
+    "Programming Hub/Untitled",
     "School/Class Two/গুণের  সমস্যার  সমাধান.md",
     "Excalidraw/Drawing 2024-07-02 14.55.50.excalidraw.md",
     "Pasted Image 20240702151415_585.png",
@@ -195,14 +207,9 @@
     "Personal/Plans/Routine.md",
     "Programming Hub/DSA/Pointer",
     "Personal/Plans/Tasks.md",
-    "Programming Hub/DSA",
     "readme.md",
     "Personal/Github/Github Profile.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
-    "Personal/Github",
-    "Components Hub",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/00. Projects",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/10. Modern JavaScript",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/5. Create Prototypal Inheritance/1. Inheritance between ES6 Classes.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/5. Create Prototypal Inheritance/2.  Inheritance Between Object.create().md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/4. Object.create().md",
