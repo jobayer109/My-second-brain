@@ -45,4 +45,5 @@ teacher-attendance/
 - [ ] `npm install jsonwebtoken`
 - [ ] `npm install bcrypt`
 - [ ] `npm install -g nodemon`
-- [ ] `npm install concurrently` // To run both the front-end and back-end simultaneously
+- [ ] `npm install concurrently` <font color="#31859b">// To run both the front-end and back-end simultaneously</font>
+- [ ] 
