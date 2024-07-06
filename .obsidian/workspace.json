@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem-solving/C++/Basic/4. Find Min Number.md",
+                "file": "Problem-solving/C++/Basic/4. Find Max or Min Number.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem-solving/C++/Basic/4. Find Min Number.md",
+                "file": "Problem-solving/C++/Basic/4. Find Max or Min Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem-solving/C++/Basic/4. Find Min Number.md",
+                "file": "Problem-solving/C++/Basic/4. Find Max or Min Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem-solving/C++/Basic/4. Find Min Number.md"
+                "file": "Problem-solving/C++/Basic/4. Find Max or Min Number.md"
               }
             }
           },
@@ -183,7 +183,7 @@
   },
   "active": "653c1cd35744c549",
   "lastOpenFiles": [
-    "Problem-solving/C++/Basic/4. Find Min Number.md",
+    "Problem-solving/C++/Basic/4. Find Max or Min Number.md",
     "Problem-solving/C++/Basic/3. Is the number exist or not.md",
     "Problem-solving/C++/Basic/2. Find Evens and calculate sum.md",
     "Problem-solving/C++/Basic/1. Find Odds and calculate sum.md",
