@@ -26,7 +26,7 @@ teacher-attendance/
 ```
 
 ---
-## Packages
+# Packages
 #### Front-end (React.js)
 - [ ] `npx create-react-app .`
 - [ ] `npm install react react-dom`

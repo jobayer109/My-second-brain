@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e38d35e498777d75",
+        "id": "588bc4df37e9a147",
         "type": "tabs",
         "children": [
           {
-            "id": "eeaa0fe269d7cea5",
+            "id": "0f9ff5f5e1d73679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Teacher Attendance/Plan/Plan.md",
+                "file": "Problem-solving/C++/Basic/2. Find Evens and calculate sum.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Teacher Attendance/Plan/Plan.md",
+                "file": "Problem-solving/C++/Basic/2. Find Evens and calculate sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Teacher Attendance/Plan/Plan.md",
+                "file": "Problem-solving/C++/Basic/2. Find Evens and calculate sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Teacher Attendance/Plan/Plan.md"
+                "file": "Problem-solving/C++/Basic/2. Find Evens and calculate sum.md"
               }
             }
           },
@@ -161,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +181,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eeaa0fe269d7cea5",
+  "active": "0f9ff5f5e1d73679",
   "lastOpenFiles": [
+    "Problem-solving/C++/Basic/1. Find Odds and calculate sum.md",
+    "Problem-solving/C++/Basic/2. Find Evens and calculate sum.md",
+    "Problem-solving/C++/Advanced",
+    "Problem-solving/C++/Medium",
+    "Problem-solving/C++/Basic",
+    "Problem-solving/C++",
+    "Problem-solving",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
     "Projects/Teacher Attendance/Plan/Plan.md",
     "Projects/Teacher Attendance/Code",
     "Projects/Teacher Attendance/Plan",
@@ -200,12 +207,7 @@
     "Pasted image 20240702075504.png",
     "Pasted image 20240702074632.png",
     "Programming Hub/DSA/Pointer/Basic Overview.md",
-    "School/Nursery",
-    "School/Class Two",
-    "School",
-    "Programming Hub/DSA/Stack",
     "Personal/Plans/Routine.md",
-    "Programming Hub/DSA/Pointer",
     "Personal/Plans/Tasks.md",
     "readme.md",
     "Personal/Github/Github Profile.md",
@@ -224,11 +226,8 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor & Prototype/4. How Prototypal Inheritance works.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor & Prototype/3. Prototype Methods.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor & Prototype/2.Constructor এ Method লেখার সমস্যা.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor & Prototype/1. Constructor with `new` operator.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/5. Prototypical inheritance.md",
     "Resources/Javascript/OOP/3 ways of implement Prototypical Inheritance.png",
     "Resources/Javascript/OOP/Prototype.png",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/4. Polymorphism.md",
     "Resources/Javascript/Behind the scenes/TDZ.png",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas",
