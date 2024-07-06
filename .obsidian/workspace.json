@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem-solving/C++/Basic/6. Max number of an Array.md",
+                "file": "Problem-solving/C++/Basic/7. Min number of an Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem-solving/C++/Basic/6. Max number of an Array.md",
+                "file": "Problem-solving/C++/Basic/7. Min number of an Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem-solving/C++/Basic/6. Max number of an Array.md",
+                "file": "Problem-solving/C++/Basic/7. Min number of an Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem-solving/C++/Basic/6. Max number of an Array.md"
+                "file": "Problem-solving/C++/Basic/7. Min number of an Array.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "653c1cd35744c549",
   "lastOpenFiles": [
-    "Problem-solving/C++/Basic/5. Swap Two Numbers.md",
     "Problem-solving/C++/Basic/6. Max number of an Array.md",
+    "Problem-solving/C++/Basic/7. Min number of an Array.md",
+    "Problem-solving/C++/Basic/5. Swap Two Numbers.md",
     "Problem-solving/C++/Basic/4. Find Max or Min Number.md",
     "Problem-solving/C++/Basic/3. Is the number exist or not.md",
     "Problem-solving/C++/Basic/2. Find Evens and calculate sum.md",
@@ -225,7 +226,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/1. Overview.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/Untitled.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/3. Constructor & Prototype/0. Interview Questions.md",
     "Resources/Javascript/OOP/3 ways of implement Prototypical Inheritance.png",
     "Resources/Javascript/OOP/Prototype.png",
     "Resources/Javascript/Behind the scenes/TDZ.png",
