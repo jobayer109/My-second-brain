@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4056a46889b6e632",
+        "id": "654b388edf357b19",
         "type": "tabs",
         "children": [
           {
-            "id": "653c1cd35744c549",
+            "id": "0282c72dc870ca9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem-solving/C++/Basic/7. Min number of an Array.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 379.5
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem-solving/C++/Basic/7. Min number of an Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem-solving/C++/Basic/7. Min number of an Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Problem-solving/C++/Basic/7. Min number of an Array.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,10 +173,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "653c1cd35744c549",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
-    "Problem-solving/C++/Basic/6. Max number of an Array.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/5. IIFE - Immediately Invoked Function Expression.md",
+    "Projects/Teacher Attendance/Plan/Plan.md",
     "Problem-solving/C++/Basic/7. Min number of an Array.md",
+    "Problem-solving/C++/Basic/6. Max number of an Array.md",
     "Problem-solving/C++/Basic/5. Swap Two Numbers.md",
     "Problem-solving/C++/Basic/4. Find Max or Min Number.md",
     "Problem-solving/C++/Basic/3. Is the number exist or not.md",
@@ -196,7 +191,6 @@
     "Problem-solving/C++",
     "Problem-solving",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
-    "Projects/Teacher Attendance/Plan/Plan.md",
     "Projects/Teacher Attendance/Code",
     "Projects/Teacher Attendance/Plan",
     "Projects/Teacher Attendance",
@@ -224,8 +218,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/2. Getter & Setter.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/1. Overview.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/Untitled.md",
     "Resources/Javascript/OOP/3 ways of implement Prototypical Inheritance.png",
     "Resources/Javascript/OOP/Prototype.png",
     "Resources/Javascript/Behind the scenes/TDZ.png",
