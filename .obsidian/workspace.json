@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 241.5
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -175,6 +175,7 @@
   },
   "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "Problem-solving/C++/Basic/Pattern Printing",
     "Programming Hub/DSA/3. Queue",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/5. IIFE - Immediately Invoked Function Expression.md",
@@ -196,7 +197,6 @@
     "Projects/Teacher Attendance/Plan",
     "Projects/Teacher Attendance",
     "Projects",
-    "Programming Hub/Untitled",
     "School/Class Two/গুণের  সমস্যার  সমাধান.md",
     "Excalidraw/Drawing 2024-07-02 14.55.50.excalidraw.md",
     "Pasted Image 20240702151415_585.png",
