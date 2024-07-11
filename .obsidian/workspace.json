@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem-solving/C++/Basic/8. String Reverse.md",
+                "file": "Problem-solving/C++/Basic/9. Valid parenthesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem-solving/C++/Basic/8. String Reverse.md",
+                "file": "Problem-solving/C++/Basic/9. Valid parenthesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem-solving/C++/Basic/8. String Reverse.md",
+                "file": "Problem-solving/C++/Basic/9. Valid parenthesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem-solving/C++/Basic/8. String Reverse.md"
+                "file": "Problem-solving/C++/Basic/9. Valid parenthesis.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   "active": "0282c72dc870ca9c",
   "lastOpenFiles": [
     "Problem-solving/C++/Basic/8. String Reverse.md",
+    "Problem-solving/C++/Basic/9. Valid parenthesis.md",
     "Problem-solving/C++/Basic/Pattern Printing",
     "Programming Hub/DSA/3. Queue",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
@@ -225,7 +226,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/4. Object.create().md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/2. Getter & Setter.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/2. Encapsulation.md",
     "Resources/Javascript/OOP/3 ways of implement Prototypical Inheritance.png",
     "Resources/Javascript/OOP/Prototype.png",
     "Resources/Javascript/Behind the scenes/TDZ.png",
