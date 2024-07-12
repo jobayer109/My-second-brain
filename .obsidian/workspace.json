@@ -11,12 +11,8 @@
             "id": "0282c72dc870ca9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Javascript/Mapty App/starter code/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Javascript/Mapty App/starter code/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Javascript/Mapty App/starter code/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/Javascript/Mapty App/starter code/JavaScript.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,9 +175,9 @@
   },
   "active": "0282c72dc870ca9c",
   "lastOpenFiles": [
+    "Projects/Javascript/Mapty App/starter code/CSS.md",
     "Projects/Javascript/Mapty App/starter code/HTML.md",
     "Projects/Javascript/Mapty App/starter code/JavaScript.md",
-    "Projects/Javascript/Mapty App/starter code/CSS.md",
     "Problem-solving/C++/Basic/9. Valid parenthesis.md",
     "Projects/Javascript/Mapty App/Final project",
     "Projects/Javascript/Mapty App/starter code",
