@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "654b388edf357b19",
+        "id": "94c64a0d6dd830c5",
         "type": "tabs",
         "children": [
           {
-            "id": "0282c72dc870ca9c",
+            "id": "690b88b226251ce2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -173,8 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0282c72dc870ca9c",
+  "active": "690b88b226251ce2",
   "lastOpenFiles": [
+    "Projects/Javascript/Mapty App/Flow-chart.md",
+    "Pasted image 20240712103124.png",
     "Projects/Javascript/Mapty App/starter code/CSS.md",
     "Projects/Javascript/Mapty App/starter code/HTML.md",
     "Projects/Javascript/Mapty App/starter code/JavaScript.md",
@@ -216,11 +218,8 @@
     "readme.md",
     "Personal/Github/Github Profile.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/5. Create Prototypal Inheritance/1. Inheritance between ES6 Classes.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/5. Create Prototypal Inheritance/2.  Inheritance Between Object.create().md",
     "Resources/Javascript/OOP/3 ways of implement Prototypical Inheritance.png",
     "Resources/Javascript/OOP/Prototype.png",
-    "Resources/Javascript/Behind the scenes/TDZ.png",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas"
