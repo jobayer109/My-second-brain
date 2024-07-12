@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem-solving/C++/Basic/9. Valid parenthesis.md",
+                "file": "Projects/Javascript/Mapty App/starter code/HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem-solving/C++/Basic/9. Valid parenthesis.md",
+                "file": "Projects/Javascript/Mapty App/starter code/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem-solving/C++/Basic/9. Valid parenthesis.md",
+                "file": "Projects/Javascript/Mapty App/starter code/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem-solving/C++/Basic/9. Valid parenthesis.md"
+                "file": "Projects/Javascript/Mapty App/starter code/HTML.md"
               }
             }
           },
@@ -181,14 +181,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "0282c72dc870ca9c",
   "lastOpenFiles": [
+    "Projects/Javascript/Mapty App/starter code/JavaScript.md",
+    "Projects/Javascript/Mapty App/starter code/CSS.md",
+    "Projects/Javascript/Mapty App/starter code/HTML.md",
+    "Problem-solving/C++/Basic/9. Valid parenthesis.md",
     "Projects/Javascript/Mapty App/Final project",
     "Projects/Javascript/Mapty App/starter code",
     "Projects/Javascript/Mapty App",
     "Projects/Javascript",
     "Problem-solving/C++/Basic/8. String Reverse.md",
-    "Problem-solving/C++/Basic/9. Valid parenthesis.md",
     "Problem-solving/C++/Basic/Pattern Printing",
     "Programming Hub/DSA/3. Queue",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
@@ -205,7 +208,6 @@
     "Problem-solving/C++/Medium",
     "Problem-solving/C++/Basic",
     "Problem-solving/C++",
-    "Problem-solving",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
     "School/Class Two/গুণের  সমস্যার  সমাধান.md",
     "Excalidraw/Drawing 2024-07-02 14.55.50.excalidraw.md",
@@ -224,8 +226,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/5. Create Prototypal Inheritance/1. Inheritance between ES6 Classes.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/5. Create Prototypal Inheritance/2.  Inheritance Between Object.create().md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/4. Object.create().md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md",
     "Resources/Javascript/OOP/3 ways of implement Prototypical Inheritance.png",
     "Resources/Javascript/OOP/Prototype.png",
     "Resources/Javascript/Behind the scenes/TDZ.png",
