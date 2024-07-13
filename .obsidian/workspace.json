@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Components Hub/Geolocation/npm.md",
+                "file": "Components Hub/Geolocation/Leaflet/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Components Hub/Geolocation/npm.md",
+                "file": "Components Hub/Geolocation/Leaflet/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Components Hub/Geolocation/npm.md",
+                "file": "Components Hub/Geolocation/Leaflet/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Components Hub/Geolocation/npm.md"
+                "file": "Components Hub/Geolocation/Leaflet/Untitled.md"
               }
             }
           },
@@ -184,6 +184,8 @@
   "active": "690b88b226251ce2",
   "lastOpenFiles": [
     "Components Hub/Geolocation/npm.md",
+    "Components Hub/Geolocation/Leaflet/Untitled.md",
+    "Components Hub/Geolocation/Leaflet",
     "Components Hub/Geolocation",
     "Projects/Javascript/Mapty App/Flow-chart.md",
     "Pasted image 20240712103124.png",
@@ -210,7 +212,6 @@
     "Problem-solving/C++/Basic/1. Find Odds and calculate sum.md",
     "Problem-solving/C++/Advanced",
     "Problem-solving/C++/Medium",
-    "Problem-solving/C++/Basic",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
     "School/Class Two/গুণের  সমস্যার  সমাধান.md",
     "Excalidraw/Drawing 2024-07-02 14.55.50.excalidraw.md",
@@ -226,7 +227,6 @@
     "Personal/Plans/Tasks.md",
     "readme.md",
     "Personal/Github/Github Profile.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/1. Classes/1. Abstraction.md",
     "Resources/Javascript/OOP/3 ways of implement Prototypical Inheritance.png",
     "Resources/Javascript/OOP/Prototype.png",
     "Personal/Homepage/Untitled.canvas",
