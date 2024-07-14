@@ -18,6 +18,8 @@ if (navigator.geolocation)
           '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
       }).addTo(map);
 
+
+	// Created a marker in the map
       map.on('click', function (mapEvent) {
         const { lat, lng } = mapEvent.latlng;
         L.marker([lat, lng]).addTo(map).bindPopup('Workout').openPopup();
