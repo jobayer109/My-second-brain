@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Flowchart of Mapty.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Flowchart of Mapty.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resources/Flowchart of Mapty.png"
-              }
+              "state": {}
             }
           },
           {
@@ -177,15 +173,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "8a9fb3745ffa0a8a",
   "lastOpenFiles": [
+    "Resources/Others/Flowchart of Mapty.png",
     "Resources/Others",
     "Components Hub/Geolocation/Leaflet/Map implementation.md",
     "Components Hub/Geolocation/npm.md",
     "Components Hub/Geolocation/Leaflet",
     "Components Hub/Geolocation",
     "Projects/Javascript/Mapty App/Flow-chart.md",
-    "Resources/Flowchart of Mapty.png",
     "Projects/Javascript/Mapty App/starter code/CSS.md",
     "Projects/Javascript/Mapty App/starter code/HTML.md",
     "Projects/Javascript/Mapty App/starter code/JavaScript.md",
@@ -208,7 +204,6 @@
     "Problem-solving/C++/Basic/2. Find Evens and calculate sum.md",
     "Problem-solving/C++/Basic/1. Find Odds and calculate sum.md",
     "Problem-solving/C++/Advanced",
-    "Problem-solving/C++/Medium",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
     "School/Class Two/গুণের  সমস্যার  সমাধান.md",
     "Excalidraw/Drawing 2024-07-02 14.55.50.excalidraw.md",
