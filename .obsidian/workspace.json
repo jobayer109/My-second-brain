@@ -179,6 +179,7 @@
   },
   "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "Resources/Others",
     "Components Hub/Geolocation/Leaflet/Map implementation.md",
     "Components Hub/Geolocation/npm.md",
     "Components Hub/Geolocation/Leaflet",
@@ -222,7 +223,6 @@
     "Personal/Plans/Routine.md",
     "Personal/Plans/Tasks.md",
     "readme.md",
-    "Personal/Github/Github Profile.md",
     "Resources/Javascript/OOP/3 ways of implement Prototypical Inheritance.png",
     "Resources/Javascript/OOP/Prototype.png",
     "Personal/Homepage/Untitled.canvas",
