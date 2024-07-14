@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "94c64a0d6dd830c5",
+        "id": "a300f7161f45e0de",
         "type": "tabs",
         "children": [
           {
-            "id": "690b88b226251ce2",
+            "id": "8a9fb3745ffa0a8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Components Hub/Geolocation/Leaflet/Map implementation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Components Hub/Geolocation/Leaflet/Map implementation.md",
+                "file": "Resources/Flowchart of Mapty.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Components Hub/Geolocation/Leaflet/Map implementation.md",
+                "file": "Resources/Flowchart of Mapty.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Components Hub/Geolocation/Leaflet/Map implementation.md"
+                "file": "Resources/Flowchart of Mapty.png"
               }
             }
           },
@@ -181,14 +177,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "690b88b226251ce2",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
-    "Components Hub/Geolocation/npm.md",
     "Components Hub/Geolocation/Leaflet/Map implementation.md",
+    "Components Hub/Geolocation/npm.md",
     "Components Hub/Geolocation/Leaflet",
     "Components Hub/Geolocation",
     "Projects/Javascript/Mapty App/Flow-chart.md",
-    "Pasted image 20240712103124.png",
+    "Resources/Flowchart of Mapty.png",
     "Projects/Javascript/Mapty App/starter code/CSS.md",
     "Projects/Javascript/Mapty App/starter code/HTML.md",
     "Projects/Javascript/Mapty App/starter code/JavaScript.md",

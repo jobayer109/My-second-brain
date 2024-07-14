@@ -19,7 +19,7 @@ if (navigator.geolocation)
       }).addTo(map);
 
 
-	// Created a marker in the map
+// Created a marker in the map
       map.on('click', function (mapEvent) {
         const { lat, lng } = mapEvent.latlng;
         L.marker([lat, lng]).addTo(map).bindPopup('Workout').openPopup();
