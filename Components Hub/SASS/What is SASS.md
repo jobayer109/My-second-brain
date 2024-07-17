@@ -1,5 +1,5 @@
 ### SASS (Syntactically Awesome Style Sheets)
-Sass is a preprocessor scripting language that is interpreted or compiled into CSS. 
+`Sass is a preprocessor scripting language that is interpreted or compiled into CSS. `
 #### Key Features
 - **Variables**: Store values like colors, fonts, or any CSS value in a variable and reuse them.
 - **Nesting**: Nest CSS rules to make the stylesheet more readable and structured.
