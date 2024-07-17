@@ -13,6 +13,9 @@ Sass supports two syntaxes:
 - **SCSS**: Uses the standard CSS syntax but with Sass features.
 - **Indented Syntax**: Uses indentation instead of brackets and semicolons, similar to Haml.
 
+#### How it works
+![[How sass works.png]]
+
 #### Example
 
 ```scss
