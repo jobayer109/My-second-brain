@@ -11,8 +11,12 @@
             "id": "8a9fb3745ffa0a8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Components Hub/SASS/What is SASS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Components Hub/SASS/What is SASS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Components Hub/SASS/What is SASS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Components Hub/SASS/What is SASS.md"
+              }
             }
           },
           {
@@ -173,8 +181,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "8a9fb3745ffa0a8a",
   "lastOpenFiles": [
+    "Components Hub/SASS/What is SASS.md",
     "Components Hub/SASS",
     "Resources/Others/Flowchart of Mapty.png",
     "Resources/Others",
@@ -204,7 +213,6 @@
     "Problem-solving/C++/Basic/3. Is the number exist or not.md",
     "Problem-solving/C++/Basic/2. Find Evens and calculate sum.md",
     "Problem-solving/C++/Basic/1. Find Odds and calculate sum.md",
-    "Problem-solving/C++/Advanced",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
     "School/Class Two/গুণের  সমস্যার  সমাধান.md",
     "Excalidraw/Drawing 2024-07-02 14.55.50.excalidraw.md",
