@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Components Hub/SASS/What is SASS.md",
-                "mode": "preview",
+                "file": "Components Hub/SASS/2. Variables.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Components Hub/SASS/What is SASS.md",
+                "file": "Components Hub/SASS/2. Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Components Hub/SASS/What is SASS.md",
+                "file": "Components Hub/SASS/2. Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Components Hub/SASS/What is SASS.md"
+                "file": "Components Hub/SASS/2. Variables.md"
               }
             }
           },
@@ -181,10 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7ab468e98436eec",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "Components Hub/SASS/1. What is SASS.md",
+    "Components Hub/SASS/2. Variables.md",
     "How sass works.png",
-    "Components Hub/SASS/What is SASS.md",
     "Components Hub/SASS",
     "Resources/Others/Flowchart of Mapty.png",
     "Resources/Others",
