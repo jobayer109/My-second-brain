@@ -1,0 +1,90 @@
+### SASS (Syntactically Awesome Style Sheets)
+
+#### Overview
+Sass is a preprocessor scripting language that is interpreted or compiled into CSS. It extends CSS by providing features such as variables, nested rules, and mixins, making it more efficient and easier to maintain.
+
+#### Key Features
+
+- **Variables**: Store values like colors, fonts, or any CSS value in a variable and reuse them throughout the stylesheet.
+- **Nesting**: Nest CSS rules to make the stylesheet more readable and structured.
+- **Partials and Import**: Split your CSS into smaller, reusable pieces using partials and import them when needed.
+- **Mixins**: Create reusable chunks of code that can be included in other selectors.
+- **Inheritance**: Use `@extend` to share a set of CSS properties from one selector to another.
+- **Operators**: Perform calculations with units, making it easier to work with responsive design.
+
+#### Syntax
+Sass supports two syntaxes:
+- **SCSS**: Uses the standard CSS syntax but with Sass features.
+- **Indented Syntax**: Uses indentation instead of brackets and semicolons, similar to Haml.
+
+#### Example
+
+```scss
+// Variables
+$primary-color: #333;
+$padding: 16px;
+
+// Mixin
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+// Base styles
+body {
+  font: 100% Helvetica, sans-serif;
+  color: $primary-color;
+}
+
+// Nested rules
+nav {
+  ul {
+    margin: 0;
+    padding: $padding;
+    list-style: none;
+  }
+
+  li { display: inline-block; }
+
+  a {
+    display: block;
+    padding: $padding;
+    text-decoration: none;
+  }
+}
+
+// Using a mixin
+.box { @include border-radius(10px); }
+```
+
+#### Benefits
+
+- **Modularity**: Easier to manage and maintain large stylesheets.
+- **Reusability**: Components can be reused across different parts of the site.
+- **Maintainability**: Variables and mixins allow for consistent styling and quick changes.
+
+#### Installation
+Sass can be installed using npm:
+
+```bash
+npm install -g sass
+```
+
+#### Compiling
+You can compile Sass to CSS using the command line:
+
+```bash
+sass input.scss output.css
+```
+
+#### Resources
+
+- [Official Sass Website](https://sass-lang.com/)
+- [Sass Documentation](https://sass-lang.com/documentation)
+- [Sass Guidelines](https://sass-guidelin.es/)
+
+---
+
+You can copy and paste this note into your Obsidian vault to keep it for future reference.
