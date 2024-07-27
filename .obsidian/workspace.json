@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7729db5c49bd6f5",
+        "id": "043e62a23872c944",
         "type": "tabs",
         "children": [
           {
-            "id": "e7ab468e98436eec",
+            "id": "4d09fc5a60092426",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Components Hub/SASS/3. Nesting css.md",
+                "file": "Components Hub/SASS/2. SASS settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Components Hub/SASS/3. Nesting css.md",
+                "file": "Components Hub/SASS/2. SASS settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Components Hub/SASS/3. Nesting css.md",
+                "file": "Components Hub/SASS/2. SASS settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Components Hub/SASS/3. Nesting css.md"
+                "file": "Components Hub/SASS/2. SASS settings.md"
               }
             }
           },
@@ -181,11 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7ab468e98436eec",
+  "active": "4d09fc5a60092426",
   "lastOpenFiles": [
-    "Components Hub/SASS/2. Variables.md",
-    "Components Hub/SASS/3. Nesting css.md",
+    "Components Hub/SASS/2. SASS settings.md",
+    "Components Hub/SASS/4. Nesting css.md",
     "Components Hub/SASS/1. What is SASS.md",
+    "Components Hub/SASS/3. Variables.md",
     "How sass works.png",
     "Components Hub/SASS",
     "Resources/Others/Flowchart of Mapty.png",
@@ -227,7 +228,6 @@
     "Pasted image 20240702075504.png",
     "Pasted image 20240702074632.png",
     "Programming Hub/DSA/1. Pointer/Basic Overview.md",
-    "Personal/Plans/Routine.md",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas"
