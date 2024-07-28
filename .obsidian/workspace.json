@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "043e62a23872c944",
+        "id": "1286cbadbb6b070b",
         "type": "tabs",
         "children": [
           {
-            "id": "4d09fc5a60092426",
+            "id": "fd62b7c0b38d7c22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Components Hub/SASS/2. SASS settings.md",
+                "file": "Components Hub/SASS/10. @each mapping.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Components Hub/SASS/2. SASS settings.md",
+                "file": "Components Hub/SASS/10. @each mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Components Hub/SASS/2. SASS settings.md",
+                "file": "Components Hub/SASS/10. @each mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Components Hub/SASS/2. SASS settings.md"
+                "file": "Components Hub/SASS/10. @each mapping.md"
               }
             }
           },
@@ -181,13 +181,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d09fc5a60092426",
+  "active": "fd62b7c0b38d7c22",
   "lastOpenFiles": [
+    "Components Hub/SASS/9. Loop (for, while).md",
+    "Components Hub/SASS/10. @each mapping.md",
+    "Components Hub/SASS/8. if-else.md",
+    "Components Hub/SASS/7. Extend and Inheritance.md",
+    "Components Hub/SASS/6. mixin and include.md",
+    "Components Hub/SASS/Untitled",
+    "Resources/SASS/How sass works.png",
+    "Resources/SASS",
+    "Components Hub/SASS/5. Partial.md",
     "Components Hub/SASS/2. SASS settings.md",
     "Components Hub/SASS/4. Nesting css.md",
     "Components Hub/SASS/1. What is SASS.md",
     "Components Hub/SASS/3. Variables.md",
-    "How sass works.png",
     "Components Hub/SASS",
     "Resources/Others/Flowchart of Mapty.png",
     "Resources/Others",
@@ -205,8 +213,6 @@
     "Projects/Javascript/Mapty App",
     "Projects/Javascript",
     "Problem-solving/C++/Basic/8. String Reverse.md",
-    "Problem-solving/C++/Basic/Pattern Printing",
-    "Programming Hub/DSA/3. Queue",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/5. IIFE - Immediately Invoked Function Expression.md",
     "Projects/Teacher Attendance/Plan/Plan.md",
@@ -215,11 +221,6 @@
     "Problem-solving/C++/Basic/5. Swap Two Numbers.md",
     "Problem-solving/C++/Basic/4. Find Max or Min Number.md",
     "Problem-solving/C++/Basic/3. Is the number exist or not.md",
-    "Problem-solving/C++/Basic/2. Find Evens and calculate sum.md",
-    "Problem-solving/C++/Basic/1. Find Odds and calculate sum.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
-    "School/Class Two/গুণের  সমস্যার  সমাধান.md",
-    "Excalidraw/Drawing 2024-07-02 14.55.50.excalidraw.md",
     "Pasted Image 20240702151415_585.png",
     "Pasted image 20240702080521.png",
     "Pasted image 20240702080112.png",
@@ -227,7 +228,6 @@
     "Pasted image 20240702075544.png",
     "Pasted image 20240702075504.png",
     "Pasted image 20240702074632.png",
-    "Programming Hub/DSA/1. Pointer/Basic Overview.md",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas"
