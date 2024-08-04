@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Components Hub/SASS/10. @each mapping.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Components Hub/SASS/10. @each mapping.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Components Hub/SASS/10. @each mapping.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Components Hub/SASS/10. @each mapping.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md"
               }
             }
           },
@@ -183,9 +183,10 @@
   },
   "active": "fd62b7c0b38d7c22",
   "lastOpenFiles": [
-    "Components Hub/SASS/9. Loop (for, while).md",
-    "Components Hub/SASS/10. @each mapping.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
     "Components Hub/SASS/8. if-else.md",
+    "Components Hub/SASS/10. @each mapping.md",
+    "Components Hub/SASS/9. Loop (for, while).md",
     "Components Hub/SASS/7. Extend and Inheritance.md",
     "Components Hub/SASS/6. mixin and include.md",
     "Components Hub/SASS/Untitled",
@@ -220,7 +221,6 @@
     "Problem-solving/C++/Basic/6. Max number of an Array.md",
     "Problem-solving/C++/Basic/5. Swap Two Numbers.md",
     "Problem-solving/C++/Basic/4. Find Max or Min Number.md",
-    "Problem-solving/C++/Basic/3. Is the number exist or not.md",
     "Pasted Image 20240702151415_585.png",
     "Pasted image 20240702080521.png",
     "Pasted image 20240702080112.png",
