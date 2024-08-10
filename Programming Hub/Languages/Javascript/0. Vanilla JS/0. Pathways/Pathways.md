@@ -1,4 +1,4 @@
-
+## **Pathway 1: Everything** 
 ![everything](https://i.ibb.co/zmwsPyb/JS-everything.png)
 
 ![Important](https://i.ibb.co/Y49zzJG/JS-important.png)
