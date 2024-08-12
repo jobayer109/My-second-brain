@@ -6,6 +6,8 @@
 ## **Pathway 2:  Only Important parts** 
 ![Important](https://i.ibb.co/Y49zzJG/JS-important.png)
 
+---
+
 ## **Pathway 3:  Only Project with UI** 
 ![only project with UI](https://i.ibb.co/PwHCLR3/JS-project-with-UI.png)
 
