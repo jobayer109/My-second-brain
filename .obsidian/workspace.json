@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3a249a285e284761",
+        "id": "cf41ad24664ac8ac",
         "type": "tabs",
         "children": [
           {
-            "id": "3a8bf2e8ef96d3f0",
+            "id": "dcece5c6c6180712",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 357.5
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -181,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a8bf2e8ef96d3f0",
+  "active": "dcece5c6c6180712",
   "lastOpenFiles": [
     "Resources/pdf/What is Function😍.pdf",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
