@@ -22,6 +22,7 @@
 
 ![Job interview](https://i.ibb.co/19bn1J8/JS-job-interview-preparation.png)
 
+---
 ## **Pathway 2:  Only What's New in Version 2** 
 ![New in JS](https://i.ibb.co/ZmPkyxq/JS-next-update.png)
 
