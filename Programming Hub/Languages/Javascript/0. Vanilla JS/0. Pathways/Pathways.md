@@ -13,7 +13,7 @@
 
 ---
 
-## **Pathway 2:  Only Language Itself** 
+## **Pathway 4:  Only Language Itself** 
 ![Only language](https://i.ibb.co/N90W0Fg/JS-only-language-itself.png)
 
 ---
