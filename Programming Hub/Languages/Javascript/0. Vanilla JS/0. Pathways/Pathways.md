@@ -3,7 +3,7 @@
 
 ---
 
-## **Pathway 2:  Only Important parts** 
+## Pathway 2:  **Only Important parts** 
 ![Important](https://i.ibb.co/Y49zzJG/JS-important.png)
 
 ---
