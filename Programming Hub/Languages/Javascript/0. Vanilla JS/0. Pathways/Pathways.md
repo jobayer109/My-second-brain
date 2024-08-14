@@ -17,7 +17,7 @@
 ![Only language](https://i.ibb.co/N90W0Fg/JS-only-language-itself.png)
 
 ---
-## **Pathway 2:  Only Interested in Framework 
+## **Pathway 5:  Only Interested in Framework 
 ![Only frameworks](https://i.ibb.co/5rtmhcN/JS-only-interest-in-frameworks.png)
 
 ![Job interview](https://i.ibb.co/19bn1J8/JS-job-interview-preparation.png)
