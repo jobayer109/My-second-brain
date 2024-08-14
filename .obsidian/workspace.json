@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf41ad24664ac8ac",
+        "id": "49a785dfc173c3a4",
         "type": "tabs",
         "children": [
           {
-            "id": "dcece5c6c6180712",
+            "id": "c5bd0b5fb67dde25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,8 +181,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dcece5c6c6180712",
+  "active": "c5bd0b5fb67dde25",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
     "Resources/pdf/What is Function😍.pdf",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
@@ -217,7 +218,6 @@
     "Projects/Javascript/Mapty App/Final project",
     "Projects/Javascript/Mapty App/starter code",
     "Projects/Javascript/Mapty App",
-    "Projects/Javascript",
     "Problem-solving/C++/Basic/8. String Reverse.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Closure.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/5. IIFE - Immediately Invoked Function Expression.md",

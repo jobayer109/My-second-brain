@@ -1,4 +1,4 @@
-## **Pathway 1: Everything** 
+## Pathway 1:  **Everything**
 ![everything](https://i.ibb.co/zmwsPyb/JS-everything.png)
 
 ---
