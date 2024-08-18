@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways of learning.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways of learning.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways of learning.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways of learning.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md"
               }
             }
           },
@@ -183,7 +183,7 @@
   },
   "active": "c5bd0b5fb67dde25",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways of learning.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
     "Resources/pdf/What is Function😍.pdf",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
