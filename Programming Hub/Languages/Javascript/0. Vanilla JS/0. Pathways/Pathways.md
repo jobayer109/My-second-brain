@@ -21,7 +21,7 @@
 ![Only frameworks](https://i.ibb.co/5rtmhcN/JS-only-interest-in-frameworks.png)
 
 
-## **Pathway 6:  Job Interview Preparation 
+## Pathway 6:  **Job Interview Preparation 
 ![Job interview](https://i.ibb.co/19bn1J8/JS-job-interview-preparation.png)
 
 ---
