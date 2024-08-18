@@ -8,7 +8,7 @@
 
 ---
 
-## **Pathway 3:  Only Project with UI** 
+## Pathway 3:  **Only Project with UI** 
 ![only project with UI](https://i.ibb.co/PwHCLR3/JS-project-with-UI.png)
 
 ---
