@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/2. Linking JS file.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/3. Value and Variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/2. Linking JS file.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/3. Value and Variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/2. Linking JS file.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/3. Value and Variable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/2. Linking JS file.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/3. Value and Variable.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "f3da554febc6ef61",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/2. Linking JS file.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/0.2 History.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
@@ -233,7 +234,6 @@
     "Projects/Javascript/Mapty App/Final project",
     "Projects/Javascript/Mapty App/starter code",
     "Projects/Javascript/Mapty App",
-    "Problem-solving/C++/Basic/8. String Reverse.md",
     "Pasted Image 20240702151415_585.png",
     "Pasted image 20240702080521.png",
     "Pasted image 20240702080112.png",
