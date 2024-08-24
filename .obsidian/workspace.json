@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/7. Strings and Template Literals.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/9. Type Conversion and Coercion.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/7. Strings and Template Literals.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/9. Type Conversion and Coercion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/7. Strings and Template Literals.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/9. Type Conversion and Coercion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/7. Strings and Template Literals.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/9. Type Conversion and Coercion.md"
               }
             }
           },
@@ -183,6 +183,8 @@
   },
   "active": "65fdb7caab8d1fdc",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/8. Basic if-else.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/7. Strings and Template Literals.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/6. Operators.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/5. Let, Const and Var.md",
@@ -214,10 +216,8 @@
     "Resources/Others/Flowchart of Mapty.png",
     "Resources/Others",
     "Components Hub/Geolocation/Leaflet/Map implementation.md",
-    "Components Hub/Geolocation/npm.md",
     "Components Hub/Geolocation/Leaflet",
     "Components Hub/Geolocation",
-    "Projects/Javascript/Mapty App/Flow-chart.md",
     "Projects/Javascript/Mapty App/Final project",
     "Projects/Javascript/Mapty App/starter code",
     "Projects/Javascript/Mapty App",
