@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "49a785dfc173c3a4",
+        "id": "9c3f99241448462d",
         "type": "tabs",
         "children": [
           {
-            "id": "c5bd0b5fb67dde25",
+            "id": "65fdb7caab8d1fdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3da554febc6ef61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/6. Operators.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/7. Strings and Template Literals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/6. Operators.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/7. Strings and Template Literals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/6. Operators.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/7. Strings and Template Literals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/6. Operators.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/7. Strings and Template Literals.md"
               }
             }
           },
@@ -194,15 +181,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3da554febc6ef61",
+  "active": "65fdb7caab8d1fdc",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/6. Operators.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/5. Let, Const and Var.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/4. Data Types.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/3. Value and Variable.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/2. Linking JS file.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/0.2 History.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/0. Pathways/Pathways.md",
     "Resources/pdf/What is Function😍.pdf",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
@@ -230,7 +218,6 @@
     "Components Hub/Geolocation/Leaflet",
     "Components Hub/Geolocation",
     "Projects/Javascript/Mapty App/Flow-chart.md",
-    "Projects/Javascript/Mapty App/starter code/CSS.md",
     "Projects/Javascript/Mapty App/Final project",
     "Projects/Javascript/Mapty App/starter code",
     "Projects/Javascript/Mapty App",
