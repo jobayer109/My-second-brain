@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9c3f99241448462d",
+        "id": "d41016781938c89a",
         "type": "tabs",
         "children": [
           {
-            "id": "65fdb7caab8d1fdc",
+            "id": "4a6cbdad399f03f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -181,10 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65fdb7caab8d1fdc",
+  "active": "4a6cbdad399f03f7",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/10. Truthy - Falsy value.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/9. Type Conversion and Coercion.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/8. Basic if-else.md",
