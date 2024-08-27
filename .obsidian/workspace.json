@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/12. Logical operator.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/12. Logical operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/12. Logical operator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/12. Logical operator.md"
               }
             }
           },
@@ -183,10 +183,11 @@
   },
   "active": "4a6cbdad399f03f7",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/11. == vs ===.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/10. Truthy - Falsy value.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/9. Type Conversion and Coercion.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/0. What is OOP.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/8. Basic if-else.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/7. Strings and Template Literals.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/6. Operators.md",
@@ -212,7 +213,6 @@
     "Resources/SASS",
     "Components Hub/SASS/5. Partial.md",
     "Components Hub/SASS/2. SASS settings.md",
-    "Components Hub/SASS/4. Nesting css.md",
     "Components Hub/SASS",
     "Resources/Others/Flowchart of Mapty.png",
     "Resources/Others",
