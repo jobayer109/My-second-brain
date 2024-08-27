@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/12. Logical operator.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/12. Logical operator.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/12. Logical operator.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/12. Logical operator.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md"
               }
             }
           },
@@ -183,6 +183,10 @@
   },
   "active": "4a6cbdad399f03f7",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/15. Ternary Operator.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/14. Statements and Expressions.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/13. Switch Statement.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/12. Logical operator.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/11. == vs ===.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/10. Truthy - Falsy value.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/9. Type Conversion and Coercion.md",
@@ -206,13 +210,9 @@
     "Components Hub/SASS/8. if-else.md",
     "Components Hub/SASS/10. @each mapping.md",
     "Components Hub/SASS/9. Loop (for, while).md",
-    "Components Hub/SASS/7. Extend and Inheritance.md",
-    "Components Hub/SASS/6. mixin and include.md",
     "Components Hub/SASS/Untitled",
     "Resources/SASS/How sass works.png",
     "Resources/SASS",
-    "Components Hub/SASS/5. Partial.md",
-    "Components Hub/SASS/2. SASS settings.md",
     "Components Hub/SASS",
     "Resources/Others/Flowchart of Mapty.png",
     "Resources/Others",
