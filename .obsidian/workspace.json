@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d41016781938c89a",
+        "id": "a9b66a50984a1a71",
         "type": "tabs",
         "children": [
           {
-            "id": "4a6cbdad399f03f7",
+            "id": "6cf98fadc34406ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/3. Function declaration vs expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/3. Function declaration vs expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/3. Function declaration vs expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/3. Function declaration vs expression.md"
               }
             }
           },
@@ -181,8 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4a6cbdad399f03f7",
+  "active": "6cf98fadc34406ee",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/2. Basic Function.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/1. Activating Strict Mode.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/15. Ternary Operator.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/14. Statements and Expressions.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/13. Switch Statement.md",
@@ -207,9 +210,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Parameters.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/4. ES6 Classes/3. Static Method.md",
-    "Components Hub/SASS/8. if-else.md",
-    "Components Hub/SASS/10. @each mapping.md",
-    "Components Hub/SASS/9. Loop (for, while).md",
     "Components Hub/SASS/Untitled",
     "Resources/SASS/How sass works.png",
     "Resources/SASS",
