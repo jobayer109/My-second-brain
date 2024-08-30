@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/8. For loop.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/9. Looping Arrays, Breaking and Continuing.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/8. For loop.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/9. Looping Arrays, Breaking and Continuing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/8. For loop.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/9. Looping Arrays, Breaking and Continuing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/8. For loop.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/9. Looping Arrays, Breaking and Continuing.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "6cf98fadc34406ee",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/8. For loop.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/7. Object.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/6. Array.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/5. Function calling from another.md",
@@ -208,7 +209,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/4. Data Types.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/3. Value and Variable.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/2. Linking JS file.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
     "Resources/pdf/What is Function😍.pdf",
     "Components Hub/SASS/Untitled",
     "Resources/SASS/How sass works.png",
