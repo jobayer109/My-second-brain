@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/6. Array.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/7. Object.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/6. Array.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/7. Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/6. Array.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/7. Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/6. Array.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/7. Object.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "6cf98fadc34406ee",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/6. Array.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/5. Function calling from another.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/4. Arrow Function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/3. Function declaration vs expression.md",
@@ -209,7 +210,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/0.2 History.md",
     "Resources/pdf/What is Function😍.pdf",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class and Higher Order function.md",
     "Components Hub/SASS/Untitled",
     "Resources/SASS/How sass works.png",
     "Resources/SASS",
