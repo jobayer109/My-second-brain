@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Programming Hub/SASS/Overview/2. How sass work.png"
+                "file": "Programming Hub/SASS/0. Overview/2. How sass work.png"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/SASS/Overview/2. How sass work.png",
+                "file": "Programming Hub/SASS/0. Overview/2. How sass work.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/SASS/Overview/2. How sass work.png",
+                "file": "Programming Hub/SASS/0. Overview/2. How sass work.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/SASS/Overview/2. How sass work.png"
+                "file": "Programming Hub/SASS/0. Overview/2. How sass work.png"
               }
             }
           },
@@ -179,12 +179,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a53d6aa98a389210",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
-    "Programming Hub/SASS/Overview/1. Sass vs SCSS.pdf",
+    "Programming Hub/SASS/1. Setup",
+    "Programming Hub/SASS/0. Overview/1. Sass vs SCSS.pdf",
     "Programming Hub/SASS/Overview/1. SASS vs SCSS.md",
-    "Programming Hub/SASS/Overview/2. How sass work.png",
-    "Programming Hub/SASS/Overview",
+    "Programming Hub/SASS/0. Overview/2. How sass work.png",
+    "Programming Hub/SASS/0. Overview",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/3. DOM and Events Fundamentals/0. Images.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/10. While loop.md",
