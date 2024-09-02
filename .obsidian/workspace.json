@@ -11,8 +11,12 @@
             "id": "b720b0abeeff3cc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 303.5
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md"
+              }
             }
           },
           {
@@ -175,6 +183,11 @@
   },
   "active": "b720b0abeeff3cc2",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser & Node.js.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/0. JavaScript Runtime.md",
     "Personal/Plans/Tasks.md",
     "Personal/Plans/Routine.md",
     "Programming Hub/CSS/9. Loop (for, while).md",
@@ -201,11 +214,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/4. Arrow Function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/3. Function declaration vs expression.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/2. Basic Function.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/1. Activating Strict Mode.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/15. Ternary Operator.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/14. Statements and Expressions.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/13. Switch Statement.md",
     "Resources/pdf/What is Function😍.pdf",
     "Components Hub/SASS/Untitled",
     "Programming Hub/CSS/SASS",
