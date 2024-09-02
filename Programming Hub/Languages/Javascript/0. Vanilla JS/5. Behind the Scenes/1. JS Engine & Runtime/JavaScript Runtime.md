@@ -25,7 +25,7 @@
 
 
 # 2. Execution Context
-- #### Global Execution Context
+- ### Global Execution Context
   - Default execution context is either `window` or, `Global`
   - Whenever we declare anything in `global` / `window` scope is automatically attached with the  `global` / `window` object.
   - Created before any code is executed.
@@ -42,7 +42,7 @@
     foo();
     ```
   
-- #### Function Execution Context
+- ### Function Execution Context
   - Created each time a **function is called**.
   - Whenever we call a function it will get a brand new context / scope of its own.
   - Includes `local variables`, `arguments`, `this`, and a `reference` to the outer environment.
@@ -63,7 +63,7 @@
 ---
 
 # 3. Execution Phase ( 2 phases)
-- ##### Creation Phase
+- ### Creation Phase
   - **Global Object Setup**: During this phase, JavaScript sets up global variables and functions that are declared in the code. This includes allocating memory for these variables and functions.
   - **Hoisting**: Variables and functions are declared throughout the code but are not yet initialized with values. Instead, JavaScript hoists (moves) these declarations to the top of their respective scopes during compilation.
     ```javascript
@@ -72,7 +72,7 @@
     console.log(x); // 5
     ```
 
-- #####  Execution Phase
+- ###  Execution Phase
   After the Creation Phase in JavaScript's execution, the program moves on to the Execution Phase. Here’s what happens during the Execution Phase:
 
 	1. **Initialization of Variables and Functions**:
@@ -122,7 +122,7 @@
     let obj = { name: "John", age: 30 };
     ```
 
-##### Garbage Collection
+### Garbage Collection
   - JavaScript uses garbage collection to manage memory automatically.
   - When there are no more references to an object or data stored in the heap, JavaScript marks that memory as no longer needed.
   - Periodically, the garbage collector runs to identify and reclaim unused memory, freeing up space in the heap for new allocations.
@@ -159,12 +159,14 @@
 8. **History API**
     - Manipulates the browser session history.
 
-   And so many more ....
+   And so many more....
+
+---
 
 # 6. Queues ( ***Micro-Task Queue* and *Macro-Task Queue*** )
    - JavaScript manages asynchronous operations using two types of queues: the Microtask Queue and the MacroTask Queue. Understanding these queues helps in writing efficient asynchronous code.
 
-#####      Microtask Queue
+### Microtask Queue
 - **Purpose**: Handles tasks that need to be executed immediately after the current script execution.
 - **Common Microtasks**: Promise callbacks, `process.nextTick` (Node.js).
 - **Execution Order**: ***Microtasks are processed before any macro-tasks***.
@@ -173,7 +175,7 @@
   Promise.resolve().then(() => console.log("Microtask"));
   ```
 
-#####      Macrotask Queue (Task Queue)
+### Macrotask Queue (Task Queue)
 - **Purpose**: Handles tasks that can be deferred and executed after the current script and all microtasks are completed.
 - **Common Macro-Tasks**: `setTimeout`, `setInterval`, I/O operations.
 - **Execution Order**: ***Macro-Tasks are processed after the microtask queue is empty.***
@@ -241,3 +243,4 @@ Macrotask 2
     // Output: "Start", "End", "Timeout"
     ```
 
+---
