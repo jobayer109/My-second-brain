@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Programming Hub/Dev Tools/SASS/0. Overview/2. How sass work.png"
+                "file": "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Dev Tools/SASS/0. Overview/2. How sass work.png",
+                "file": "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Dev Tools/SASS/0. Overview/2. How sass work.png",
+                "file": "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Dev Tools/SASS/0. Overview/2. How sass work.png"
+                "file": "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png"
               }
             }
           },
@@ -182,11 +182,11 @@
   "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
     "Programming Hub/CSS",
-    "Programming Hub/Dev Tools/SASS/1. Setup",
-    "Programming Hub/Dev Tools/SASS/0. Overview/1. Sass vs SCSS.pdf",
+    "Programming Hub/CSS/SASS/1. Setup",
+    "Programming Hub/CSS/SASS/0. Overview/1. Sass vs SCSS.pdf",
     "Programming Hub/SASS/Overview/1. SASS vs SCSS.md",
-    "Programming Hub/Dev Tools/SASS/0. Overview/2. How sass work.png",
-    "Programming Hub/Dev Tools/SASS/0. Overview",
+    "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
+    "Programming Hub/CSS/SASS/0. Overview",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/3. DOM and Events Fundamentals/0. Images.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/10. While loop.md",
@@ -213,7 +213,7 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/6. Operators.md",
     "Resources/pdf/What is Function😍.pdf",
     "Components Hub/SASS/Untitled",
-    "Programming Hub/Dev Tools/SASS",
+    "Programming Hub/CSS/SASS",
     "Components Hub/SASS",
     "Resources/Others/Flowchart of Mapty.png",
     "Resources/Others",
