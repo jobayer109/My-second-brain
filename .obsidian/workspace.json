@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/CSS/SASS/0. Overview/0. What is SASS.md",
+                "file": "Programming Hub/CSS/SASS/1. Setup/2. SASS settings.md",
                 "mode": "preview",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/CSS/SASS/0. Overview/0. What is SASS.md",
+                "file": "Programming Hub/CSS/SASS/1. Setup/2. SASS settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/CSS/SASS/0. Overview/0. What is SASS.md",
+                "file": "Programming Hub/CSS/SASS/1. Setup/2. SASS settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/CSS/SASS/0. Overview/0. What is SASS.md"
+                "file": "Programming Hub/CSS/SASS/1. Setup/2. SASS settings.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "Programming Hub/CSS/SASS/0. Overview/0. What is SASS.md",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Programming Hub/CSS/SASS/0. Overview/1. Sass vs SCSS.pdf",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/JavaScript Runtime.md",
@@ -194,8 +195,7 @@
     "Personal/Plans/Tasks.md",
     "Personal/Plans/Routine.md",
     "Programming Hub/CSS/9. Loop (for, while).md",
-    "Programming Hub/CSS/2. SASS settings.md",
-    "Programming Hub/CSS/SASS/0. Overview/0. What is SASS.md",
+    "Programming Hub/CSS/SASS/1. Setup/2. SASS settings.md",
     "Programming Hub/CSS/3. Variables.md",
     "Excalidraw/Drawing 2024-07-02 14.55.50.excalidraw.md",
     "Excalidraw/Drawing 2024-06-15 12.09.10.excalidraw.md",
