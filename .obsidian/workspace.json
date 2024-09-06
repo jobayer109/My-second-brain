@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class Function.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser & Node.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class Function.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser & Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class Function.md",
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser & Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class Function.md"
+                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser & Node.js.md"
               }
             }
           },
@@ -181,26 +181,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "12bc6d5967a37d5b",
   "lastOpenFiles": [
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/JavaScript Runtime.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/6. Hoisting.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser & Node.js.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/0. Topics/0. Topics.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/2. Linking JS file.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/1. What is JS.md",
+    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class Function.md",
     "Programming Hub/Frameworks/React.js/Stephen Grider",
     "Programming Hub/Frameworks/Next.js",
     "Programming Hub/Frameworks/React.js",
     "Programming Hub/Frameworks",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Higher Order Function.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class Function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/6. Callback.md",
     "Programming Hub/CSS/SASS/1. Setup/GitHub Settings.md",
     "Programming Hub/CSS/SASS/Functionalities",
     "Programming Hub/CSS/SASS/0. Overview/0. What is SASS.md",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Programming Hub/CSS/SASS/0. Overview/1. Sass vs SCSS.pdf",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/JavaScript Runtime.md",
     "Programming Hub/Typescript",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser & Node.js.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
     "Personal/Plans/Tasks.md",
     "Personal/Plans/Routine.md",
     "Programming Hub/CSS/SASS/Functionalities/9. Loop (for, while).md",
@@ -216,10 +220,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/3. DOM and Events Fundamentals/0. Images.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/10. While loop.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/9. Looping Arrays, Breaking and Continuing.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/8. For loop.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/7. Object.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/6. Array.md",
-    "Resources/pdf/What is Function😍.pdf",
     "Resources/Others/Flowchart of Mapty.png",
     "Pasted Image 20240702151415_585.png",
     "Pasted image 20240702080521.png",
