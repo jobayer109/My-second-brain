@@ -53,3 +53,18 @@ console.log("Sum of even numbers:", evenNumberSum(array)); // Output: 82
 ```
 
 5. Write a function that finds only odd number sum from array [12,3,4,12,46,9,8,9,7]
+```js
+function oddNumberSum(arr) {
+  let sum = 0;
+
+  for (let i = 0; i < arr.length; i++) {
+    if (arr[i] % 2 !== 0) {
+      sum += arr[i]; // Add only odd numbers
+    }
+  }
+
+  return sum;
+}
+
+
+```
