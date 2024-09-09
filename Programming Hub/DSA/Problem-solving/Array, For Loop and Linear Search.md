@@ -74,5 +74,19 @@ console.log("Sum of odd numbers:", oddNumberSum(array)); // Output: 28
 
 6. Write a function that finds if all elements are unique [12,3,4,12,46,9,8,9,7], If any elements exist more than one that returns false, otherwise true.
 ```js
+function areAllElementsUnique(arr) {
+  let uniqueElements = new Set();
+
+  for (let i = 0; i < arr.length; i++) {
+    if (uniqueElements.has(arr[i])) {
+      return false; // Duplicate found, return false
+    }
+    uniqueElements.add(arr[i]); // Add element to the set
+  }
+
+  return true; // All elements are unique
+}
+
+
 
 ```
