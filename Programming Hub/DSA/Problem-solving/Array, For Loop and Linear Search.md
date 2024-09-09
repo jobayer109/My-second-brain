@@ -72,4 +72,4 @@ console.log("Sum of odd numbers:", oddNumberSum(array)); // Output: 28
 ```
 
 
-6. 
+6. Write a function that finds if all elements are unique [12,3,4,12,46,9,8,9,7], If any elements exist more than one that returns false, otherwise true.
