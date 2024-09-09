@@ -26,6 +26,9 @@ function findElement(arr, target) {
   return false; // Element not found
 }
 
+const array = [12, 3, 4, 12, 46, 9, 8];
+const target = 46;
 
+console.log(findElement(array, target)); // Output: true
 
 ```
