@@ -33,4 +33,4 @@ console.log(findElement(array, target)); // Output: true
 
 ```
 
-4.  
+4.  Write a function that finds only even number sum from array [12,3,4,12,46,9,8]
