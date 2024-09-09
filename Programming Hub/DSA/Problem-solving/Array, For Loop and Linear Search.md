@@ -32,3 +32,4 @@ const target = 46;
 console.log(findElement(array, target)); // Output: true
 
 ```
+
