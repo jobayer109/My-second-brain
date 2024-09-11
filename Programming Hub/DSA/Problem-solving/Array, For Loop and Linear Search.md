@@ -97,4 +97,3 @@ console.log("Are all elements unique?", areAllElementsUnique(array)); // Output:
 
 ```
 
----
