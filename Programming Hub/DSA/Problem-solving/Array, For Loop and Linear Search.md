@@ -52,7 +52,7 @@ function evenNumberSum(arr) {
 }
 
 const array = [12, 3, 4, 12, 46, 9, 8];
-console.log("Sum of even numbers:", evenNumberSum(array)); // Output: 82
+console.log(evenNumberSum(array)); // Output: 82
 
 ```
 
