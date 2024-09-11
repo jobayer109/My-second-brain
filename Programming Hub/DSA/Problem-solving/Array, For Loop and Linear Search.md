@@ -5,7 +5,6 @@ for (let i = 1; i <= 100; i++) {
 }
 ```
 
----
 
 2. Write a for loop that sum from 1 - 100
 ```js
