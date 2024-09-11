@@ -72,7 +72,7 @@ function oddNumberSum(arr) {
 }
 
 const array = [12, 3, 4, 12, 46, 9, 8, 9, 7];
-console.log("Sum of odd numbers:", oddNumberSum(array)); // Output: 28
+console.log(oddNumberSum(array)); // Output: 28
 
 ```
 
