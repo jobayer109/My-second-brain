@@ -97,3 +97,5 @@ const array = [12, 3, 4, 12, 46, 9, 8, 9, 7];
 console.log(areAllElementsUnique(array)); // Output: false
 
 ```
+
+---
