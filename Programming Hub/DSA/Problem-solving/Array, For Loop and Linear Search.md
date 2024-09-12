@@ -16,7 +16,6 @@ for (let i = 1; i <= 100; i++) {
 console.log(sum);
 
 ```
-
 ---
 
 3. **Write a function that finds an element from an array. If it exists, that returns true; otherwise, it is false. [12,3,4,12,46,9,8]**
@@ -97,5 +96,4 @@ const array = [12, 3, 4, 12, 46, 9, 8, 9, 7];
 console.log(areAllElementsUnique(array)); // Output: false
 
 ```
-
 ---
