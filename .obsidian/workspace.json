@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/DSA/Problem-solving/Array, For Loop and Linear Search.md",
+                "file": "Programming Hub/Website checker/Website checkers.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/DSA/Problem-solving/Array, For Loop and Linear Search.md",
+                "file": "Programming Hub/Website checker/Website checkers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/DSA/Problem-solving/Array, For Loop and Linear Search.md",
+                "file": "Programming Hub/Website checker/Website checkers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/DSA/Problem-solving/Array, For Loop and Linear Search.md"
+                "file": "Programming Hub/Website checker/Website checkers.md"
               }
             }
           },
@@ -181,10 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "a45f5e54a56a82ca",
   "lastOpenFiles": [
-    "Programming Hub/Website checker",
     "Programming Hub/DSA/Problem-solving/Array, For Loop and Linear Search.md",
+    "Programming Hub/Website checker/Website checkers.md",
+    "Programming Hub/Website checker",
     "Programming Hub/DSA/Problem-solving",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser & Node.js.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
@@ -216,7 +217,6 @@
     "Excalidraw/Drawing 2024-06-15 12.09.10.excalidraw.md",
     "Excalidraw/Drawing 2024-06-10 15.50.27.excalidraw.md",
     "Programming Hub/CSS",
-    "Programming Hub/CSS/SASS/1. Setup",
     "Programming Hub/SASS/Overview/1. SASS vs SCSS.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/3. DOM and Events Fundamentals/0. Images.md",
