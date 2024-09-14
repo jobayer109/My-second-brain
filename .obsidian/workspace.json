@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6036a3a137c7d1",
+        "id": "b8d46baf04852c94",
         "type": "tabs",
         "children": [
           {
-            "id": "a45f5e54a56a82ca",
+            "id": "32932dfbed20e6d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Website checker/Website checkers.md",
+                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Website checker/Website checkers.md",
+                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Website checker/Website checkers.md",
+                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Website checker/Website checkers.md"
+                "file": "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md"
               }
             }
           },
@@ -181,10 +181,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a45f5e54a56a82ca",
+  "active": "32932dfbed20e6d9",
   "lastOpenFiles": [
-    "Programming Hub/DSA/Problem-solving/Array, For Loop and Linear Search.md",
+    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
+    "Programming Hub/Languages/C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
     "Programming Hub/Website checker/Website checkers.md",
+    "Programming Hub/DSA/Problem-solving/Array, For Loop and Linear Search.md",
     "Programming Hub/Website checker",
     "Programming Hub/DSA/Problem-solving",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser & Node.js.md",
@@ -218,8 +220,6 @@
     "Excalidraw/Drawing 2024-06-10 15.50.27.excalidraw.md",
     "Programming Hub/CSS",
     "Programming Hub/SASS/Overview/1. SASS vs SCSS.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/8. OOP/0. Introduction/2. OOP story.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/3. DOM and Events Fundamentals/0. Images.md",
     "Resources/Others/Flowchart of Mapty.png",
     "Pasted Image 20240702151415_585.png",
     "Pasted image 20240702080521.png",
