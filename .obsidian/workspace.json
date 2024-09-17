@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Tools/Github/Delete Commits.md",
+                "file": "Programming Hub/Tools/Github/0. What is GIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Tools/Github/Delete Commits.md",
+                "file": "Programming Hub/Tools/Github/0. What is GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Tools/Github/Delete Commits.md",
+                "file": "Programming Hub/Tools/Github/0. What is GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Tools/Github/Delete Commits.md"
+                "file": "Programming Hub/Tools/Github/0. What is GIT.md"
               }
             }
           },
@@ -181,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32932dfbed20e6d9",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
