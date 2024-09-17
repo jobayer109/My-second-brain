@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 239.5
   },
   "right": {
     "id": "d3823d2f56e3afac",
@@ -181,7 +181,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32932dfbed20e6d9",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
