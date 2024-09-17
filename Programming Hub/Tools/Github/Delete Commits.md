@@ -1,4 +1,2 @@
 
 ### Delete `single` commit
-
----
