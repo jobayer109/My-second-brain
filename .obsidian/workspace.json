@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Tools/Github/0. Interview Questions.md",
+                "file": "Programming Hub/Tools/Github/1. Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Tools/Github/0. Interview Questions.md",
+                "file": "Programming Hub/Tools/Github/1. Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Tools/Github/0. Interview Questions.md",
+                "file": "Programming Hub/Tools/Github/1. Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Tools/Github/0. Interview Questions.md"
+                "file": "Programming Hub/Tools/Github/1. Commands.md"
               }
             }
           },
@@ -181,8 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "32932dfbed20e6d9",
   "lastOpenFiles": [
+    "Programming Hub/Tools/Github/0. Interview Questions.md",
+    "Programming Hub/Tools/Github/1. Commands.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
     "Programming Hub/Languages/C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
@@ -217,8 +219,6 @@
     "Programming Hub/CSS/SASS/Functionalities/9. Loop (for, while).md",
     "Programming Hub/CSS/SASS/Functionalities/3. Variables.md",
     "Excalidraw/Drawing 2024-07-02 14.55.50.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-15 12.09.10.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-10 15.50.27.excalidraw.md",
     "Programming Hub/CSS",
     "Resources/Others/Flowchart of Mapty.png",
     "Pasted Image 20240702151415_585.png",
