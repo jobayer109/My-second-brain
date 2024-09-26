@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Tools/Github/1. All git Commands.md",
+                "file": "Programming Hub/Tools/Github/1. Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Tools/Github/1. All git Commands.md",
+                "file": "Programming Hub/Tools/Github/1. Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Tools/Github/1. All git Commands.md",
+                "file": "Programming Hub/Tools/Github/1. Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Tools/Github/1. All git Commands.md"
+                "file": "Programming Hub/Tools/Github/1. Commands.md"
               }
             }
           },
@@ -184,7 +184,7 @@
   "active": "7503ff6a4a373edb",
   "lastOpenFiles": [
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/5. Closure.md",
-    "Programming Hub/Tools/Github/1. All git Commands.md",
+    "Programming Hub/Tools/Github/1. Commands.md",
     "Programming Hub/Tools/Github/0. Interview Questions.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
