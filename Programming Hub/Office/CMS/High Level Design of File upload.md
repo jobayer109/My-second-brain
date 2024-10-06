@@ -50,13 +50,6 @@ const multer = require('multer');
 const fs = require('fs');
 const app = express();
 
-// Set up multer for file uploads
-const upload = multer({
-  dest: './uploads/', // Temporary upload directory
-  limits: { fileSize: 10 * 1024 * 1024 }, // 10 MB file size limit
-});
-
-app.post('/upload-thumbnail-image', upload.single('thumbnail_image_link'), (req, res) => {
-  try 
+ 
 
 ```
