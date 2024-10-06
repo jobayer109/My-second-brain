@@ -57,33 +57,6 @@ const upload = multer({
 });
 
 app.post('/upload-thumbnail-image', upload.single('thumbnail_image_link'), (req, res) => {
-  try {
-    const file = req.file;
-    const filePath = file.path;
-    const fileOriginalName = file.originalname;
-    const fileExtension = fileOriginalName.split('.').pop();
-
-    // Generate a unique filename
-    const uniqueFilename = `${Date.now()}.${fileExtension}`;
-
-    // Move the file to a permanent storage location
-    const permanentStoragePath = `./uploads/${uniqueFilename}`;
-    fs.renameSync(filePath, permanentStoragePath);
-
-    // Return the URL of the uploaded image
-    const imageUrl = `http://localhost:3000/uploads/${uniqueFilename}`;
-    res.json({ url: imageUrl });
-  } catch (error) {
-    console.error('Error uploading image:', error);
-    res.status(500).json({ error: 'Failed to upload image' });
-  }
-});
-
-// Serve static files from the uploads directory
-app.use('/uploads', express.static('uploads'));
-
-app.listen(3000, () => {
-  console.log('Server running on http://localhost:3000');
-});
+  try 
 
 ```
