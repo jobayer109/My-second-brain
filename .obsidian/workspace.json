@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95ee0175334b0a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Hub/Office/CMS/High Level Design of File upload.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9704435b71f472f0",
             "type": "leaf",
             "state": {
@@ -101,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Office/CMS/High Level Design of File upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Office/CMS/High Level Design of File upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95ee0175334b0a5c",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
     "Programming Hub/Office/CMS/High Level Design of File upload.md",
     "Programming Hub/Tools/Github/1. Commands.md",
