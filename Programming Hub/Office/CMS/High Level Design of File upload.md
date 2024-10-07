@@ -73,11 +73,4 @@ app.post('/upload-thumbnail-image', upload.single('thumbnail_image_link'), (req,
   }
 });
 
-// Serve static files from the uploads directory
-app.use('/uploads', express.static('uploads'));
-
-app.listen(3000, () => {
-  console.log('Server is running on port 3000');
-});
-```
 
