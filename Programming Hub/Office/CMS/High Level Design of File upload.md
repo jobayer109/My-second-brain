@@ -61,16 +61,5 @@ const storage = multer.diskStorage({
 
 const upload = multer({ storage: storage });
 
-app.post('/upload-thumbnail-image', upload.single('thumbnail_image_link'), (req, res) => {
-  try {
-    const file = req.file;
-
-    const imageUrl = `http://localhost:3000/uploads/${file.filename}`;
-    res.json({ url: imageUrl });
-  } catch (error) {
-    console.error('Error uploading image:', error);
-    res.status(500).json({ error: 'Failed to upload image' });
-  }
-});
 
 
