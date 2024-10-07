@@ -43,8 +43,6 @@ const handleThumbnailImageChange = (e) => {
 
 ```
 
-# Backend (Express)
-
 
 
 
