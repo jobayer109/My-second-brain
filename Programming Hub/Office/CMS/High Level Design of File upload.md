@@ -27,21 +27,7 @@ const handleThumbnailImageChange = (e) => {
   const formData = new FormData();
   formData.append("thumbnail_image_link", file);
   
-  // Post the image to the backend
-  axios
-    .post("/upload-thumbnail-image", formData)
-    .then((response) => {
-      setIntroData((prevState) => ({
-        ...prevState,
-        thumbnail_image_link: response.data.url,
-      }));
-    })
-    .catch((error) => {
-      console.error("Error uploading thumbnail image:", error);
-    });
-};
 
-```
 
 
 
