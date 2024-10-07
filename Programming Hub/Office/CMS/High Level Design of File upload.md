@@ -20,15 +20,5 @@
 </div>
 ```
 
-### HTTP POST Request:
-```js
-const handleThumbnailImageChange = (e) => {
-  const file = e.target.files[0];
-  const formData = new FormData();
-  formData.append("thumbnail_image_link", file);
-  
-
-
-
 
 
