@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedIn/Top Voice plan.md",
+                "file": "LinkedIn/6 Months plan/Month 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinkedIn/Top Voice plan.md",
+                "file": "LinkedIn/6 Months plan/Month 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinkedIn/Top Voice plan.md",
+                "file": "LinkedIn/6 Months plan/Month 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinkedIn/Top Voice plan.md"
+                "file": "LinkedIn/6 Months plan/Month 1.md"
               }
             }
           },
@@ -184,6 +184,8 @@
   "active": "9704435b71f472f0",
   "lastOpenFiles": [
     "LinkedIn/Top Voice plan.md",
+    "LinkedIn/6 Months plan/Month 1.md",
+    "LinkedIn/6 Months plan",
     "LinkedIn",
     "Programming Hub/Office/CMS/High Level Design of File upload.md",
     "Programming Hub/Tools/Github/1. Commands.md",
@@ -215,11 +217,9 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/3. Javascript Engine.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/6. Hoisting.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/4. Regular vs Arrow Function.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/0. Topics/0. Topics.md",
     "Programming Hub/Frameworks/React.js/Stephen Grider",
     "Programming Hub/Frameworks/Next.js",
     "Programming Hub/Frameworks/React.js",
-    "Programming Hub/Frameworks",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Resources/Others/Flowchart of Mapty.png",
     "Pasted Image 20240702151415_585.png",
