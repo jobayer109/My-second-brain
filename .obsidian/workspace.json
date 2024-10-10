@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md",
+                "file": "Programming Hub/Database/5. 3-tier Architecture/3-tier Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md",
+                "file": "Programming Hub/Database/5. 3-tier Architecture/3-tier Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md",
+                "file": "Programming Hub/Database/5. 3-tier Architecture/3-tier Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md"
+                "file": "Programming Hub/Database/5. 3-tier Architecture/3-tier Architecture.md"
               }
             }
           },
@@ -183,9 +183,13 @@
   },
   "active": "084d8cfeb7c5c89c",
   "lastOpenFiles": [
+    "Pasted image 20241010234449.png",
+    "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md",
+    "Programming Hub/Database/5. 3-tier Architecture/3-tier Architecture.md",
+    "Programming Hub/Database/5. 3-tier Architecture",
+    "Programming Hub/Database/4. 2-tier Architecture/Untitled.md",
     "Pasted image 20241010230253.png",
     "Programming Hub/Database/3. Components of DBMS/Components of DBMS.md",
-    "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md",
     "Programming Hub/Database/4. 2-tier Architecture",
     "Programming Hub/Database/Untitled.md",
     "Programming Hub/Database/3. Components of DBMS",
@@ -206,7 +210,6 @@
     "Programming Hub/Office/CMS/High Level Design of File upload.md",
     "Programming Hub/Tools/Github/1. Commands.md",
     "Programming Hub/Office/CMS",
-    "Programming Hub/Office",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/6. Array.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md",
@@ -217,8 +220,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Higher Order Function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class Function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Parameters.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/JavaScript Runtime.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser & Node.js.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Resources/Others/Flowchart of Mapty.png",

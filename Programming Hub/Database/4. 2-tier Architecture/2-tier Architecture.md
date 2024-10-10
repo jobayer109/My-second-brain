@@ -1,5 +1,5 @@
 ![[Pasted image 20241010230253.png]]
-### 2-Tier Architecture
+
 
 #### Definition
 2-tier architecture is a client-server model where the client directly interacts with the database server.
