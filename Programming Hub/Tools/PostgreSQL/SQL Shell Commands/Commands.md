@@ -1,9 +1,8 @@
 1. **Create Database:**
 	- CREATE DATABASE dbName
-	- Example: CREATE DATABASE userDB
 
 2. **Get all databases:**
-	- forward-slash + \l;
+	- forward-slash + l;
 
 3. **Quite from Database:**
 	- qi;
