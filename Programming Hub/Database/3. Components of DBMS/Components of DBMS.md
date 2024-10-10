@@ -1,14 +1,12 @@
 1. **Data**
-	-  User provided : name, email, password
-	- Meta data: data about the stored data like date, time.
-
+	- **User provided** : name, email, password
+	- **Meta data**: data about the stored data like date, time.
 
 2. **Hardware**
 	- Hard disk
 
 3. **Software**
-	- DB data ops er jonno ekta user interface dibe jeta use kore amra data CRUD korte parbo.
-
+	- ডেটাবেজের ডাটাগুলো প্রসেস করে বিজনেস গোল এচিভ করার জন্য একটি ইউজার ইন্টারফেস বা ওয়েবসাইট।
 
 4. **Users**
 	- **Software developer**
