@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d5d30c57aa4a96d",
+        "id": "34a5f0ef892e4c32",
         "type": "tabs",
         "children": [
           {
-            "id": "486950fd95b868f6",
+            "id": "084d8cfeb7c5c89c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Database/3. Components of DBMS/Components of DBMS.md",
+                "file": "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Database/3. Components of DBMS/Components of DBMS.md",
+                "file": "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Database/3. Components of DBMS/Components of DBMS.md",
+                "file": "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Database/3. Components of DBMS/Components of DBMS.md"
+                "file": "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md"
               }
             }
           },
@@ -181,9 +181,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "486950fd95b868f6",
+  "active": "084d8cfeb7c5c89c",
   "lastOpenFiles": [
+    "Pasted image 20241010230253.png",
     "Programming Hub/Database/3. Components of DBMS/Components of DBMS.md",
+    "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md",
+    "Programming Hub/Database/4. 2-tier Architecture",
+    "Programming Hub/Database/Untitled.md",
     "Programming Hub/Database/3. Components of DBMS",
     "Programming Hub/Database/2. File System VS DBMS/File System VS DBMS.md",
     "Programming Hub/Database/2. File System VS DBMS/Untitled 1.md",
@@ -206,7 +210,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/6. Array.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/1. Fundamentals 1/16. Javascript Releases.md",
-    "Resources/pdf/What is Function😍.pdf",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/3. Function declaration vs expression.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/5. Function calling from another.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/6. Callback.md",
@@ -216,10 +219,7 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/1. Default Parameters.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/JavaScript Runtime.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/2. JS Runtime in Browser & Node.js.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/1. JS Engine & Runtime/1. Compilation vs Interpretation vs Just-in-Time.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
-    "Programming Hub/Tools/Github/0. Interview Questions.md",
-    "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Resources/Others/Flowchart of Mapty.png",
     "Pasted Image 20240702151415_585.png",
