@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/Articles - Event Loop.md",
+                "file": "Programming Hub/Database/Data & Info def/Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/Articles - Event Loop.md",
+                "file": "Programming Hub/Database/Data & Info def/Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/Articles - Event Loop.md",
+                "file": "Programming Hub/Database/Data & Info def/Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/Articles - Event Loop.md"
+                "file": "Programming Hub/Database/Data & Info def/Data.md"
               }
             }
           },
@@ -183,11 +183,14 @@
   },
   "active": "9704435b71f472f0",
   "lastOpenFiles": [
-    "LinkedIn/6 Months plan/Month 1",
-    "LinkedIn/More 1.md",
     "LinkedIn/More 2.md",
-    "LinkedIn/Top Voice plan.md",
+    "Programming Hub/Database/Data & Info def/Data.md",
+    "Programming Hub/Database/Data & Info def",
+    "Programming Hub/Database",
+    "LinkedIn/More 1.md",
     "LinkedIn/6 Months plan/Month 1/Articles - Event Loop.md",
+    "LinkedIn/6 Months plan/Month 1",
+    "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan",
     "LinkedIn",
     "Programming Hub/Office/CMS/High Level Design of File upload.md",
@@ -217,9 +220,6 @@
     "Programming Hub/DSA/Problem-solving/Array, For Loop and Linear Search.md",
     "Programming Hub/Website checker",
     "Programming Hub/DSA/Problem-solving",
-    "Programming Hub/Frameworks/React.js/Stephen Grider",
-    "Programming Hub/Frameworks/Next.js",
-    "Programming Hub/Frameworks/React.js",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Resources/Others/Flowchart of Mapty.png",
     "Pasted Image 20240702151415_585.png",
