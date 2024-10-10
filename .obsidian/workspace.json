@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Database/Data & Info def/Data.md",
+                "file": "Programming Hub/Database/2. File System VS DBMS/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Database/Data & Info def/Data.md",
+                "file": "Programming Hub/Database/2. File System VS DBMS/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Database/Data & Info def/Data.md",
+                "file": "Programming Hub/Database/2. File System VS DBMS/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Database/Data & Info def/Data.md"
+                "file": "Programming Hub/Database/2. File System VS DBMS/Untitled.md"
               }
             }
           },
@@ -183,9 +183,13 @@
   },
   "active": "9704435b71f472f0",
   "lastOpenFiles": [
+    "Programming Hub/Database/2. File System VS DBMS/Untitled 1.md",
+    "Programming Hub/Database/2. File System VS DBMS/Untitled.md",
+    "Programming Hub/Database/1. Data & Info def/Information.md",
+    "Programming Hub/Database/2. File System VS DBMS",
+    "Programming Hub/Database/1. Data & Info def/Data.md",
     "LinkedIn/More 2.md",
-    "Programming Hub/Database/Data & Info def/Data.md",
-    "Programming Hub/Database/Data & Info def",
+    "Programming Hub/Database/1. Data & Info def",
     "Programming Hub/Database",
     "LinkedIn/More 1.md",
     "LinkedIn/6 Months plan/Month 1/Articles - Event Loop.md",
@@ -215,11 +219,7 @@
     "Programming Hub/Tools/Github/0. Interview Questions.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
-    "Programming Hub/Languages/C++/1. Fundamentals/1. Hello Programming/1. How to run a code file.md",
-    "Programming Hub/Website checker/Website checkers.md",
-    "Programming Hub/DSA/Problem-solving/Array, For Loop and Linear Search.md",
     "Programming Hub/Website checker",
-    "Programming Hub/DSA/Problem-solving",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Resources/Others/Flowchart of Mapty.png",
     "Pasted Image 20240702151415_585.png",
