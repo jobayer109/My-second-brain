@@ -1,4 +1,4 @@
-𝗠𝗶𝗹𝗲𝘀𝘁𝝾𝗻𝗲 𝝖𝗰𝗵𝗶𝗲𝘃𝗲𝗱: 2,000+ Followers on [LinkedIn](https://www.linkedin.com/company/linkedin/) 😍  
+𝗠𝗶𝗹𝗲𝘀𝘁𝝾𝗻𝗲 𝝖𝗰𝗵𝗶𝗲𝘃𝗲𝗱: 2,000+ Followers on LinkedIn 😍  
   
 I’m excited to share that I’ve crossed 2,000 followers on [LinkedIn](https://www.linkedin.com/company/linkedin/). Thank you all for your support and engagement.⚡  
   
