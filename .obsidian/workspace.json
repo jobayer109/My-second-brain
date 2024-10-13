@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Project..md",
+                "file": "Projects/Business Project..md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Project..md",
+                "file": "Projects/Business Project..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Project..md",
+                "file": "Projects/Business Project..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Project..md"
+                "file": "Projects/Business Project..md"
               }
             }
           },
@@ -181,10 +181,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "083a25ffd782d6fa",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "Untitled",
     "LinkedIn/More 2.md",
-    "Business Project..md",
+    "Projects/Business Project..md",
     "LinkedIn/Top Voice plan.md",
     "LinkedIn/More 1.md",
     "LinkedIn/6 Months plan/Month 1/2K Followers.md",
@@ -220,7 +221,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/5. Function calling from another.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/6. Callback.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/5. Closure.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Higher Order Function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Resources/Others/Flowchart of Mapty.png",

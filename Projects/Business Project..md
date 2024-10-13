@@ -42,8 +42,4 @@
     We need a budget to keep up with other quotations.  
 
   
-
-  
-
-  
 Looking forward to hearing from you soon.
