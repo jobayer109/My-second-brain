@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34a5f0ef892e4c32",
+        "id": "bf8fffaaedccc52e",
         "type": "tabs",
         "children": [
           {
-            "id": "084d8cfeb7c5c89c",
+            "id": "083a25ffd782d6fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/2K Followers.md",
+                "file": "Business Project..md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/2K Followers.md",
+                "file": "Business Project..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/2K Followers.md",
+                "file": "Business Project..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/2K Followers.md"
+                "file": "Business Project..md"
               }
             }
           },
@@ -181,10 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "084d8cfeb7c5c89c",
+  "active": "083a25ffd782d6fa",
   "lastOpenFiles": [
-    "LinkedIn/6 Months plan/Month 1/Articles - Event Loop.md",
+    "LinkedIn/More 2.md",
+    "Business Project..md",
+    "LinkedIn/Top Voice plan.md",
+    "LinkedIn/More 1.md",
     "LinkedIn/6 Months plan/Month 1/2K Followers.md",
+    "LinkedIn/6 Months plan/Month 1/Articles - Event Loop.md",
     "Programming Hub/Tools/PostgreSQL/SQL Shell Commands/Commands.md",
     "Programming Hub/Tools/PostgreSQL",
     "Programming Hub/Database/5. 3-tier Architecture/3-tier Architecture.md",
@@ -203,12 +207,9 @@
     "Programming Hub/Database/1. Data & Info def/Information.md",
     "Programming Hub/Database/2. File System VS DBMS",
     "Programming Hub/Database/1. Data & Info def/Data.md",
-    "LinkedIn/More 2.md",
     "Programming Hub/Database/1. Data & Info def",
     "Programming Hub/Database",
-    "LinkedIn/More 1.md",
     "LinkedIn/6 Months plan/Month 1",
-    "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan",
     "Programming Hub/Office/CMS/High Level Design of File upload.md",
     "Programming Hub/Tools/Github/1. Commands.md",
@@ -220,7 +221,6 @@
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/6. Callback.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/5. Closure.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/4. Higher Order Function.md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/3. First class Function.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Resources/Others/Flowchart of Mapty.png",
