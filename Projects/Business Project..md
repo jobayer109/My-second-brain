@@ -23,9 +23,3 @@
   
    All Module will be Dynamic  
   
-6. Source Code or Hosting:  
-   Required: the source code  
-  
-7. Security Requirements:  
-   These requirements were for laravel project. You may choose something different.  
-  
