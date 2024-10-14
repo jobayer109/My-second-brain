@@ -37,9 +37,3 @@
 9. User Roles and Permissions:  
    Whereas, our website will be dynamic. So any module can be created as a role by the user.  
   
-10. Budget Proposal:  
-    Considering the Bangladeshi market, Medium can be a price.  
-    We need a budget to keep up with other quotations.  
-
-  
-Looking forward to hearing from you soon.
