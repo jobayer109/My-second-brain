@@ -34,6 +34,3 @@
  -  General process for Testing and Quality Assurance  
  -  Developer will be responsible for user acceptance testing.  
   
-9. User Roles and Permissions:  
-   Whereas, our website will be dynamic. So any module can be created as a role by the user.  
-  
