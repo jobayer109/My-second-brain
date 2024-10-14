@@ -29,8 +29,3 @@
 7. Security Requirements:  
    These requirements were for laravel project. You may choose something different.  
   
-8. Testing and Quality Assurance:  
-  
- -  General process for Testing and Quality Assurance  
- -  Developer will be responsible for user acceptance testing.  
-  
