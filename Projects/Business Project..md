@@ -18,8 +18,3 @@
   
 4. Technology Preferences:  
    React can be used for front-end & Node for Back-end  
-  
-5. Dynamic and Static Modules:  
-  
-   All Module will be Dynamic  
-  
