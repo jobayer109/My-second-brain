@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "2-tier.png"
+                "file": "Resources/Database/2-tier.png"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-tier.png",
+                "file": "Resources/Database/2-tier.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-tier.png",
+                "file": "Resources/Database/2-tier.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-tier.png"
+                "file": "Resources/Database/2-tier.png"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
-    "3-tier.png",
+    "Resources/Database/3-tier.png",
     "Resources/Database",
-    "2-tier.png",
+    "Resources/Database/2-tier.png",
     "Untitled",
     "LinkedIn/More 2.md",
     "Projects/Business Project..md",
