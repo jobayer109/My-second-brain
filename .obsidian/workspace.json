@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20241010234449.png"
+                "file": "2-tier.png"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20241010234449.png",
+                "file": "2-tier.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20241010234449.png",
+                "file": "2-tier.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20241010234449.png"
+                "file": "2-tier.png"
               }
             }
           },
@@ -181,8 +181,9 @@
   },
   "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "3-tier.png",
     "Resources/Database",
-    "Pasted image 20241010230253.png",
+    "2-tier.png",
     "Untitled",
     "LinkedIn/More 2.md",
     "Projects/Business Project..md",
@@ -194,7 +195,6 @@
     "Programming Hub/Tools/PostgreSQL",
     "Programming Hub/Database/5. 3-tier Architecture/3-tier Architecture.md",
     "Programming Hub/Tools/PostgreSQL/SQL Shell Commands",
-    "Pasted image 20241010234449.png",
     "Programming Hub/Database/4. 2-tier Architecture/2-tier Architecture.md",
     "Programming Hub/Database/5. 3-tier Architecture",
     "Programming Hub/Database/4. 2-tier Architecture/Untitled.md",
@@ -209,7 +209,6 @@
     "Programming Hub/Database/1. Data & Info def/Data.md",
     "Programming Hub/Database/1. Data & Info def",
     "Programming Hub/Database",
-    "LinkedIn/6 Months plan/Month 1",
     "Programming Hub/Office/CMS/High Level Design of File upload.md",
     "Programming Hub/Tools/Github/1. Commands.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",

@@ -1,4 +1,4 @@
-![[Pasted image 20241010234449.png]]
+![[3-tier.png]]
 
 
 #### Definition
