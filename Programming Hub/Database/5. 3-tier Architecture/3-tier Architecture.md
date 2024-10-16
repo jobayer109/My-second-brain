@@ -1,5 +1,6 @@
 ![[3-tier.png]]
 
+---
 
 #### Definition
 3-tier architecture is a client-server model that separates the application into three distinct layers: presentation, application logic, and data storage. This structure enhances scalability, maintainability, and flexibility.
