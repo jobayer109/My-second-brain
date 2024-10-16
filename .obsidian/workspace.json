@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/DSA/3. Queue/Queue Overview.md",
+                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/DSA/3. Queue/Queue Overview.md",
+                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/DSA/3. Queue/Queue Overview.md",
+                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/DSA/3. Queue/Queue Overview.md"
+                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md"
               }
             }
           },
@@ -181,12 +181,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "92977393f5c78b2d",
   "lastOpenFiles": [
+    "Programming Hub/DSA/3. Queue/Queue Overview.md",
+    "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
+    "Programming Hub/Tools/VS Code/Extensions",
+    "Programming Hub/Tools/VS Code",
     "Programming Hub/Database/MongoDB",
     "Programming Hub/Database/Learnings",
     "Programming Hub/DSA/3. Queue/Untitled 1.md",
-    "Programming Hub/DSA/3. Queue/Queue Overview.md",
     "Programming Hub/DSA/2. Stack/Stack Overview.md",
     "Programming Hub/DSA/1. Pointer/Basic Overview.md",
     "Programming Hub/Database/Learnings/5. 3-tier Architecture/3-tier Architecture.md",
@@ -212,10 +215,7 @@
     "Programming Hub/Database/4. 2-tier Architecture/Untitled.md",
     "Programming Hub/Database/Learnings/4. 2-tier Architecture",
     "Programming Hub/Database/Untitled.md",
-    "Programming Hub/Database/Learnings/3. Components of DBMS",
     "Programming Hub/Database/2. File System VS DBMS/Untitled 1.md",
-    "Programming Hub/Database/Learnings/2. File System VS DBMS",
-    "Programming Hub/Database/Learnings/1. Data & Info def",
     "Programming Hub/Office/CMS/High Level Design of File upload.md",
     "Programming Hub/Tools/Github/1. Commands.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
