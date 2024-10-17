@@ -13,9 +13,15 @@
 13. JSX HTML <tags/>
 14. Live Sass Compiler
 15. Live Server
-16. CMake
-17. CMake Tools
-18. C/C++
-19. C/C++ Extension Pack
-20. C/C++ Themes
-21. Code Runner
+16. npm Intellisense
+17. Path Autocomplete
+18. Path Intellisense
+19. PowerShell
+20. Prettier - Code formatter
+21. Prisma
+22. CMake
+23. CMake Tools
+24. C/C++
+25. C/C++ Extension Pack
+26. C/C++ Themes
+27. Code Runner

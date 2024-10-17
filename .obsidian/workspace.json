@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Tools/VS Code/Themes/Themes.md",
+                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Tools/VS Code/Themes/Themes.md",
+                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Tools/VS Code/Themes/Themes.md"
+                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md"
               }
             }
           },
@@ -194,10 +193,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7af5d220a4436f00",
+  "active": "92977393f5c78b2d",
   "lastOpenFiles": [
-    "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
     "Programming Hub/Tools/VS Code/Themes/Themes.md",
+    "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
     "Programming Hub/Tools/VS Code/AI Code generator/Code Generator.md",
     "Programming Hub/Tools/VS Code/AI Code generator",
     "Programming Hub/Tools/VS Code/Themes",
