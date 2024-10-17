@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7af5d220a4436f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Hub/Tools/VS Code/Themes/Themes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -183,10 +195,10 @@
   },
   "active": "92977393f5c78b2d",
   "lastOpenFiles": [
-    "Programming Hub/Tools/VS Code/AI Code generator/Code Generator.md",
-    "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
-    "Programming Hub/Tools/VS Code/AI Code generator",
     "Programming Hub/Tools/VS Code/Themes/Themes.md",
+    "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
+    "Programming Hub/Tools/VS Code/AI Code generator/Code Generator.md",
+    "Programming Hub/Tools/VS Code/AI Code generator",
     "Programming Hub/Tools/VS Code/Themes",
     "Programming Hub/DSA/3. Queue/Queue Overview.md",
     "Programming Hub/Tools/VS Code/Extensions",
