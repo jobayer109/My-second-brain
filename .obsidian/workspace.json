@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
+                "file": "Programming Hub/Tools/VS Code/AI Code generator/Code Generator.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
+                "file": "Programming Hub/Tools/VS Code/AI Code generator/Code Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
+                "file": "Programming Hub/Tools/VS Code/AI Code generator/Code Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md"
+                "file": "Programming Hub/Tools/VS Code/AI Code generator/Code Generator.md"
               }
             }
           },
@@ -183,8 +183,10 @@
   },
   "active": "92977393f5c78b2d",
   "lastOpenFiles": [
-    "Programming Hub/Tools/VS Code/Themes/Themes.md",
     "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
+    "Programming Hub/Tools/VS Code/AI Code generator/Code Generator.md",
+    "Programming Hub/Tools/VS Code/AI Code generator",
+    "Programming Hub/Tools/VS Code/Themes/Themes.md",
     "Programming Hub/Tools/VS Code/Themes",
     "Programming Hub/DSA/3. Queue/Queue Overview.md",
     "Programming Hub/Tools/VS Code/Extensions",
@@ -213,14 +215,12 @@
     "Programming Hub/Database/PostgreSQL/SQL Shell Commands/Commands.md",
     "Programming Hub/Database/PostgreSQL",
     "Programming Hub/Database/PostgreSQL/SQL Shell Commands",
-    "Programming Hub/Database/Learnings/5. 3-tier Architecture",
     "Programming Hub/Database/4. 2-tier Architecture/Untitled.md",
     "Programming Hub/Database/Untitled.md",
     "Programming Hub/Database/2. File System VS DBMS/Untitled 1.md",
     "Programming Hub/Office/CMS/High Level Design of File upload.md",
     "Programming Hub/Tools/Github/1. Commands.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/2. Passing Arguments (Value vs Reference).md",
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/2. Fundamentals 2/6. Array.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Resources/Others/Flowchart of Mapty.png",
