@@ -8,9 +8,14 @@
 8. ESLint
 9. Image preview
 10. Import Cost
-11. CMake
-12. CMake Tools
-13. C/C++
-14. C/C++ Extension Pack
-15. C/C++ Themes
-16. Code Runner
+11. IntelliCode
+12. JavaScript (ES6) code snippets
+13. JSX HTML <tags/>
+14. Live Sass Compiler
+15. Live Server
+16. CMake
+17. CMake Tools
+18. C/C++
+19. C/C++ Extension Pack
+20. C/C++ Themes
+21. Code Runner
