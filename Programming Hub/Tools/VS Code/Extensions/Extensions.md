@@ -29,9 +29,11 @@
 29. Tailwind CSS IntelliSense
 30. TODO Highlight
 31. Toggle Quotes
-32. CMake
-33. CMake Tools
-34. C/C++
-35. C/C++ Extension Pack
-36. C/C++ Themes
-37. Code Runner
+32. vscode-pdf
+33. Mintlify Doc Writer for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more
+34. CMake
+35. CMake Tools
+36. C/C++
+37. C/C++ Extension Pack
+38. C/C++ Themes
+39. Code Runner
