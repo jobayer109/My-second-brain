@@ -30,8 +30,8 @@
 30. TODO Highlight
 31. Toggle Quotes
 32. vscode-pdf
-33. Mintlify Doc Writer for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more
-34. CMake
+33.  CMake
+34. 
 35. CMake Tools
 36. C/C++
 37. C/C++ Extension Pack
