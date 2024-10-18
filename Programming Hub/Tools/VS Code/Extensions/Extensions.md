@@ -34,5 +34,5 @@
 34. CMake Tools
 35. C/C++
 36. C/C++ Extension Pack
-38. C/C++ Themes
-39. Code Runner
+37. C/C++ Themes
+38. Code Runner
