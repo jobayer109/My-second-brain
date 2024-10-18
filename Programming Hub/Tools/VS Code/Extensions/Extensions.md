@@ -30,10 +30,9 @@
 30. TODO Highlight
 31. Toggle Quotes
 32. vscode-pdf
-33.  CMake
-34. 
-35. CMake Tools
-36. C/C++
+33. CMake
+34. CMake Tools
+35. C/C++
 37. C/C++ Extension Pack
 38. C/C++ Themes
 39. Code Runner
