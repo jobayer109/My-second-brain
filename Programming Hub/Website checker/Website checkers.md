@@ -1,4 +1,4 @@
- design, performance, SEO, and usability
+ **Design, performance, SEO, and usability**
 
 ### 1. **[Nibbler](https://nibbler.silktide.com/)**
    - **Features**: Provides a free report on your website’s accessibility, SEO, social media presence, and more.
