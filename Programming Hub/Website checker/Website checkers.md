@@ -36,4 +36,3 @@ Yes, there are several websites and platforms that can review your website for d
    - **Features**: Offers website quality reports, focusing on performance, security, SEO, and design.
    - **How it works**: Enter your website link to get a detailed audit, including tips for better security and loading speed.
 
-These platforms can help you gauge your website’s quality and provide suggestions for improvement, from design to performance and SEO.
