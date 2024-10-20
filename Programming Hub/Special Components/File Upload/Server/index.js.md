@@ -28,28 +28,18 @@ const storage = multer.diskStorage({
 
 const upload = multer({ storage: storage });
 
-  
 
 app.post("/des-image", upload.single("image"), (req, res) => {
-
   const file = req.file;
-
   if (!file) {
-
     return res.status(400).json({ message: "No file uploaded" });
-
   }
 
-  
-
-  const imageUrl = `http://localhost:5000/uploads/${file.filename}`;
-
+  const imageUrl = `http://localhost:5000/uploads/${file.filename}`;
   res.status(200).json({ url: imageUrl });
-
 });
 
   
-
 // Intro post endpoint________________________________________________________
 
 app.post("/intro", upload.single("thumbnail_image_link"), async (req, res) => {
