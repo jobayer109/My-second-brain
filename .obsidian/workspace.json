@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Special Components/File Upload/Server/db.js.md",
+                "file": "Programming Hub/Special Components/File Upload/Server/db.sql.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "db.js"
+              "title": "db.sql"
             }
           }
         ]
@@ -238,8 +238,9 @@
   },
   "active": "72f355474de4647b",
   "lastOpenFiles": [
-    "Programming Hub/Special Components/File Upload/Client/parent file/Add Materials Page.md",
     "Programming Hub/Special Components/File Upload/Server/db.js.md",
+    "Programming Hub/Special Components/File Upload/Server/db.sql.md",
+    "Programming Hub/Special Components/File Upload/Client/parent file/Add Materials Page.md",
     "Programming Hub/Special Components/File Upload/Client/children file/Intro Form.md",
     "Programming Hub/Special Components/File Upload/Client/children file",
     "Programming Hub/Special Components/File Upload/Client/parent file",
@@ -275,7 +276,6 @@
     "LinkedIn/6 Months plan/Month 1/Articles - Event Loop.md",
     "Programming Hub/Database/PostgreSQL/SQL Shell Commands/Commands.md",
     "Programming Hub/Database/4. 2-tier Architecture/Untitled.md",
-    "Programming Hub/Database/Untitled.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Resources/Others/Flowchart of Mapty.png",
