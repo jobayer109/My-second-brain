@@ -442,41 +442,23 @@ const IntroForm = ({
               </div>
 
   
-
               {/* Live Class Link */}
-
               <div>
-
                 <label
-
                   className="block text-gray-700 text-sm font-bold mb-1"
-
                   htmlFor="live_class_link"
-
                 >
-
                   Live Class Link
-
                 </label>
-
                 <input
-
                   type="text"
-
                   id="live_class_link"
-
                   name="live_class_link"
-
                   value={introData.live_class_link}
-
                   onChange={handleChange}
-
                   className="w-full shadow appearance-none border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-
                   placeholder="Enter live class link"
-
                 />
-
               </div>
 
   
