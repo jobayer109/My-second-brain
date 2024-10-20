@@ -1,52 +1,27 @@
 ```js
 const bodyParser = require("body-parser");
-
 const cors = require("cors");
-
 const express = require("express");
-
 const multer = require("multer");
-
 const pool = require("./db.js");
-
-  
-
 const { v4: uuidv4 } = require("uuid");
-
   
-
 const app = express();
 
-  
-
 app.use(cors());
-
 app.use(bodyParser.json());
-
 app.use(bodyParser.urlencoded({ extended: true }));
-
 app.use(express.static("public"));
 
-  
-
 const storage = multer.diskStorage({
-
   destination: (req, file, cb) => {
-
     cb(null, "./public/uploads");
-
   },
-
   filename: (req, file, cb) => {
-
     const fileName = `${uuidv4()}-${file.originalname}`;
-
     cb(null, fileName);
-
   },
-
 });
-
   
 
 // File upload for description field_________________________________________
