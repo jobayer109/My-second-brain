@@ -11,10 +11,14 @@
             "id": "72f355474de4647b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programming Hub/Special Components/File Upload/Client/children file/Intro Form.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Intro Form"
             }
           }
         ]
@@ -232,9 +236,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "72f355474de4647b",
   "lastOpenFiles": [
-    "Programming Hub/Special Components/File Upload/Client/Parent file",
+    "Programming Hub/Special Components/File Upload/Client/children file/Intro Form.md",
+    "Programming Hub/Special Components/File Upload/Client/children file",
+    "Programming Hub/Special Components/File Upload/Client/parent file",
     "Programming Hub/Special Components/File Upload/Server",
     "Programming Hub/Special Components/File Upload/Client",
     "Programming Hub/Special Components/File Upload",
@@ -251,8 +257,6 @@
     "Programming Hub/Tools/VS Code/AI Code generator",
     "Programming Hub/Tools/VS Code/Themes",
     "Programming Hub/DSA/3. Queue/Queue Overview.md",
-    "Programming Hub/Tools/VS Code/Extensions",
-    "Programming Hub/Tools/VS Code",
     "Programming Hub/DSA/3. Queue/Untitled 1.md",
     "Programming Hub/DSA/2. Stack/Stack Overview.md",
     "Programming Hub/DSA/1. Pointer/Basic Overview.md",
