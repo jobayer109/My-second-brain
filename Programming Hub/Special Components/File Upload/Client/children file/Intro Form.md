@@ -592,37 +592,21 @@ const IntroForm = ({
             </div>
 
   
-
             {/* Submit Button */}
-
             <div className="flex justify-start mt-6">
-
               <button
-
                 type="submit"
-
                 disabled={isLoading}
-
                 className="bg-gray-500 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
-
               >
-
                 {isLoading ? "Saving..." : "Save Changes"}
-
-              </button>
-
+             </button>
             </div>
-
           </form>
-
         </div>
-
       )}
-
     </div>
-
   );
-
 };
 
   
