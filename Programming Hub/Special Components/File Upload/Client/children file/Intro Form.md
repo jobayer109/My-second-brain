@@ -480,41 +480,23 @@ const IntroForm = ({
               </div>
 
   
-
               {/* Recording Link */}
-
               <div>
-
                 <label
-
                   className="block text-gray-700 text-sm font-bold mb-1"
-
                   htmlFor="recording_link"
-
                 >
-
                   Recording Link
-
                 </label>
-
                 <input
-
                   type="text"
-
                   id="recording_link"
-
                   name="recording_link"
-
                   value={introData.recording_link}
-
                   onChange={handleChange}
-
                   className="w-full shadow appearance-none border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-
                   placeholder="Enter recording link"
-
                 />
-
               </div>
 
   
