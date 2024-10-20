@@ -402,43 +402,24 @@ const IntroForm = ({
               </div>
 
   
-
               {/* Subtitle */}
-
               <div>
-
                 <label
-
                   className="block text-gray-700 text-sm font-bold mb-1"
-
                   htmlFor="sub_title"
-
                 >
-
                   Sub Title (200 chars max)
-
                 </label>
-
                 <input
-
                   type="text"
-
                   id="sub_title"
-
                   name="sub_title"
-
                   value={introData.sub_title}
-
                   onChange={handleChange}
-
                   maxLength={200}
-
                   className="w-full shadow appearance-none border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-
                   placeholder="Enter subtitle"
-
                 />
-
               </div>
 
   
