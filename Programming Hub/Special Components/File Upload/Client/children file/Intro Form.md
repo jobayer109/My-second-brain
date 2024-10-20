@@ -364,41 +364,23 @@ const IntroForm = ({
               </div>
 
   
-
               {/* Title */}
-
               <div>
-
                 <label
-
                   className="block text-gray-700 text-sm font-bold mb-1"
-
                   htmlFor="title"
-
                 >
-
-                  Title
-
+                 Title
                 </label>
-
                 <input
-
                   type="text"
-
                   id="title"
-
                   name="title"
-
                   value={introData.title}
-
                   onChange={handleChange}
-
                   className="w-full shadow appearance-none border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-
                   placeholder="Enter title"
-
                 />
-
               </div>
 
   
