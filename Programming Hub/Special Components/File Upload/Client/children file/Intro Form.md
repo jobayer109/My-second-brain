@@ -558,37 +558,21 @@ const IntroForm = ({
             </div>
 
   
-
             {/* Description Editor */}
-
             <div className="mt-4">
-
               <label
-
                 className="block text-gray-700 text-sm font-bold mb-1"
-
                 htmlFor="description"
-
               >
-
                 Description
-
               </label>
-
               <ReactQuill
-
                 ref={quillRef}
-
                 value={introData.description}
-
                 onChange={handleDescriptionChange}
-
                 modules={modules}
-
                 formats={formats}
-
               />
-
             </div>
 
   
