@@ -65,102 +65,57 @@ const AddMaterialPage = () => {
   
 
   return (
-
     <div className="min-h-screen p-6 bg-gray-100">
-
       {/* Tab buttons */}
-
       <div className="flex items-start justify-start mb-6 space-x-2">
-
         <button
-
           className={`py-2 px-4 text-sm font-semibold border border-gray-300 shadow-sm rounded-lg focus:outline-none focus:ring-2 focus:ring-gray-500 focus:border-gray-500 ${
-
             activeTab === "intro"
-
               ? "bg-gray-500 border-gray-500 text-white"
-
               : "bg-white border-gray-300 text-gray-600"
-
           }`}
-
           onClick={() => setActiveTab("intro")}
-
         >
-
           Intro
-
         </button>
-
         <button
-
           className={`py-2 px-4 text-sm font-semibold border border-gray-300 shadow-sm rounded-lg focus:outline-none focus:ring-2 focus:ring-gray-500 focus:border-gray-500 ${
-
             activeTab === "resources"
-
               ? "bg-gray-500 border-gray-500 text-white"
-
               : ""
-
           }`}
-
           onClick={() => setActiveTab("resources")}
-
         >
-
           Resources
-
         </button>
-
       </div>
 
   
 
       {/* Tab content */}
-
       <div className="mt-6">
-
         {activeTab === "intro" && (
-
           <div className="bg-white rounded-lg shadow-sm p-4">
-
             <IntroForm
-
               introData={introData}
-
               setIntroData={setIntroData}
-
               handleSubmit={handleSubmit}
-
               isLoading={isLoading}
-
             />
-
           </div>
-
         )}
-
-  
+ 
 
         {activeTab === "resources" && (
-
           <div className="bg-white rounded-lg shadow-sm p-4">
-
             <ResourceSection />
-
           </div>
-
         )}
-
       </div>
-
     </div>
-
   );
-
 };
 
   
-
 export default AddMaterialPage;
 ```
