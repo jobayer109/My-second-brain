@@ -1,6 +1,5 @@
 ```json
 {
-
   "name": "file-uploader",
   "version": "1.0.0",
   "description": "",
