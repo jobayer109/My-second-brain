@@ -23,86 +23,45 @@ const AddMaterialPage = () => {
     recap_link: "",
   });
 
-  
-
-  const handleSubmit = async (introData) => {
-
+    const handleSubmit = async (introData) => {
     if (!classId) {
-
       console.error("Class ID is not available.");
-
       return;
-
     }
-
     setIsLoading(true);
 
-  
-
     try {
-
       // Payload with the extracted classId
-
       const introDataPayload = {
-
         ...introData,
-
         isactive: true,
-
         ispublic: true,
-
         classId: classId, // Use the classId from the URL
-
       };
 
-  
-
       const response = await axios.post(`/intro`, introDataPayload, {
-
         headers: {
-
           "Content-Type": "multipart/form-data",
-
         },
-
       });
-
       console.log("Intro Res:", response.data);
-
       toast.success("Successfully created!");
-
       setIsLoading(false);
-
       setIntroData({
-
         thumbnail_video_link: "",
-
         thumbnail_image_link: "",
-
         title: "",
-
         sub_title: "",
-
         description: "",
-
         live_class_link: "",
-
         recording_link: "",
-
         recap_link: "",
-
       });
-
     } catch (error) {
-
       console.error("There was a problem with the submission:", error);
-
       setIsLoading(false);
-
     }
-
   };
-
   
 
   return (
