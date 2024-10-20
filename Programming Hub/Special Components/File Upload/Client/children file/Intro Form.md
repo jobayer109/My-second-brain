@@ -518,43 +518,24 @@ const IntroForm = ({
               </div>
 
   
-
               {/* Recap Link */}
-
               <div>
-
                 <label
-
                   className="block text-gray-700 text-sm font-bold mb-1"
-
                   htmlFor="recap_link"
-
                 >
-
                   Recap Link
-
                 </label>
-
                 <input
-
                   type="text"
-
                   id="recap_link"
-
                   name="recap_link"
-
                   value={introData.recap_link}
-
                   onChange={handleChange}
-
                   className="w-full shadow appearance-none border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-
                   placeholder="Enter recap link"
-
                 />
-
               </div>
-
             </div>
 
   
