@@ -11,10 +11,14 @@
             "id": "54433f7ede2b7711",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LinkedIn/More 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "More 2"
             }
           }
         ]
@@ -242,8 +246,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "54433f7ede2b7711",
   "lastOpenFiles": [
+    "LinkedIn/More 1.md",
     "LinkedIn/6 Months plan/Month 1/Week 1/Code works But don't know how.md",
     "LinkedIn/6 Months plan/Month 1/Week 2",
     "LinkedIn/6 Months plan/Month 1/Week 1",
@@ -259,7 +264,6 @@
     "Programming Hub/Special Components/File Upload/Client",
     "Programming Hub/Special Components/File Upload",
     "LinkedIn/Top Voice plan.md",
-    "LinkedIn/More 1.md",
     "LinkedIn/More 2.md",
     "Programming Hub/Website checker/Website checkers.md",
     "Projects/Pocket-school/CMS",
