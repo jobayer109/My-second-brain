@@ -42,10 +42,3 @@
   - Connect with 10 new people in the web development space.
   - Send personal messages to at least 3 people you admire in the industry, offering to collaborate or ask for advice.
 
-### Month 2: **Network Expansion & Content Diversification**
-
-**Goals:**
-- Broaden your network and increase post variety.
-- Position yourself as an expert by offering unique insights.
-- Start building collaborations.
-
