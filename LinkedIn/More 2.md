@@ -76,13 +76,3 @@
   - Begin conversations in LinkedIn groups (e.g., Web Development, JavaScript Developers).
   - Organize a Q&A post where people can ask you questions related to web development.
 
-#### Week 4:
-- **Posts:** 
-  - **1 article:** "Scaling Web Apps: The Challenges and How to Overcome Them."
-  - **1 short post:** Tips for new developers starting with MERN stack.
-  - **1 infographic:** "Top VS Code Extensions for Web Developers."
-- **Engagement:** 
-  - Reach out to influencers for possible LinkedIn Live collaborations.
-  - Respond to messages and comments from new connections promptly.
-
-
