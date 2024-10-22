@@ -33,12 +33,3 @@
   - Spend 20 minutes a day engaging with your followers’ posts.
   - Ask your network for feedback on your content.
 
-#### Week 4: 
-- **Posts:** 
-  - **1 video post:** A short tutorial (1-2 minutes) on how to do something simple yet useful in React.
-  - **1 infographic:** Visual representation of "The Best JavaScript Libraries in 2024."
-  - **1 short post:** Share a recent web development trend or news.
-- **Engagement:** 
-  - Connect with 10 new people in the web development space.
-  - Send personal messages to at least 3 people you admire in the industry, offering to collaborate or ask for advice.
-
