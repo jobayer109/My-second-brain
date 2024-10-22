@@ -92,15 +92,4 @@
 - Make sure your profile reflects your expertise.
 - Drive even more engagement through thoughtful, well-planned content.
 
-#### Week 1:
-- **Posts:** 
-  - **1 article:** "The Ultimate Guide to MERN Stack Development."
-  - **1 short post:** Ask your audience for feedback on your content—"What topics would you like me to cover next?"
-  - **1 video post:** How to build a REST API using Node.js and Express.
-- **Profile Optimization:** 
-  - Update your profile with all the articles, posts, and contributions.
-  - Add more skills and endorsements related to web development.
-- **Engagement:** 
-  - Reach out to past collaborators or mentors for LinkedIn recommendations.
-
 
