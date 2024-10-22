@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f0e14f72247cca",
+        "id": "1bc86f673feb0137",
         "type": "tabs",
         "children": [
           {
-            "id": "54433f7ede2b7711",
+            "id": "20c9f8fc0063b19d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -219,6 +219,16 @@
             "id": "1ce929630c3e8903",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "eb0998fb9802adc2",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -226,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -246,8 +256,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "54433f7ede2b7711",
+  "active": "20c9f8fc0063b19d",
   "lastOpenFiles": [
+    "LinkedIn/More 2.md",
     "LinkedIn/More 1.md",
     "LinkedIn/6 Months plan/Month 1/Week 1/Code works But don't know how.md",
     "LinkedIn/6 Months plan/Month 1/Week 2",
@@ -264,7 +275,6 @@
     "Programming Hub/Special Components/File Upload/Client",
     "Programming Hub/Special Components/File Upload",
     "LinkedIn/Top Voice plan.md",
-    "LinkedIn/More 2.md",
     "Programming Hub/Website checker/Website checkers.md",
     "Projects/Pocket-school/CMS",
     "Projects/Pocket-school",
