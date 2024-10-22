@@ -25,11 +25,3 @@
   - Interact with 5 industry leaders' posts to increase your visibility.
   - Aim to respond to all comments within 1 hour for maximum engagement.
 
-#### Week 3: 
-- **Posts:** 
-  - **1 article:** A case study of a recent project you worked on, such as the "KCD Landing Project."
-  - **2 short posts:** Quick solutions to common coding problems (e.g., JavaScript performance optimization).
-- **Engagement:** 
-  - Spend 20 minutes a day engaging with your followers’ posts.
-  - Ask your network for feedback on your content.
-
