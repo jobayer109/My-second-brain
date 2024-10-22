@@ -85,11 +85,4 @@
   - Reach out to influencers for possible LinkedIn Live collaborations.
   - Respond to messages and comments from new connections promptly.
 
-### Month 3: **Profile Optimization & Expertise Showcasing**
-
-**Goals:**
-- Solidify your authority in web development.
-- Make sure your profile reflects your expertise.
-- Drive even more engagement through thoughtful, well-planned content.
-
 
