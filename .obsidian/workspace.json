@@ -11,14 +11,10 @@
             "id": "20c9f8fc0063b19d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinkedIn/More 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "More 2"
+              "title": "New tab"
             }
           }
         ]
@@ -256,7 +252,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20c9f8fc0063b19d",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
     "LinkedIn/More 2.md",
     "LinkedIn/More 1.md",
