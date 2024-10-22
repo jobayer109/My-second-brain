@@ -16,12 +16,3 @@
   - Comment on 10 posts daily (focusing on other web development posts).
   - Respond to all comments on your posts within 24 hours.
   
-#### Week 2: 
-- **Posts:** 
-  - **1 article:** "Common Mistakes Developers Make with Node.js" (actionable content).
-  - **1 poll:** "Which JS framework do you prefer: React, Vue, or Angular?" (Interactive posts like polls drive engagement).
-  - **1 short post:** A key takeaway from a project you're working on.
-- **Engagement:** 
-  - Interact with 5 industry leaders' posts to increase your visibility.
-  - Aim to respond to all comments within 1 hour for maximum engagement.
-
