@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/Week 2/1.md",
+                "file": "LinkedIn/6 Months plan/Month 1/Week 2/2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "2"
             }
           }
         ]
@@ -229,6 +229,26 @@
             "id": "eb0998fb9802adc2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6d2bf4ab786aa5f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c241c576d26bf014",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -236,7 +256,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -252,14 +272,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "20c9f8fc0063b19d",
   "lastOpenFiles": [
-    "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan/Month 1/Week 2/1.md",
+    "LinkedIn/6 Months plan/Month 1/Week 2/2.md",
+    "LinkedIn/Top Voice plan.md",
     "LinkedIn/More 2.md",
     "LinkedIn/More 1.md",
     "LinkedIn/6 Months plan/Month 1/Week 1/Code works But don't know how.md",
@@ -295,7 +315,6 @@
     "Programming Hub/Database/Learnings/1. Data & Info def/Data.md",
     "Resources/Database/2-tier.png",
     "Resources/Database/3-tier.png",
-    "Projects/Business Project..md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
     "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Resources/Others/Flowchart of Mapty.png",

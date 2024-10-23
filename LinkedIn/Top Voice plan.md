@@ -143,3 +143,12 @@
 - **Storytelling:** Share your personal experiences to connect with your audience emotionally.
 
 By following this plan, you'll consistently share valuable content, grow your expertise, and engage with the community, bringing you closer to earning that 'Top Web Development Voice' badge!
+
+
+---
+---
+
+### My own topics:
+- What is Hard reload ? why need it ? pros and cons.
+- 
+
