@@ -249,6 +249,36 @@
             "id": "c241c576d26bf014",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6d81a5d22d98bffc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1a529f0c8efc6bf2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "469da65f2f0d6d7e",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -256,7 +286,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -275,11 +305,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20c9f8fc0063b19d",
+  "active": "469da65f2f0d6d7e",
   "lastOpenFiles": [
     "LinkedIn/6 Months plan/Month 1/Week 2/2.md",
-    "LinkedIn/6 Months plan/Month 1/Week 2/1.md",
     "LinkedIn/Top Voice plan.md",
+    "LinkedIn/6 Months plan/Month 1/Week 2/1.md",
     "LinkedIn/More 2.md",
     "LinkedIn/More 1.md",
     "LinkedIn/6 Months plan/Month 1/Week 1/Code works But don't know how.md",
