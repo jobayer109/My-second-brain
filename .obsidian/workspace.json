@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/Week 2/3.md",
+                "file": "LinkedIn/6 Months plan/Month 1/Week 2/4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3"
+              "title": "4"
             }
           }
         ]
@@ -279,6 +279,16 @@
             "id": "469da65f2f0d6d7e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ab723fab60a6f977",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -286,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -307,8 +317,9 @@
   },
   "active": "20c9f8fc0063b19d",
   "lastOpenFiles": [
-    "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan/Month 1/Week 2/3.md",
+    "LinkedIn/6 Months plan/Month 1/Week 2/4.md",
+    "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan/Month 1/Week 2/2.md",
     "LinkedIn/6 Months plan/Month 1/Week 2/1.md",
     "LinkedIn/More 2.md",
@@ -342,7 +353,6 @@
     "Programming Hub/Database/Learnings/4. 2-tier Architecture/2-tier Architecture.md",
     "Programming Hub/Database/Learnings/3. Components of DBMS/Components of DBMS.md",
     "Programming Hub/Database/Learnings/2. File System VS DBMS/File System VS DBMS.md",
-    "Programming Hub/Database/Learnings/1. Data & Info def/Information.md",
     "Resources/Database/2-tier.png",
     "Resources/Database/3-tier.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
