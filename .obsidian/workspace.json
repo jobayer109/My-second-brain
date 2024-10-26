@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1bc86f673feb0137",
+        "id": "51cb8a6f17da9936",
         "type": "tabs",
         "children": [
           {
-            "id": "20c9f8fc0063b19d",
+            "id": "48a49a77db81cc61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/Week 2/4.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4"
+              "title": "New tab"
             }
           }
         ]
@@ -289,6 +285,26 @@
             "id": "ab723fab60a6f977",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b8fb25d62a9f3e0a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "82675f2930e6457b",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -296,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 19
       }
     ],
     "direction": "horizontal",
@@ -315,7 +331,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20c9f8fc0063b19d",
+  "active": "82675f2930e6457b",
   "lastOpenFiles": [
     "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan/Month 1/Week 2/4.md",
