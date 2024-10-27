@@ -309,6 +309,16 @@
             "id": "82675f2930e6457b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "70a610d7b929a02b",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -316,7 +326,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -335,8 +345,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d32134c823889b1f",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "Programming Hub/Tools/Development",
     "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan/Month 1/Week 1/Code works But don't know how.md",
     "LinkedIn/6 Months plan/Month 1/Week 1/Articles - Event Loop.md",
@@ -372,7 +383,6 @@
     "Programming Hub/DSA/2. Stack/Stack Overview.md",
     "Programming Hub/DSA/1. Pointer/Basic Overview.md",
     "Programming Hub/Database/Learnings/5. 3-tier Architecture/3-tier Architecture.md",
-    "Programming Hub/Database/Learnings/4. 2-tier Architecture/2-tier Architecture.md",
     "Resources/Database/2-tier.png",
     "Resources/Database/3-tier.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
