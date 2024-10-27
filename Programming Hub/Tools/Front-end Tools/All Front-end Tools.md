@@ -57,15 +57,9 @@
 
 ---
 
-#### ডেপ্লয়মেন্ট প্ল্যাটফর্ম
-
+### Deployment Platforms
 - **GitHub Pages** - [https://pages.github.com](https://l.facebook.com/l.php?u=https%3A%2F%2Fpages.github.com%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0jsTL8bfJQ40_uobu1hzc6Lkd_sLW8nJEzRz3s3fmE2KuEeXKjjTL-fU0_aem_uz9FK4sEJ7sGFxT-gPDM7Q&h=AT3kBB42B4khwhIYKug-BrTwOPPHC9qunajnh1QdcNp78WGxcJsFlQvrr3vpnGakNNd0opvgXcrCnWuzcbeqXlHgJMmRIaiYIkjeLRyKzYvhacm7An3EgRe9qsYlturWLnpB&__tn__=-UK-R&c[0]=AT2MeTQyBjli48ohBOIKuOEQTlbL6JmzWygaRaPuBDjPKwojjqBFs-NGy0WuilHUu1_xfzwQHzZYh6sKAYpB9wciOSTMrxU8EGzaDsazmXq04VMUwHmB6t1bJMN5dPyqZGYhUK14OjOw2DAfEBj1UxfHS3-UkGZpN3bk9cL5ROVcmFKUbg)
-    
-
 - **Netlify** - [https://www.netlify.com](https://www.netlify.com/?fbclid=IwZXh0bgNhZW0CMTAAAR1GSHnHk2FT1twG76tBqic8pmfexxdPP6QRp9oUtO0hV5mVu2qylA11PBY_aem_DmLetO9jMY2DQ43FddFYdg)
-    
-
 - **Vercel** - [https://vercel.com](https://vercel.com/?fbclid=IwZXh0bgNhZW0CMTAAAR3mfV_ZEgZGbBKudK-DRv4hwAt4s3en2UANh3YLL0eFGMmzvfjucom4jWk_aem_EuBoNF-N3IXvK3eqo6XtBg)
-    
-
 - **Surge** - [https://surge.sh](https://surge.sh/?fbclid=IwZXh0bgNhZW0CMTAAAR0kL5fa05lFaQ3Mgh3T0Ew5FdbyprH8sMlxCoX_kNbUK3a9LYQp0QzRrtQ_aem_wrysaYTDu8Uf0y-47WSBLg)
+---
