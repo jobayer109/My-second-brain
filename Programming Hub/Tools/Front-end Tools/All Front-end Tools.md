@@ -30,3 +30,13 @@
 - **CSS Validator** - [https://jigsaw.w3.org/css-validator](https://jigsaw.w3.org/css-validator?fbclid=IwZXh0bgNhZW0CMTAAAR3OP9WPK5bHkOwmFWCT_KTaBr1zKHOMZ8_T6SiI9vf1a-JD1Ve_iJBo9rY_aem_L2D3BgsndMpWZLrYx1C7Kg)
 
 ---
+
+#### কোড ফরম্যাটিং
+
+- **HTML Formatter** - [https://www.freeformatter.com/html-formatter.html](https://www.freeformatter.com/html-formatter.html?fbclid=IwZXh0bgNhZW0CMTAAAR3mfV_ZEgZGbBKudK-DRv4hwAt4s3en2UANh3YLL0eFGMmzvfjucom4jWk_aem_EuBoNF-N3IXvK3eqo6XtBg)
+    
+
+- **CSS Beautifier** - [https://www.freeformatter.com/css-beautifier.html](https://www.freeformatter.com/css-beautifier.html?fbclid=IwZXh0bgNhZW0CMTAAAR0kL5fa05lFaQ3Mgh3T0Ew5FdbyprH8sMlxCoX_kNbUK3a9LYQp0QzRrtQ_aem_wrysaYTDu8Uf0y-47WSBLg)
+    
+
+- **JS Beautifier** - [https://www.freeformatter.com/javascript-beautifier.html](https://www.freeformatter.com/javascript-beautifier.html?fbclid=IwZXh0bgNhZW0CMTAAAR0jsTL8bfJQ40_uobu1hzc6Lkd_sLW8nJEzRz3s3fmE2KuEeXKjjTL-fU0_aem_uz9FK4sEJ7sGFxT-gPDM7Q)
