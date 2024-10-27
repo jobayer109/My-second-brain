@@ -63,3 +63,16 @@
 - **Vercel** - [https://vercel.com](https://vercel.com/?fbclid=IwZXh0bgNhZW0CMTAAAR3mfV_ZEgZGbBKudK-DRv4hwAt4s3en2UANh3YLL0eFGMmzvfjucom4jWk_aem_EuBoNF-N3IXvK3eqo6XtBg)
 - **Surge** - [https://surge.sh](https://surge.sh/?fbclid=IwZXh0bgNhZW0CMTAAAR0kL5fa05lFaQ3Mgh3T0Ew5FdbyprH8sMlxCoX_kNbUK3a9LYQp0QzRrtQ_aem_wrysaYTDu8Uf0y-47WSBLg)
 ---
+
+#### অতিরিক্ত রিসোর্স
+
+- **Shape Divider** - [https://www.shapedivider.app](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.shapedivider.app%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0I-z4nQwC0LuNq3w8Qf5o-bvxowpgE6xg0LrwcYGMXU2VMsZVMRZ0xYjE_aem_9kV7FAdGILu4-rMw5LxDDQ&h=AT3coF5uzr4ZmOwUsMLVqX9SbELW9AIPWXhiWg9C8Nw2is5ECL0mUesKozhvF-_C3aY5bC54jYCHkoM1gJy12CPYuJgaWEo3sn-0YQaZ_iOBqTR6YTGJCXz6HuVeDdyBOxNA&__tn__=-UK-R&c[0]=AT2MeTQyBjli48ohBOIKuOEQTlbL6JmzWygaRaPuBDjPKwojjqBFs-NGy0WuilHUu1_xfzwQHzZYh6sKAYpB9wciOSTMrxU8EGzaDsazmXq04VMUwHmB6t1bJMN5dPyqZGYhUK14OjOw2DAfEBj1UxfHS3-UkGZpN3bk9cL5ROVcmFKUbg)
+    
+
+- **Carbon** (কোড স্নিপেট শেয়ারিং) - https://carbon.now.sh
+    
+
+- **Wappalyzer** (টেকনোলজি ডিটেক্টর) - https://www.wappalyzer.com
+    
+
+- **unDraw** (SVG ইলাস্ট্রেশন) - https://undraw.co/illustrations
