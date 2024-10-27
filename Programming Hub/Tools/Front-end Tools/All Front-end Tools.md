@@ -44,9 +44,8 @@
 
 ---
 
-#### রেস্পন্সিভ টেস্টিং
-
+### Responsive Testing
 - **Google Mobile-Friendly** - [https://search.google.com/test/mobile-friendly](https://search.google.com/test/mobile-friendly?fbclid=IwZXh0bgNhZW0CMTAAAR1GSHnHk2FT1twG76tBqic8pmfexxdPP6QRp9oUtO0hV5mVu2qylA11PBY_aem_DmLetO9jMY2DQ43FddFYdg)
-    
-
 - **Responsive Checker** - [https://www.responsivedesignchecker.com](https://www.responsivedesignchecker.com/?fbclid=IwZXh0bgNhZW0CMTAAAR0I-z4nQwC0LuNq3w8Qf5o-bvxowpgE6xg0LrwcYGMXU2VMsZVMRZ0xYjE_aem_9kV7FAdGILu4-rMw5LxDDQ)
+
+---
