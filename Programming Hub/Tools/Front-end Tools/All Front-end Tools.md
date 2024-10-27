@@ -49,3 +49,10 @@
 - **Responsive Checker** - [https://www.responsivedesignchecker.com](https://www.responsivedesignchecker.com/?fbclid=IwZXh0bgNhZW0CMTAAAR0I-z4nQwC0LuNq3w8Qf5o-bvxowpgE6xg0LrwcYGMXU2VMsZVMRZ0xYjE_aem_9kV7FAdGILu4-rMw5LxDDQ)
 
 ---
+
+### Performance Testing
+- **Google PageSpeed** - [https://developers.google.com/speed/pagespeed/insights](https://developers.google.com/speed/pagespeed/insights?fbclid=IwZXh0bgNhZW0CMTAAAR2YzbwJBoFHDl5NUoHxBWhGb9Fj4lY-ceS6e9RVh186GXzl8Iptwctneec_aem_tWboJ0r8UJnFs3R8xQ9LKg)
+- **Pingdom** - [https://tools.pingdom.com](https://tools.pingdom.com/?fbclid=IwZXh0bgNhZW0CMTAAAR2YzbwJBoFHDl5NUoHxBWhGb9Fj4lY-ceS6e9RVh186GXzl8Iptwctneec_aem_tWboJ0r8UJnFs3R8xQ9LKg)
+- **GTmetrix** - [https://gtmetrix.com](https://gtmetrix.com/?fbclid=IwZXh0bgNhZW0CMTAAAR3OP9WPK5bHkOwmFWCT_KTaBr1zKHOMZ8_T6SiI9vf1a-JD1Ve_iJBo9rY_aem_L2D3BgsndMpWZLrYx1C7Kg)
+
+---
