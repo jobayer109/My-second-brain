@@ -31,18 +31,16 @@
 
 ---
 
-#### Code Formatting
+### Code Formatting
 - **HTML Formatter** - [https://www.freeformatter.com/html-formatter.html](https://www.freeformatter.com/html-formatter.html?fbclid=IwZXh0bgNhZW0CMTAAAR3mfV_ZEgZGbBKudK-DRv4hwAt4s3en2UANh3YLL0eFGMmzvfjucom4jWk_aem_EuBoNF-N3IXvK3eqo6XtBg)
 - **CSS Beautifier** - [https://www.freeformatter.com/css-beautifier.html](https://www.freeformatter.com/css-beautifier.html?fbclid=IwZXh0bgNhZW0CMTAAAR0kL5fa05lFaQ3Mgh3T0Ew5FdbyprH8sMlxCoX_kNbUK3a9LYQp0QzRrtQ_aem_wrysaYTDu8Uf0y-47WSBLg)
 - **JS Beautifier** - [https://www.freeformatter.com/javascript-beautifier.html](https://www.freeformatter.com/javascript-beautifier.html?fbclid=IwZXh0bgNhZW0CMTAAAR0jsTL8bfJQ40_uobu1hzc6Lkd_sLW8nJEzRz3s3fmE2KuEeXKjjTL-fU0_aem_uz9FK4sEJ7sGFxT-gPDM7Q)
 
 ---
-#### Favicon জেনারেটর
-
+### Favicon Generator
 - **RealFaviconGenerator** - [https://realfavicongenerator.net](https://l.facebook.com/l.php?u=https%3A%2F%2Frealfavicongenerator.net%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR0I-z4nQwC0LuNq3w8Qf5o-bvxowpgE6xg0LrwcYGMXU2VMsZVMRZ0xYjE_aem_9kV7FAdGILu4-rMw5LxDDQ&h=AT3nLMpJO5AVfhPEHbM_fhpYqYCzskMk_1_ilUlhYKWwYV9uHJ816HoWePkDRZgJT0YWMUFi7HgTJTM_iSmJW_wXfr6xUOuWiGfC0YeYUzKhfFCR0NtfwKdF_MtWaBs2yE7-&__tn__=-UK-R&c[0]=AT2MeTQyBjli48ohBOIKuOEQTlbL6JmzWygaRaPuBDjPKwojjqBFs-NGy0WuilHUu1_xfzwQHzZYh6sKAYpB9wciOSTMrxU8EGzaDsazmXq04VMUwHmB6t1bJMN5dPyqZGYhUK14OjOw2DAfEBj1UxfHS3-UkGZpN3bk9cL5ROVcmFKUbg)
-    
-
 - **Favicon.io** - [https://favicon.io](https://favicon.io/?fbclid=IwZXh0bgNhZW0CMTAAAR2YzbwJBoFHDl5NUoHxBWhGb9Fj4lY-ceS6e9RVh186GXzl8Iptwctneec_aem_tWboJ0r8UJnFs3R8xQ9LKg)
-    
-
 - **Favicon Generator** - [https://www.favicon-generator.org](https://www.favicon-generator.org/?fbclid=IwZXh0bgNhZW0CMTAAAR3MyCuR6l4Y1upsgbJOmLYhfEzWAMSZ8mlSBm27nCtYhazLDHR_ufys41k_aem_Jf9qpM8iNB_Nh4h3pLbDWw)
+
+---
+
