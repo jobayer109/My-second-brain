@@ -23,3 +23,11 @@
 - **Unsplash** - [https://unsplash.com](https://unsplash.com/?fbclid=IwZXh0bgNhZW0CMTAAAR1GSHnHk2FT1twG76tBqic8pmfexxdPP6QRp9oUtO0hV5mVu2qylA11PBY_aem_DmLetO9jMY2DQ43FddFYdg)
 - **Pexels** - [https://www.pexels.com](https://www.pexels.com/?fbclid=IwZXh0bgNhZW0CMTAAAR2YzbwJBoFHDl5NUoHxBWhGb9Fj4lY-ceS6e9RVh186GXzl8Iptwctneec_aem_tWboJ0r8UJnFs3R8xQ9LKg)
 
+---
+
+#### কোড ভ্যালিডেশন
+
+- **HTML Validator** - [https://validator.w3.org](https://validator.w3.org/?fbclid=IwZXh0bgNhZW0CMTAAAR0kL5fa05lFaQ3Mgh3T0Ew5FdbyprH8sMlxCoX_kNbUK3a9LYQp0QzRrtQ_aem_wrysaYTDu8Uf0y-47WSBLg)
+    
+
+- **CSS Validator** - [https://jigsaw.w3.org/css-validator](https://jigsaw.w3.org/css-validator?fbclid=IwZXh0bgNhZW0CMTAAAR3OP9WPK5bHkOwmFWCT_KTaBr1zKHOMZ8_T6SiI9vf1a-JD1Ve_iJBo9rY_aem_L2D3BgsndMpWZLrYx1C7Kg)
