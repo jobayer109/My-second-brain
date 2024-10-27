@@ -31,12 +31,9 @@
 
 ---
 
-#### কোড ফরম্যাটিং
-
+#### Code Formatting
 - **HTML Formatter** - [https://www.freeformatter.com/html-formatter.html](https://www.freeformatter.com/html-formatter.html?fbclid=IwZXh0bgNhZW0CMTAAAR3mfV_ZEgZGbBKudK-DRv4hwAt4s3en2UANh3YLL0eFGMmzvfjucom4jWk_aem_EuBoNF-N3IXvK3eqo6XtBg)
-    
-
 - **CSS Beautifier** - [https://www.freeformatter.com/css-beautifier.html](https://www.freeformatter.com/css-beautifier.html?fbclid=IwZXh0bgNhZW0CMTAAAR0kL5fa05lFaQ3Mgh3T0Ew5FdbyprH8sMlxCoX_kNbUK3a9LYQp0QzRrtQ_aem_wrysaYTDu8Uf0y-47WSBLg)
-    
-
 - **JS Beautifier** - [https://www.freeformatter.com/javascript-beautifier.html](https://www.freeformatter.com/javascript-beautifier.html?fbclid=IwZXh0bgNhZW0CMTAAAR0jsTL8bfJQ40_uobu1hzc6Lkd_sLW8nJEzRz3s3fmE2KuEeXKjjTL-fU0_aem_uz9FK4sEJ7sGFxT-gPDM7Q)
+
+---
