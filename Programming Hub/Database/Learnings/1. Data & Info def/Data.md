@@ -15,3 +15,6 @@
   - Numerical: Sales figures, temperature readings, scores
   - Textual: Survey responses, tweets, reviews
   - Visual: Images, videos
+
+---
+
