@@ -379,6 +379,16 @@
             "id": "4301824055f3de31",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "615400cc8225dab1",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -386,7 +396,7 @@
             }
           }
         ],
-        "currentTab": 26
+        "currentTab": 27
       }
     ],
     "direction": "horizontal",
@@ -405,7 +415,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c3d035f705cce00",
+  "active": "615400cc8225dab1",
   "lastOpenFiles": [
     "Programming Hub/Database/Learnings/1. Data & Info def/Data.md",
     "LinkedIn/Top Voice plan.md",
