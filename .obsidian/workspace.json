@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/Week 3/3.md",
+                "file": "LinkedIn/6 Months plan/Month 1/Week 3/5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3"
+              "title": "5"
             }
           }
         ]
@@ -469,6 +469,16 @@
             "id": "5b76d9743237d551",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c7eb228f0df5e8f0",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -476,7 +486,7 @@
             }
           }
         ],
-        "currentTab": 35
+        "currentTab": 36
       }
     ],
     "direction": "horizontal",
@@ -497,13 +507,13 @@
   },
   "active": "3c4f54499baea724",
   "lastOpenFiles": [
+    "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan/Month 1/Week 3/5.md",
     "LinkedIn/6 Months plan/Month 1/Week 3/4.md",
+    "LinkedIn/6 Months plan/Month 1/Week 3/3.md",
     "Programming Hub/Special Components/File Upload/Client/children file/Intro Form.md",
     "Programming Hub/Special Components/File Upload/Client/parent file/Add Materials Page.md",
-    "LinkedIn/6 Months plan/Month 1/Week 3/3.md",
     "Programming Hub/Database/Learnings/1. Data & Info def/Data.md",
-    "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan/Month 1/Week 3/2.md",
     "LinkedIn/6 Months plan/Month 1/Week 3/1.md",
     "LinkedIn/6 Months plan/Month 1/Week 2/4.md",
