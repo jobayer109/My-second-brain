@@ -479,6 +479,16 @@
             "id": "c7eb228f0df5e8f0",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b92d8ce926a25ee2",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -486,7 +496,7 @@
             }
           }
         ],
-        "currentTab": 36
+        "currentTab": 37
       }
     ],
     "direction": "horizontal",
@@ -505,7 +515,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c4f54499baea724",
+  "active": "b92d8ce926a25ee2",
   "lastOpenFiles": [
     "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan/Month 1/Week 3/5.md",
