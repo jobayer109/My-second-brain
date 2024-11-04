@@ -489,6 +489,26 @@
             "id": "b92d8ce926a25ee2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "29f9305d0ac5210d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "403ab17e3ddd9c67",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -496,7 +516,7 @@
             }
           }
         ],
-        "currentTab": 37
+        "currentTab": 39
       }
     ],
     "direction": "horizontal",
@@ -515,10 +535,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c4f54499baea724",
+  "active": "403ab17e3ddd9c67",
   "lastOpenFiles": [
-    "LinkedIn/6 Months plan/Month 1/Week 3/5.md",
     "LinkedIn/6 Months plan/Funny/Funny posts.md",
+    "LinkedIn/6 Months plan/Month 1/Week 3/5.md",
     "LinkedIn/6 Months plan/Funny",
     "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan/Month 1/Week 3/4.md",
