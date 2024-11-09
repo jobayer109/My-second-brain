@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedIn/6 Months plan/Month 1/Week 4/4.md",
+                "file": "Programming Hub/Typescript/1. Install.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4"
+              "title": "1. Install"
             }
           }
         ]
@@ -575,10 +575,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d020ec0771919b01",
+  "active": "a967a3fb72733613",
   "lastOpenFiles": [
-    "LinkedIn/6 Months plan/Month 1/Week 4/3.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/4.md",
+    "Programming Hub/Typescript/1. Install.md",
+    "LinkedIn/6 Months plan/Month 1/Week 4/3.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/2.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/1.md",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/6. Function Deep/5. Closure.md",
@@ -605,7 +606,6 @@
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.5 Boolean.md",
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.4 String.md",
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.3 Double.md",
-    "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.2 Float.md",
     "Programming Hub/Tools/Front-end Tools",
     "LinkedIn/6 Months plan/Month 1/Week 2",
     "LinkedIn/6 Months plan/Month 1/Week 1",
