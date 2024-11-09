@@ -539,6 +539,16 @@
             "id": "2491471c69289e21",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d020ec0771919b01",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -546,7 +556,7 @@
             }
           }
         ],
-        "currentTab": 42
+        "currentTab": 43
       }
     ],
     "direction": "horizontal",
@@ -565,7 +575,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a967a3fb72733613",
+  "active": "d020ec0771919b01",
   "lastOpenFiles": [
     "LinkedIn/6 Months plan/Month 1/Week 4/3.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/4.md",
