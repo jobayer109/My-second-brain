@@ -15,7 +15,7 @@ In TypeScript, you can use basic types to specify the type of variables, functio
 2. **string**: Represents a sequence of characters.
     
     ```ts
-    let name: string = 'John';
+    let name: string = 'Jobayer';
     ```
     
 3. **boolean**: Represents a true or false value.
@@ -63,6 +63,6 @@ These basic types provide a foundation for specifying the types of variables and
 - inferred Typing
     
     ```js
-    let userName = 'anis'; // data type inferred as string
+    let userName = 'Jobayer'; // data type inferred as string
     ```
     
