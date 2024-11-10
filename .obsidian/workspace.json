@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Typescript/2. Data type/3. Array type.md",
+                "file": "Programming Hub/Typescript/2. Data type/4. Tuple type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Array type"
+              "title": "4. Tuple type"
             }
           }
         ]
@@ -577,8 +577,8 @@
   },
   "active": "a2966c7f0a7e35dd",
   "lastOpenFiles": [
-    "Programming Hub/Typescript/2. Data type/4. Tuple type.md",
     "Programming Hub/Typescript/2. Data type/3. Array type.md",
+    "Programming Hub/Typescript/2. Data type/4. Tuple type.md",
     "Programming Hub/Typescript/2. Data type/2. User defined type.md",
     "Programming Hub/Typescript/1. Installation/1. Install, watch and No check.md",
     "Programming Hub/Typescript/2. Data type/1. Build-in Data Type.md",
