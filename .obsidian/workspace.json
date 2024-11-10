@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Typescript/1. Installation/1. Install and version.md",
+                "file": "Programming Hub/Typescript/2. Data type/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Install and version"
+              "title": "Untitled"
             }
           }
         ]
@@ -577,10 +577,11 @@
   },
   "active": "a967a3fb72733613",
   "lastOpenFiles": [
+    "Programming Hub/Typescript/1. Installation/1. Install and version.md",
+    "Programming Hub/Typescript/2. Data type/Untitled.md",
     "Programming Hub/Typescript/1. Installation",
     "Programming Hub/Typescript/2. Data type",
     "Programming Hub/Typescript/Untitled.md",
-    "Programming Hub/Typescript/1. Installation/1. Install and version.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/4.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/3.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/2.md",
@@ -612,7 +613,6 @@
     "LinkedIn/6 Months plan/Month 1/Week 1",
     "Programming Hub/Special Components/File Upload/Client/children file",
     "Programming Hub/Special Components/File Upload/Client/parent file",
-    "Programming Hub/Special Components/File Upload/Server",
     "Resources/Database/2-tier.png",
     "Resources/Database/3-tier.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
