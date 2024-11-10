@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Typescript/1. Install and version.md",
+                "file": "Programming Hub/Typescript/1. Installation/1. Install and version.md",
                 "mode": "source",
                 "source": false
               },
@@ -575,10 +575,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a967a3fb72733613",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
+    "Programming Hub/Typescript/1. Installation",
+    "Programming Hub/Typescript/2. Data type",
+    "Programming Hub/Typescript/Untitled.md",
+    "Programming Hub/Typescript/1. Installation/1. Install and version.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/4.md",
-    "Programming Hub/Typescript/1. Install and version.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/3.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/2.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/1.md",
@@ -604,15 +607,12 @@
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.7 Type Convertion & Coersion.md",
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.6 Char.md",
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.5 Boolean.md",
-    "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.4 String.md",
-    "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.3 Double.md",
     "Programming Hub/Tools/Front-end Tools",
     "LinkedIn/6 Months plan/Month 1/Week 2",
     "LinkedIn/6 Months plan/Month 1/Week 1",
     "Programming Hub/Special Components/File Upload/Client/children file",
     "Programming Hub/Special Components/File Upload/Client/parent file",
     "Programming Hub/Special Components/File Upload/Server",
-    "Programming Hub/Special Components/File Upload/Client",
     "Resources/Database/2-tier.png",
     "Resources/Database/3-tier.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
