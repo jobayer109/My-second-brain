@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Typescript/2. Data type/2. User defined type.md",
+                "file": "Programming Hub/Typescript/2. Data type/3. Array type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. User defined type"
+              "title": "3. Array type"
             }
           }
         ]
@@ -575,9 +575,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "115f94c009a0a5d9",
+  "active": "a2966c7f0a7e35dd",
   "lastOpenFiles": [
     "Programming Hub/Typescript/2. Data type/2. User defined type.md",
+    "Programming Hub/Typescript/2. Data type/3. Array type.md",
     "Programming Hub/Typescript/1. Installation/1. Install, watch and No check.md",
     "Programming Hub/Typescript/2. Data type/1. Build-in Data Type.md",
     "Programming Hub/Typescript/1. Installation",
@@ -607,7 +608,6 @@
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/What is Function.md",
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.7 Type Convertion & Coersion.md",
-    "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.6 Char.md",
     "Programming Hub/Tools/Front-end Tools",
     "LinkedIn/6 Months plan/Month 1/Week 2",
     "LinkedIn/6 Months plan/Month 1/Week 1",
