@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c59c28f319133211",
+        "id": "d0c64b6e729778a9",
         "type": "tabs",
         "children": [
           {
-            "id": "a967a3fb72733613",
+            "id": "a2966c7f0a7e35dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Typescript/1. Installation/1. Install, watch and No check.md",
+                "file": "Programming Hub/Typescript/2. Data type/2. User defined type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Install, watch and No check"
+              "title": "2. User defined type"
             }
           }
         ]
@@ -575,10 +575,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a967a3fb72733613",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
-    "Programming Hub/Typescript/2. Data type/Build-in Data Type.md",
+    "Programming Hub/Typescript/2. Data type/2. User defined type.md",
     "Programming Hub/Typescript/1. Installation/1. Install, watch and No check.md",
+    "Programming Hub/Typescript/2. Data type/1. Build-in Data Type.md",
     "Programming Hub/Typescript/1. Installation",
     "Programming Hub/Typescript/2. Data type",
     "Programming Hub/Typescript/Untitled.md",
@@ -607,7 +608,6 @@
     "Programming Hub/Languages/C++/1. Fundamentals/3. Function/Scopes.md",
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.7 Type Convertion & Coersion.md",
     "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.6 Char.md",
-    "Programming Hub/Languages/C++/1. Fundamentals/2. Data types/2.5 Boolean.md",
     "Programming Hub/Tools/Front-end Tools",
     "LinkedIn/6 Months plan/Month 1/Week 2",
     "LinkedIn/6 Months plan/Month 1/Week 1",
