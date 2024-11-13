@@ -604,6 +604,16 @@
             "id": "cc6f3b7ecce464f3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7da6ce0dcfb8cff1",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -611,7 +621,7 @@
             }
           }
         ],
-        "currentTab": 47
+        "currentTab": 48
       }
     ],
     "direction": "horizontal",
@@ -630,7 +640,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48c03a4d445926c3",
+  "active": "7da6ce0dcfb8cff1",
   "lastOpenFiles": [
     "LinkedIn/6 Months plan/Month 1/Week 4/4.md",
     "Programming Hub/Typescript/2. Data type/6. Type vs Interface.md",
