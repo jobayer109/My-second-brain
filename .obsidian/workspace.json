@@ -599,6 +599,16 @@
             "id": "7da6ce0dcfb8cff1",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e1a434734f0fbb2f",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -606,7 +616,7 @@
             }
           }
         ],
-        "currentTab": 48
+        "currentTab": 49
       }
     ],
     "direction": "horizontal",
@@ -625,7 +635,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4dba718ffe2eba14",
+  "active": "e1a434734f0fbb2f",
   "lastOpenFiles": [
     "Programming Hub/Technologies/AWS S3/1. What is this and purpose.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/3.md",
