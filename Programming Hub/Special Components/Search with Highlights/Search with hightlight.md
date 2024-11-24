@@ -47,58 +47,32 @@ const highlightText = (text: string, query: string) => {
   return text.replace(regex, '<span class="bg-orange-200">$1</span>'); // Add highlight tag
 };
 
-  
 
 const HighlightedText = ({ text, query }: { text: string; query: string }) => {
-
   const highlightedText = highlightText(text, query);
-
   return <span dangerouslySetInnerHTML={{ __html: highlightedText }} />;
-
 };
 
-  
-
 export default function TroubleshootingTips() {
-
   const [searchQuery, setSearchQuery] = useState('');
-
   const [debouncedQuery, setDebouncedQuery] = useState('');
-
   
-
   // Debouncing the search query to avoid filtering on every keystroke
-
   useEffect(() => {
-
     const timeoutId = setTimeout(() => {
-
       setDebouncedQuery(searchQuery);
-
     }, 500);
-
   
-
     return () => clearTimeout(timeoutId); // Clean up timeout on unmount or change
-
   }, [searchQuery]);
-
   
-
   const filteredTips = tips.filter((tip) => {
-
     const searchLower = debouncedQuery.toLowerCase();
-
     return (
-
       tip.title.toLowerCase().includes(searchLower) ||
-
       tip.steps.some((step) => step.toLowerCase().includes(searchLower))
-
     );
-
   });
-
   
 
   return (
