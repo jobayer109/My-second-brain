@@ -107,43 +107,24 @@ export default function TroubleshootingTips() {
   
 
       <div className="flex flex-col space-y-10 px-6">
-
         {filteredTips.length > 0 ? (
-
           <div className="grid gap-x-12 gap-y-8 md:grid-cols-2">
-
             {filteredTips.map((tip) => (
-
               <div key={tip.id} className="space-y-4">
-
                 <h2 className="flex items-baseline gap-2">
-
                   <span className="font-medium">{tip.id}.</span>
-
                   <HighlightedText text={tip.title} query={debouncedQuery} />
-
                 </h2>
-
                 <ul className="list-disc space-y-3 pl-6">
-
                   {tip.steps.map((step, index) => (
-
                     <li key={index} className="text-sm leading-relaxed text-gray-600">
-
                       <HighlightedText text={step} query={debouncedQuery} />
-
                     </li>
-
                   ))}
-
                 </ul>
-
               </div>
-
             ))}
-
           </div>
-
         ) : (
 
           <p className="text-center text-gray-600">No results found for your search.</p>
