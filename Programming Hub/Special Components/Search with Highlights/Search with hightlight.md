@@ -38,23 +38,13 @@ const tips: TroubleshootingTip[] = [
     ],
   },
 ];
-
   
 
 const highlightText = (text: string, query: string) => {
-
   if (!query) return text;
-
-  
-
   const escapedQuery = query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&'); // Escape special characters
-
   const regex = new RegExp(`(${escapedQuery})`, 'gi'); // Match text (case-insensitive)
-
-  
-
   return text.replace(regex, '<span class="bg-orange-200">$1</span>'); // Add highlight tag
-
 };
 
   
