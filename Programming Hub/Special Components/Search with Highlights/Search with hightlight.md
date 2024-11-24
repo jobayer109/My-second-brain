@@ -10,61 +10,33 @@ interface TroubleshootingTip {
 }
 
 const tips: TroubleshootingTip[] = [
-
   {
-
     id: 1,
-
     title: 'Unable to Log In',
-
     steps: [
-
       'Check Credentials: Ensure that you are entering the correct email and password. Remember that passwords are case-sensitive.',
-
       "Reset Password: If you've forgotten your password, click on the 'Forgot Password?' link on the login page to reset it.",
-
       'Account Deactivated: If your account has been deactivated by an admin, contact them to reactivate it.',
-
     ],
-
   },
-
   {
-
     id: 2,
-
     title: 'Document Upload Failures',
-
     steps: [
-
       'File Format: Ensure that the document is in an accepted format (e.g., PDF, DOCX, TXT). Check the file extension.',
-
       'File Size: Verify that the file does not exceed the maximum upload limit set by the system.',
-
       'Internet Connection: Ensure you have a stable internet connection before attempting to upload.',
-
     ],
-
   },
-
   {
-
     id: 3,
-
     title: 'Notifications Not Received',
-
     steps: [
-
       'Check Spam/Junk Folder: Sometimes, notification emails may land in the spam or junk folder.',
-
       'Notification Settings: Ensure that your notification preferences are correctly set up in the Notification Management section.',
-
       'Email Address: Verify that the correct email address is associated with your account.',
-
     ],
-
   },
-
 ];
 
   
