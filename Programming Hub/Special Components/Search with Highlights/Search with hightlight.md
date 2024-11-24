@@ -103,9 +103,7 @@ export default function TroubleshootingTips() {
           </svg>
         </div>
       </div>
-
-  
-
+      
       <div className="flex flex-col space-y-10 px-6">
         {filteredTips.length > 0 ? (
           <div className="grid gap-x-12 gap-y-8 md:grid-cols-2">
@@ -126,16 +124,10 @@ export default function TroubleshootingTips() {
             ))}
           </div>
         ) : (
-
           <p className="text-center text-gray-600">No results found for your search.</p>
-
         )}
-
       </div>
-
     </div>
-
   );
-
 }
 ```
