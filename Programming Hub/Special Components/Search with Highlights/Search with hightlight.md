@@ -1,23 +1,13 @@
 ```js
 'use client';
-
-  
-
+ 
 import { useEffect, useState } from 'react';
 
-  
-
 interface TroubleshootingTip {
-
   id: number;
-
   title: string;
-
   steps: string[];
-
 }
-
-  
 
 const tips: TroubleshootingTip[] = [
 
