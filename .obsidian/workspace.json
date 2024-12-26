@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69db035cb161608b",
+        "id": "49cb68bba117d282",
         "type": "tabs",
         "children": [
           {
-            "id": "ba173282dac033c1",
+            "id": "c0fb4ad654b671fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Hub/Special Components/Search with Highlights/Search with hightlight.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Search with hightlight"
+              "title": "New tab"
             }
           }
         ]
@@ -161,8 +157,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -629,6 +625,36 @@
             "id": "d513eb08fd3e2c80",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "292d4fd138ad83ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a2e449e9a3c55889",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5d80973d2d06d13c",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -636,7 +662,7 @@
             }
           }
         ],
-        "currentTab": 51
+        "currentTab": 54
       }
     ],
     "direction": "horizontal",
@@ -655,12 +681,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba173282dac033c1",
+  "active": "115f94c009a0a5d9",
   "lastOpenFiles": [
-    "Programming Hub/Special Components/Search with Highlights/Search with hightlight.md",
-    "Programming Hub/Special Components/Search with Highlights",
+    "Untitled 1",
+    "Untitled",
     "Programming Hub/Tools/Github/0. Interview Questions.md",
     "Programming Hub/Tools/Github/1. Commands.md",
+    "Programming Hub/Tools/VS Code/Themes/Themes.md",
+    "Programming Hub/Tools/VS Code/AI Code generator/Code Generator.md",
+    "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
+    "Projects/Udhbadhan/SignInForm 2.md",
+    "Projects/Udhbadhan/SignInForm 1.md",
+    "Programming Hub/Special Components/Search with Highlights/Search with hightlight.md",
+    "Projects/Udhbadhan",
+    "Programming Hub/Special Components/Search with Highlights",
     "Programming Hub/Technologies/AWS S3/1. What is this and purpose.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/3.md",
     "Programming Hub/Typescript/2. Data type/6. Type vs Interface.md",
@@ -684,15 +718,7 @@
     "LinkedIn/6 Months plan/Month 1/Week 3/5.md",
     "LinkedIn/6 Months plan/Funny",
     "LinkedIn/Top Voice plan.md",
-    "LinkedIn/6 Months plan/Month 1/Week 3/4.md",
-    "LinkedIn/6 Months plan/Month 1/Week 3/3.md",
-    "Programming Hub/Special Components/File Upload/Client/children file/Intro Form.md",
-    "Programming Hub/Special Components/File Upload/Client/parent file/Add Materials Page.md",
-    "Programming Hub/Database/Learnings/1. Data & Info def/Data.md",
-    "LinkedIn/6 Months plan/Month 1/Week 3/2.md",
     "LinkedIn/6 Months plan/Month 1/Week 3",
-    "Programming Hub/Tools/Front-end Tools",
-    "LinkedIn/6 Months plan/Month 1/Week 2",
     "Resources/Database/2-tier.png",
     "Resources/Database/3-tier.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
