@@ -1,0 +1,1987 @@
+
+# Project Overview
+
+Shothik AI is a fully completed writing assistant tool designed to enhance the quality of written content through advanced features such as paraphrasing, grammar correction, humanized AI writing, translation, summarization, deep research, and AI detection. The platform provides users with an intuitive, responsive, and seamless experience using modern web technologies.
+
+### **Technology Stack for Frontend**
+
+The frontend of Shothik AI leverages a robust set of libraries and frameworks to ensure high performance, scalability, and maintainability. Below is the detailed overview of the technology stack:
+#### **Core Frameworks and Libraries**
+- **React (v19.0.0):** Core library for building the user interface.
+- **Next.js (v15.2.2):** Framework for server-side rendering (SSR), static site generation (SSG), and routing.
+#### **UI Library**
+
+- **Material-UI (@mui/material v6.4.6):**  
+
+  A popular CSS UI library that provides a rich set of pre-built components based on Google's Material Design principles. It ensures consistency, responsiveness, and ease of customization for the application's design system.
+
+  - **Styling Integration:**  
+
+    - `@emotion/react` (v11.14.0) and `@emotion/styled` (v11.14.0) are used as the styling engine for Material-UI, enabling dynamic theming, scoped styles, and responsive design capabilities.
+
+  - **Icons:**  
+
+    - `@mui/icons-material`: Provides a wide range of Material Design icons for use across the application.
+#### **Routing Indication**
+
+- **@bprogress/next (v3.2.10):**  
+
+  This library is used to display a top bar indicator for routing progress. It helps provide visual feedback to users during navigation or page transitions, ensuring a smooth and responsive user experience.
+  
+#### **Authentication**
+
+- **Dual Authentication System:**
+
+  1. **Email/Password Login:**
+     - Implemented via API calls to a backend service for user authentication.
+     - Ensures secure handling of user credentials and session management.
+
+  1. **Google Login:**
+     - **Library:** `@react-oauth/google` (v0.12.1)  
+       Used for implementing Google OAuth-based login and one-tap login functionality.
+     - **Token Decoding:**  
+       - `jwt-decode` (v4.0.0): Decodes the JWT token returned by Google's one-tap login to extract user information for session management.
+#### **State Management**
+
+- **Redux Toolkit (@reduxjs/toolkit v2.6.0):** Centralized state management for complex application data.
+#### **Form Handling**
+
+- **React Hook Form (v7.54.2):** Efficient form handling with minimal re-renders.
+- **Yup (v1.6.1):** Schema validation for forms, ensuring robust validation logic and error handling.
+
+#### **Rich Text Editing**
+
+- **Tiptap (@tiptap/core, @tiptap/react, @tiptap/starter-kit, etc.):** Rich text editor for creating and editing content.
+
+#### **Others Integrations**
+
+- **Socket.io-client (v4.8.1):** Real-time communication for features like collaborative editing.
+- **React Share (v5.2.2):** Social media sharing functionality.
+
+
+#### **File Handling**
+
+- **React PDF (v9.2.1):** Rendering and interacting with PDF files.
+- **Docx (v9.2.0):** Generating and manipulating `.docx` files.
+- **Mammoth (v1.9.0):** Convert `.docx` files to HTML for rendering in the editor.
+- **File Saver (v2.0.5):** Save files locally on the user's device.
+
+  
+#### **Animations and Interactivity**
+
+- **Motion (v12.4.10):** Animation library for smooth transitions and interactive elements.
+
+
+#### **Content Slider**
+
+- **React Slick & Slick Carousel (v0.30.3 & v1.8.1):** Carousel/slider for displaying content or features.
+
+
+#### **Markdown Rendering**
+
+- **Marked React (v3.0.0):** Render Markdown content into HTML.
+
+### **Key Features**
+
+#### **1. Paraphrasing**
+
+- Automatically rewrite sentences or paragraphs while preserving the original meaning.
+- Ideal for users who want to rephrase content without losing context.
+- **Socket.IO Streaming:** Real-time streaming of paraphrased results for a seamless user experience.
+#### **2. Grammar Correction**
+
+- Real-time detection and correction of grammatical errors, punctuation issues, and spelling mistakes.
+- Suggestions for improving sentence structure and clarity.
+
+#### **3. Humanized AI Writing**
+
+- Transform AI-generated text to sound more natural and human-like.
+- Adjust tone and style based on user preferences.
+
+#### **4. Translation**
+
+- Translate text between multiple languages with high accuracy.
+- Support for common languages as well as less commonly used ones.
+
+#### **5. Summarization**
+
+- Generate concise summaries of long documents or articles.
+- Options to specify the length and focus of the summary.
+
+#### **6. Deep Research**
+
+- Conduct research across the web, academic sources, and YouTube to gather relevant information.
+- Organize and present findings in a structured format.
+
+#### **7. AI Detection**
+
+- Identify whether a piece of text was generated by AI or written by a human.
+- Provide confidence scores for detection results.
+
+#### **8. Markdown Format Data Rendering**
+
+- Render Markdown content into visually appealing HTML using `marked-react`.
+- Ensure clean and readable formatting for technical and non-technical users alike.
+
+#### **9. HTTP Streaming for All Modules**
+
+- Use HTTP streaming to deliver real-time updates across all modules (e.g., grammar correction, translation, summarization).
+- Enhance user experience by reducing latency and providing instant feedback.
+
+#### **10. Socket.IO Streaming for Paraphrasing Module**
+
+- Leverage Socket.IO for real-time streaming of paraphrased content.
+- Enable users to see results incrementally as they are generated, improving interactivity and responsiveness.
+
+#### **11. Payment Gateways**
+
+- **Bkash:** Integrated for users in Bangladesh, offering a familiar and convenient payment method.
+- **Razorpay:** Integrated for users in India, supporting local payment options like UPI, credit/debit cards, and net banking.
+- **Stripe:** Integrated for users in all other countries, providing a globally recognized and versatile payment solution.
+
+#### **12 Page List**
+
+Here is the list of pages:
+
+#### **AI Writing Tools**
+- Paraphrasing
+- Humanize GPT
+- Summarizer
+- Grammar Checker
+- Translator
+- AI Detector
+- Research
+
+#### **Legal**
+- Terms of Service
+- Privacy Policy
+- Refund Policy
+- Payment Policy
+
+#### **For Business**
+- Reseller Program
+- Affiliate Program
+- B2B Portfolios
+
+#### **Company**
+- About Us
+- Our Team
+- Career
+- Blogs
+- Blog Details
+- Contact Us
+
+#### **Support**
+- Help Center
+- Tutorials
+- FAQs
+
+
+
+# Sidebar navigation
+The sidebar in Shothik AI includes two modes: **Mini Mode** and **Expanded Mode**, catering to different user needs and device sizes. These modes ensure that users can efficiently navigate the application while maintaining a clean, responsive, and visually appealing design.
+
+- **Mini Mode:** A compact version of the sidebar that focuses on essential services and conserves screen space.
+- **Expanded Mode:** A detailed version of the sidebar that provides access to all services, account information, and subscription details.
+
+On **mobile devices**, only expanded mode is implemented as a **drawer** that slides in and out of view, ensuring usability on smaller screens.
+
+#### **2. Objectives**
+
+- Provide easy access to core services via click interactions.
+- Hide non-essential sections (e.g., account details) in mini mode to conserve space.
+- Display all features and personalized information in expanded mode for comprehensive navigation.
+- Ensure seamless interaction and accessibility across devices.
+- Implement a drawer-style interface for mobile devices to toggle between mini and expanded modes.
+
+#### **3. User Stories**
+
+1. **As a user on any device, I want to access core services quickly without clutter.**
+   - The sidebar should display all core services in a compact format (mini mode) while allowing access to expanded details when needed.
+1. **As an authenticated user, I expect my subscription plan to be visible even in mini mode.**
+   - The sidebar should prominently display the user's current subscription plan (e.g., "Pro Plan") in a dedicated area.
+1. **As an unauthenticated user, I want to see options to log in or sign up.**
+   - While the account section is hidden in mini mode, the sidebar should still encourage users to log in or sign up by providing clear CTAs.
+1. **As a user, I expect the sidebar to adapt seamlessly to different screen sizes.**
+   - The sidebar should toggle between mini mode and expanded mode based on device size or user preference.
+1. **As a mobile user, I want a quick way to access the full sidebar menu.**
+   - On mobile devices, provide a button to open the expanded sidebar (drawer), revealing all services, account information, and subscription details.
+
+#### **4. Functional Requirements**
+
+##### **4.1 Core Services Menu**
+
+- **Services List:**
+  - Paraphrase
+  - Humanize GPT
+  - AI Detector
+  - Grammar Fix
+  - Summarize
+  - Translator
+  - Research
+- **Icons:**
+  - Each service should have a unique icon to enhance visual recognition.
+- **Navigation:**
+  - Clicking on any service should redirect the user to the corresponding feature page.
+  - The sidebar should dynamically highlight the currently active service (e.g., using a background color or border).
+  
+##### **4.2 Account Section**
+
+- **In Mini Mode:**  
+  The account section is **hidden** to conserve space. Instead, the sidebar focuses on:
+  - Displaying the user's subscription plan (e.g., "Pro Plan") in a dedicated area at the bottom.
+  - Providing a prominent button for upgrading plans if the user is on a free or limited plan.
+
+- **In Expanded Mode:**
+  - The account section is fully visible, showing:
+    - User's avatar and name.
+    - Current subscription plan (e.g., "Pro Plan").
+    - Buttons for managing the account (e.g., "Upgrade Plan," "Logout").
+
+##### **4.3 Subscription Status**
+
+- **Plan Display:**
+  - In mini mode, only the **plan name** is displayed (e.g., "Free Plan," "Pro Plan").
+  - No additional icons or colors are used to differentiate plans in this mode.
+- **Upgrade Option:**
+  - For users on free or limited plans, display a prominent button labeled "Upgrade Plan."
+  - For users on paid plans, display a button labeled "Manage Subscription" or similar.
+##### **4.4 Responsive Design**
+
+- **Toggle Between Mini Mode and Expanded Mode:**
+  - **Mini Mode:** 
+    - Compact sidebar with icons and text labels.
+    - Services are accessible via click.
+    - Account section is hidden.
+  - **Expanded Mode:**
+    - Full-width sidebar with icons and text labels.
+    - Displays all services and account information.
+    - Provides detailed subscription status and CTAs.
+  - **Toggle Button (Mobile Drawer):**
+    - On mobile devices, a button (e.g., hamburger menu or arrow icon) is placed prominently to open the expanded sidebar (drawer).
+    - When clicked, the sidebar slides out from the side, overlaying the main content temporarily.
+    - The drawer can be closed by clicking outside the sidebar or using a close button.
+
+#### **5. Design Specifications**
+
+##### **5.1 Layout**
+- **Sidebar Width:**
+  - **Mini Mode:** Fixed width of **64px**.
+  - **Expanded Mode:** Fixed width of **280px**.
+- **Services Section:**
+  - Displays all core services vertically with icons aligned to the left.
+  - Active service is highlighted with a distinct background color or border.
+- **Account Section:**
+  - Positioned at the bottom of the sidebar in expanded mode.
+  - Includes:
+    - User avatar and name.
+    - Subscription plan indicator.
+    - Buttons for upgrading or logging out.
+
+##### **5.4 Interactions**
+- Hover State:
+  - Services: Light background color change on hover.
+  - Buttons: Slight shadow effect on hover.
+- Active State:
+  - Currently selected service: Highlighted with a distinct background color (e.g., light green).
+  - Buttons: Pressed state with reduced opacity or shadow effect.
+
+
+# Header and Account popover
+The header of Shothik AI serves as the primary navigation and branding element for the application. It provides users with quick access to core features, account management, and additional resources. The header adapts based on whether the user is logged in or logged out, ensuring a personalized experience.
+
+This section outlines the functional and design requirements for the header, including:
+- Branding and navigation elements.
+- User authentication status handling.
+- Dynamic content updates based on user actions (e.g., switching tools).
+- Responsive behavior across devices.
+
+#### **2. Objectives**
+- Provide clear branding and easy access to core features.
+- Display user-specific information (e.g., subscription plan, profile details) when logged in.
+- Offer seamless navigation to account settings, help resources, and other utilities.
+- Dynamically update the header based on the active tool or page.
+- Ensure responsiveness and consistency across desktop and mobile devices.
+
+#### **3. User Stories**
+1. **As an unauthenticated user:**
+   - I want to see options to log in or sign up.
+   - I expect to see a prominent "Upgrade Plan" button to encourage subscription upgrades.
+   - I want quick access to help resources like the Help Center and Contact Us.
+
+1. **As an authenticated user:**
+   - I expect my profile details (e.g., avatar, username) to be visible.
+   - I want to see my current subscription plan and options to upgrade or manage it.
+   - I need easy access to account settings, such as dark mode toggle, help resources, and logout functionality.
+
+1. **As a user navigating tools:**
+   - I expect the header to dynamically display the name of the active tool (e.g., "Paraphrase," "Grammar Fix").
+   - I want consistent visibility of branding and essential navigation elements regardless of the tool I'm using.
+
+#### **4. Functional Requirements**
+
+##### **4.1 Branding and Navigation**
+
+- **Navigation icon:**
+  - In the mobile screen a navigation bar icon always visible right of the header.
+  - when click on it the sidebar will appear from left as drawer.
+- **Logo:**
+  - Displays the Shothik AI logo (`SHOTHIKAI`) prominently on the left side of the header.
+  - Clicking the logo should redirect users to the home/dashboard page.
+- **Tool Name Display:**
+  - When a user navigates to a specific tool (e.g., Paraphrase, Grammar Fix), the header dynamically updates to show the name of the active tool in the center.
+  - Example: "Paraphrase," "Grammar Fix," etc.
+- **Upgrade Plan Button:**
+  - Always visible on the right side of the header.
+  - For unauthenticated users: Label reads "Upgrade Plan."
+  - For authenticated users: Label reads "Upgrade Premium."
+  -  For mobile device: Label reads "Upgrade."
+
+  
+##### **4.2 Account Menu**
+- **Unauthenticated Users:**
+  - A circular icon with the letter "M" (placeholder for future avatars) is displayed on the far right.
+  - Hovering over the icon reveals a dropdown menu with the following options:
+    - **Login / Sign Up:** Redirects to the login/sign-up page.
+    - **Dark Mode:** Toggle switch to enable/disable dark mode.
+    - **Help Center:** Redirects to the help center page.
+    - **Contact Us:** Opens a contact form or email client.
+    - **Join Us on Discord:** Redirects to the Discord server link.
+- **Authenticated Users:**
+  - The circular icon displays the user's avatar (if available) or initials.
+  - Hovering over the icon reveals a dropdown menu with the following options:
+    - **My Profile:** Redirects to the user's profile page.
+    - **Dark Mode:** Toggle switch to enable/disable dark mode.
+    - **Help Center:** Redirects to the help center page.
+    - **Contact Us:** Opens a contact form or email client.
+    - **Join Us on Discord:** Redirects to the Discord server link.
+    - **Log Out:** Allows the user to log out of their account.
+
+
+##### **4.3 Dynamic Updates**
+- **Active Tool Detection:**
+  - The header dynamically updates the central text to reflect the name of the active tool (e.g., "Paraphrase," "Grammar Fix").
+  - This ensures users always know which tool they are currently using.
+
+
+#### **5. Design Specifications**
+
+##### **5.1 Layout**
+
+- **Header Width:**
+  - Full-width, spanning the entire viewport.
+- **Elements Alignment:**
+  - **Left Side:** Logo (`SHOTHIKAI`).
+  - **Center:** Active tool name (dynamic based on the current page).
+  - **Right Side:**  
+    - "Upgrade Plan" button.  
+    - Account menu icon (circular with avatar or placeholder).
+
+
+##### **5.2 Styling**
+- **Typography:**
+  - Tool name: Bold font style, size 18px.
+  - Other text: Regular font style, size 16px.
+- **Icons:**
+  - Avatar icon: Circular with a placeholder letter "M" for unauthenticated users.
+  - Dark mode toggle: Standard toggle switch icon.
+  - Other icons (Help Center, Contact Us, Discord): Material Design icons.
+
+##### **5.3 Interactions**
+- **Hover States:**
+  - Account menu icon: Slight shadow effect on hover.
+  - Dropdown menu items: Background color change on hover.
+- **Active States:**
+  - Dark mode toggle: Highlighted when enabled.
+  - Buttons: Pressed state with reduced opacity or shadow effect.
+- **Transitions:**
+  - Dropdown menu: Smooth slide-in/slide-out animation.
+  - Tool name update: Instant update without flicker.
+
+
+#### **6. Key Features**
+
+1. **Dynamic Tool Name Display:**
+   - Automatically updates the header to show the name of the active tool.
+1. **User Authentication Handling:**
+   - Displays different content based on whether the user is logged in or logged out.
+1. **Responsive Design:**
+   - Adapts to both desktop and mobile devices with collapsible menus.
+1. **Account Management:**
+   - Provides quick access to profile, settings, and help resources.
+
+---
+
+
+# Landing page 
+The landing page of Shothik AI serves as the primary entry point for users visiting the platform. It aims to:
+- Introduce Shothik AI's core value proposition.
+- Highlight key features and benefits.
+- Provide clear calls-to-action (CTAs) to engage users.
+- Ensure a visually appealing and responsive design.
+This section outlines the functional and design requirements for the landing page, ensuring it aligns with Shothik AI's overall branding and user experience goals.
+
+ 
+#### **2. Objectives**
+- **Engage Users:** Capture the attention of visitors and convey the value of Shothik AI.
+- **Communicate Features:** Clearly articulate the platform's advanced writing assistance capabilities.
+- **Drive Conversions:** Encourage users to explore features, sign up, or upgrade their plans.
+- **Ensure Responsiveness:** Provide a consistent experience across desktop and mobile devices.
+
+#### **3. User Stories**
+1. **As a first-time visitor:**
+   - I want to quickly understand what Shothik AI does and how it can help me.
+   - I expect to see clear examples of the platform's capabilities.
+   - I need easy access to CTAs like "Explore Features" or "Sign Up."
+
+1. **As a returning user:**
+   - I want to be reminded of the platform's key features and benefits.
+   - I expect to see personalized content based on my usage history (if logged in).
+
+1. **As a business user:**
+   - I want to see how Shothik AI can solve specific business challenges.
+   - I expect to find case studies or testimonials that demonstrate real-world impact.
+
+1. **As a mobile user:**
+   - I want the landing page to adapt seamlessly to my screen size.
+   - I need quick access to essential information without scrolling excessively.
+
+
+#### **4. Functional Requirements**
+
+##### **4.1 Hero Section**
+- **Purpose:** Capture user attention and convey the platform's value proposition.
+- **Components:**
+  - **Logo:** Display the Shothik AI logo prominently.
+  - **Headline:** A concise, compelling headline (e.g., "Human Quality Writing Agent").
+  - **Subheading:** Brief description of the platform's purpose (e.g., "Paraphrasing, grammar correction, humanized AI writing, translation, summarization, deep research, and AI detection").
+  - **Rating and Social Proof:** Show ratings (e.g., 4.6/5 stars) and the number of satisfied users (e.g., "Based on 400,000+ happy clients").
+  
+  - **CTA Buttons:**
+    - "Explore the Features": Redirects to a dedicated features page.
+    - "Upgrade Plan": Encourages users to subscribe to premium plans.
+##### **4.2 Feature Highlights**
+
+- **Purpose:** Showcase the platform's core features in an engaging manner.
+- **Components:**
+  - **Section Title:** "Seven Powerful Tools, One Unified Platform."
+  - **Feature Cards:**
+    - Each card should include:
+      - Icon representing the feature.
+      - Feature name (e.g., Paraphrase, Grammar Fix, Summarize).
+      - Brief description of the feature's functionality.
+    - Example Card:
+      - **Icon:** Text transformation icon.
+      - **Title:** Paraphrase.
+      - **Description:** Rewrite sentences or paragraphs while preserving meaning.
+  - **CTA Button:** "Explore the Features" to encourage deeper exploration.
+
+##### **4.3 Value Proposition**
+
+- **Purpose:** Explain why Shothik AI stands out from competitors.
+- **Components:**
+  - **Section Title:** "Powerful Features That Set Shothik AI Apart."
+  - **Feature Descriptions:**
+    - Unleash AI Potential with Humanize GPT.
+    - Harness the Power of Advanced AI Detector.
+    - Break Language Barriers with Translator.
+  - **Visual Elements:**
+    - Animated icons or illustrations to represent each feature.
+  - **CTA Buttons:** "Explore the Features" for each section.
+
+##### **4.4 Business Solutions**
+
+- **Purpose:** Target businesses and showcase tailored solutions.
+- **Components:**
+  - **Section Title:** "Shothik AI Solutions for Businesses Tailored for B2B Innovation."
+  - **Subheading:** "Transform Your Business with AI-Powered Solutions."
+  - **Content:**
+    - Brief explanation of how Shothik AI optimizes workflows and enhances productivity.
+    - Case studies or testimonials from businesses using Shothik AI.
+  - **CTA Button:** "View Info" to learn more about business solutions.
+
+##### **4.5 Why Choose Shothik AI?**
+
+- **Purpose:** Address common pain points and differentiate Shothik AI from competitors.
+- **Components:**
+  - **Section Title:** "Why Choose Shothik AI?"
+  - **Key Benefits:**
+    - Boost Productivity.
+    - Perfect Your Language.
+    - Tailored to Your Needs.
+  - **Visual Elements:**
+    - Icons or illustrations for each benefit.
+    - Short descriptions explaining how Shothik AI addresses user needs.
+  - **CTA Button:** "Get Started" to encourage sign-up or trial.
+
+##### **4.6 Get Started Section**
+
+- **Purpose:** Guide users to take the next step.
+- **Components:**
+  - **Section Title:** "Get Started with Shothik AI Today."
+  - **Call-to-Action:** "Explore the Features" button.
+  - **Supporting Content:**
+    - Brief text encouraging users to try the platform.
+    - Links to FAQs or demo videos.
+
+##### **4.8 Frequently Asked Questions (FAQs)**
+
+- **Purpose:** Address common queries and build trust.
+- **Components:**
+  - **Section Title:** "Frequently Asked Questions."
+  - **Tabs or Accordion Format:**
+    - General
+    - Payments
+    - Services
+    - Refund
+    
+  - **Questions and Answers:**
+    - Example:
+      - **Q:** What is Shothik AI?
+      - **A:** Shothik AI is an innovative startup focused on harnessing the power of artificial intelligence to simplify complex problems and provide cutting-edge solutions.
+    - Include questions related to pricing, features, and user support.
+
+  
+#### **6. Key Features**
+
+1. **Hero Section:**
+   - Dynamic and engaging introduction to Shothik AI.
+   - Clear CTAs for exploring features or upgrading plans.
+1. **Feature Highlights:**
+   - Visual representation of core tools (e.g., Paraphrase, Grammar Fix).
+   - Interactive elements like hover effects or animations.
+1. **Business Solutions:**
+   - Case studies and testimonials to build credibility.
+   - Dedicated CTA for business inquiries.
+1. **Why Choose Shothik AI?:**
+   - Concise explanations of key benefits.
+   - Visual aids to enhance understanding.
+1. **Get Started Section:**
+   - Simple, direct call-to-action for new users.
+1. **FAQs:**
+   - Comprehensive support resources for users.
+   - Easy navigation to important pages.
+
+---
+
+#  Paraphrase
+**Objective:** Rewrite text with different tone, sentence structure, and improved readability.
+
+### **Layout Breakdown**
+
+The interface is split into **three main sections**:
+
+####  **Top Bar (Global Options)**
+
+- **Language Switcher** (Top-left):
+    
+    - Allows switching between English, Bangla, or more languages using the dropdown. English will be selected by default. 
+        
+- **Tone/Modes Tab** (Below Language Switcher):
+    
+    - Includes various rephrasing tones:
+        - ✅ Free: **Standard**, **Fluency**
+        - 🔒 Premium: **Formal**, **Academic**, **News**, **Simple**, **Creative**, **Short**, **Long**
+            
+    - **Locked icons:** indicate that an upgrade is needed. Free users cannot use the locked modes but can still view them and when user click on locked modes then show a tiny upgrade modal.
+        
+- **Paraphrasing Strength Slider (Top-right)**
+    - There are 4 steps: Basic, Intermediate, Advanced, and Expert. When the user selects a specific strength using the slider, the output will display the corresponding response.
+        
+
+---
+
+####  **Main Panels**
+
+##### Left Panel – **Input Field**
+
+- Users can:
+    
+    - Type or paste text or try with sample text.
+        
+    - Upload `.pdf`  and `.docx` files
+        
+- Features:
+    
+    - Word counter (bottom-left, e.g., **39 / 180**)
+        
+    - Trash icon to clear the input
+        
+    - **“Paraphrase”** button to process the text
+	    
+	- If there is text in the output, it will show **"Rephrase"** button instead of **"Paraphrase"** conditionally. 
+	
+	-  When a user pastes any text into the input field, the system will use Natural Language Understanding (NLU) to detect the type of content (e.g., Medical, Technical, Legal, etc.). Based on the detected content type, the system will paraphrase the text while maintaining proper indentation and formatting to preserve the original content structure and theme.
+
+	- The system should detect and handle content duplication to ensure the generated paraphrased output is original and unique.
+
+	- When users paste content with multiple paragraphs into the input section, the system must maintain the original paragraph gaps and line breaks.
+    
+	- Currently, multiple paragraphs merge into a single paragraph—this should be fixed to retain proper formatting.
+        
+- 🔒 **Freeze Word Functionality**:
+    
+    - When a word (like **“passed”**) is selected, a **“Please upgrade to Freeze”** tooltip appears
+        
+    - Only **premium users** can freeze selected words to **prevent them from being changed** during rephrasing
+        
+
+---
+**Left and right side will be divided by a line.**
+-  A movable divider will be placed between the input and output sections. Users will be able to drag this divider left or right to resize the input and output areas as needed. At the top of the divider, there will be a swiper icon that allows users to transfer selected paragraphs from the output section to the input section with a single click.
+  
+#####  Right Panel – **Output Field**
+
+- Shows the paraphrased version after clicking **“Paraphrase”**
+    
+- Features include:
+    
+    - Highlighted words to show changed parts
+        
+    - Edited output is fully **interactive and editable**
+        
+    -   After generating the initial output, **user** can:
+
+	- Select any part of the text
+	    
+	- Get **paraphrased alternatives** of that sentence or phrase
+	    
+	- See **synonym suggestions** for specific words
+
+	- Replace the existing sentence/word with the chosen alternative by clicking or tapping
+	
+	-  In the paraphrased output, clicking on a 2–3 word phrase will show synonym suggestions. Below the suggestions, a “Break” action button will be displayed. If the user clicks “Break,” the phrase will be broken down into individual words, and the phrase behavior will be removed.
+       
+
+---
+
+ **Bottom Controls (Output Panel)**
+
+- 1/3 – Shows the **current sentence suggestion number**
+    
+- Arrows – To **navigate** between sentence options
+    
+- Word counter – Show the word number of output
+    
+- Download – Exports result (e.g., `.docx`)
+    
+- Copy – Copies output to clipboard
+    
+- Delete – Clears the output panel
+    
+---
+
+
+# Humanize
+
+**Objective:** Convert AI-generated or robotic-sounding content into human-like, emotional, and natural writing.
+
+### **Layout Overview** 
+
+#### **Top Section**
+- **Language Selector:** English, Bangla, All (dropdown)
+    
+- **AI Model Tabs:**
+    
+    - `Panda` (selected by default for free users)
+        
+    - `Raven` (locked with upgrade tooltip)
+        
+- **Paraphrasing Strength Slider** (Top-right corner):
+    - There are 4 steps: Basic, Intermediate, Advanced, and Expert. When the user selects a specific strength using the slider, the output will display the corresponding response.
+        
+
+---
+
+#### **Main Input Area**
+
+- Placeholder: “Enter your text here…”
+    
+- Three buttons for input methods:
+    
+    -  **Try Sample Text**
+        
+    -  **Paste Text**
+        
+    -  **Upload Document** (supports `.pdf`, `.docx`)
+        
+
+##### **Word Limit Indicator (Bottom-right):**
+- Displays:
+    
+    - `Word Count` (e.g., 100 / 300 words)
+        
+    - `Character Count`
+        
+    - `Sentence Count`
+        
+    - **Remaining Word Limit Progress Bar**
+        
+
+---
+
+##### **Humanizing & AI Detection Area**
+
+##### **Behavior of the buttons after providing input**
+
+- **Check AI** (disabled at first, activated post-Humanize)
+    
+- **Humanize** (green button – primary CTA)
+    
+- **Re-Humanize** (visible after first generation)
+    
+
+##### **Humanized Content Output Area:**
+
+- Appears below after processing
+    
+- Multiple draft versions visible (e.g., Draft 1 of 2)
+    
+- **Score Display**:
+    
+    - Via **Shothik AI Detector**
+        
+    - Shown as:
+        
+        - Horizontal progress bar
+            
+        - Circular percentage badge (e.g., 99%)
+            
+
+---
+##### **Output Tools**
+-  Download 
+-  Copy
+-  Previous/Next (for switching drafts)
+    
+---
+#### **User Flow**
+1. **User Lands on Page**  
+    → Empty input field with model selector & paste/upload buttons
+    
+2. **User Inputs Content**  
+    → Text typed/pasted or document uploaded (max 300 words)
+    
+3. **User Clicks "Humanize"**  
+    → Processing begins
+    
+4. **Tool Generates Output**  
+    → Draft appears below with:
+    
+    - Humanized content
+        
+    - Score from AI detector
+        
+    - Re-Humanize, Copy, Download, Draft navigation
+        
+5. **User Clicks “Check AI”**  
+    → Shothik AI Detector shows human-likeness score
+    
+6. **User Reviews & Compares Drafts**  
+    → Switch between versions and finalize preferred output
+    
+7. **User Downloads or Copies Output**  
+    → Result exported
+    
+8. **User Hits Locked Feature**  
+    → Prompt appears to **Upgrade**
+    
+---
+
+# AI Detector
+
+**Objective:** Rewrite AI-generated text to achieve a 100% human score and avoid AI detectors.
+
+**User Flow:** Paste AI text → Click “Bypass” → View rewritten content → Confirm detection score
+
+  Step 1: Input field
+
+- Large text box with placeholder:  
+    `“Enter your text here...”`
+    
+- Below the box:
+    
+    - `Try sample` button
+        
+     - `Paste Text` button
+        
+    - `Upload Document` button (supports .pdf, .docx)
+        
+
+Step 2: Word Limit Indicator
+
+- Progress bar below the input field:
+    
+    - Max: `10,000 words`
+        
+    - Shows how many words used/left (`e.g., 50 / 1000` or `10,000 words left`)
+        
+
+Step 3: AI Source Options (Sidebar).
+
+- Detection support for:
+    
+    - ChatGPT
+        
+    - Claude
+        
+    - LLaMA
+        
+    - Human
+
+	When user click on  AI Source Options, paste sample text in the input field.
+        
+- Language support listed:
+    
+    - English
+        
+    - French
+        
+    - Spanish
+        
+    - Option: `Request more languages`
+        
+
+ Step 4: Scan Action
+
+- After pasting or uploading text, the user clicks the `Scan` button, which is located at the bottom-right corner of the input area.
+    
+
+Step 5: Output & Results
+
+- Text area shows the **original content** with **highlighted sentences**:
+    
+    - Yellow: likely AI
+        
+    - Red: highly AI
+        
+    - Green: likely human
+        
+- Right Panel shows:
+    
+    - Circular chart: "Highly Confident – Likely AI-generated"
+        
+    - Probability score: `100% AI Generated`
+        
+    - Enhanced Sentence Detection (color scale from AI to Human)
+        
+    - Breakdown of:
+        
+        - Top sentences driving AI probability
+            
+        - Top sentences driving Human probability
+            
+- Button to `Edit` and `re-scan` if needed
+    
+- Option to `Share` results
+    
+
+---
+
+
+# Translator
+
+**Objective:** Translate text between supported languages while preserving tone and structure.
+
+Layout Structure
+
+The Translator tool UI is split into **two main panels**:
+
+| Panel           | Purpose                                                |
+| --------------- | ------------------------------------------------------ |
+| **Left Panel**  | Input: Enter text or upload documents                  |
+| **Right Panel** | Output: View, regenerate, and humanize the translation |
+|                 |                                                        |
+|                 |                                                        |
+
+#### Left panel – Input section
+**Function:**
+This panel allows users to provide content to be translated.
+
+**UI Elements:**
+
+| Element                      | Description                                                          |
+| ---------------------------- | -------------------------------------------------------------------- |
+| **Input Text Area**          | Large text box with placeholder: _“Input your text here…”_           |
+| **Word Counter**             | Displays live word usage (e.g., `39 / 250`)                          |
+| **Clear Button**             | Trash icon to remove all text                                        |
+| **Upload Document**          | Upload `.pdf` or `.docx`; extracts text into the input box           |
+| **Paste Text Button**        | Quickly paste copied content                                         |
+| **Try Sample Text**          | Inserts sample content for testing                                   |
+| **Source Language Dropdown** | Default is “Auto Detect”, but users can manually select any language |
+|  **Swap Language Button**    | Switches source and target languages with one click                  |
+
+ **Notes:**
+
+- Supports **up to 250 words**
+    
+- Shows word count live
+    
+- Handles both manual typing and file-based input
+    
+- Ensures flexible user control before translation
+    
+
+---
+
+#### Right panel - Output section
+
+**Function:**
+
+This panel displays the translated result and provides enhancement tools.
+
+**UI Elements:**
+
+| Element                  | Description                                                        |
+| ------------------------ | ------------------------------------------------------------------ |
+| **Translated Text Area** | Displays translation side-by-side with input                       |
+| **Placeholder**          | _“Translated text”_ before translation begins                      |
+| **Status Text**          | Shows _“Analyzing…”_ during processing                             |
+| **Translate Button**     | Starts the translation process (activated when text is entered)    |
+| **Regenerate Button**    | Rewrites the translation in a different tone/structure             |
+| **Humanize Button**      | Makes translation sound more natural, emotional, and user-friendly |
+| **Copy Button**          | Copies final translation to clipboard                              |
+|  **Download Button**     | Downloads translated result as `.txt` or `.docx`                   |
+
+#####  Notes:
+- Humanize and Regenerate only appear **after** translation is completed
+    
+- Output is **editable**, so users can make manual changes before copying or downloading
+    
+
+---
+
+# Grammar Fix
+
+**Objective:** Identify and fix grammar, spelling, and punctuation errors.
+
+###  Layout Overview
+
+The UI is divided into two main sections:
+
+| Panel            | Role                           |
+| ---------------- | ------------------------------ |
+| **Left Panel**   | Input and error detection area |
+|  **Right Panel** | Output with corrected version  |
+
+---
+
+###  Left panel – Input Section
+
+**Function:**
+
+Allows users to input or upload text. The system detects and highlights grammar/spelling errors.
+
+**UI Components:**
+
+| Element                 | Description                                                       |
+| ----------------------- | ----------------------------------------------------------------- |
+| **Text Editor**         | Editable field where users can type or paste content              |
+| **Placeholder**         | “Input your text here…” shown when field is empty                 |
+| **Try Sample Text**     | Fills the editor with example content                             |
+| **Paste Text**          | Allows one-click pasting from clipboard                           |
+| **Upload Document**     | Accepts `.pdf` or `.docx` uploads                                 |
+| **Word Counter**        | e.g., `43 / 250` shows live word usage                            |
+| **Clear Icon**          | Deletes all input                                                 |
+| **Error Count Display** | Shows total detected errors (e.g., `Errors: 2`)                   |
+| **Error Highlights**    | Red-underlined or boxed error words (e.g., `performanc`, `peopl`) |
+|  **Language Switcher**  | Toggles between `English`, `Bangla`, or `All` (top-left)          |
+
+---
+
+###  Right panel – Output Section
+
+**Function:**
+
+Displays corrected version of the user’s input with all grammatical and spelling issues resolved.
+
+**UI Components:**
+
+| Element                  | Description                                         |
+| ------------------------ | --------------------------------------------------- |
+| **Corrected Output Box** | Displays grammar-fixed version side-by-side         |
+| **Fix Grammar Button**   | Triggers grammar correction                         |
+| **Analyzing State**      | Temporarily displays “Analyzing…” during processing |
+| **Updated Error Status** | “Errors: 0” after successful fix                    |
+| **Copy Icon**            | One-click copy to clipboard                         |
+|  **Download Icon**       | Exports final output as `.txt` or `.docx`           |
+
+---
+
+### User Flow (Step-by-Step)
+
+**Step 1:  Select Language**
+
+- User selects a language from top-left:
+    
+    - English (default)
+        
+    - Bangla
+        
+    - All (for auto-detection/mixed input)
+        
+
+---
+
+**Step 2: Input Text**
+
+- User can:
+    
+    - Type directly into the left panel
+        
+    - Click **Try Sample Text**
+        
+    - Click **Paste Text**
+        
+    - Click **Upload Document** (supports `.pdf`, `.docx`)
+        
+
+---
+
+**Step 3: Real-Time Error Detection**
+
+- System detects errors as user types or uploads:
+    
+    - Highlights issues with red underlines or boxes
+        
+    - Displays **live error count**
+        
+    - Words like `performanc` or `peopl` appear in red
+        
+
+---
+
+**Step 4:  Fix Grammar**
+
+- User clicks **Fix Grammar**
+    
+- System shows “Analyzing…” while processing
+    
+- Corrected version appears in the **Right Panel**
+    
+- Error count resets to **0**
+    
+
+---
+
+**Step 5:  Post-Correction Actions**
+
+- User can:
+    
+    -  Copy the corrected output
+        
+    -  Download the result
+        
+    -  Manually edit the corrected text if needed
+        
+
+
+# Summarize
+
+**Objective:** Generate concise summaries from long content to improve readability and save time.
+
+### Layout Overview
+
+The interface is divided into **two main panels**:
+
+| Panel        | Role                         |
+| ------------ | ---------------------------- |
+| Left Panel   | User Input and File Upload   |
+|  Right Panel | Summarized Output and Export |
+
+---
+
+####  Left panel – **Input Section**
+
+**Function:**
+
+Allows users to provide content for summarization.
+
+**Components & Features:**
+
+| Element                              | Description                                                       |
+| ------------------------------------ |:----------------------------------------------------------------- |
+| **Input Text Box**                   | Editable text area with placeholder: _“Input your text here…”_    |
+| **Paste Text Button**                | One-click option to paste clipboard content                       |
+| **Try Sample Text**                  | Autofills demo text for testing                                   |
+| **Upload Document**                  | Accepts `.pdf`, `.docx` formats and extracts content to input box |
+| **Word Counter**                     | Shows live input size (e.g., `39 / 500`)                          |
+| **Trash Icon**                       | Clears all entered content                                        |
+| **Summary Format Toggle (Top-left)** | Two options:                                                      |
+
+- `Key Sentences` – Bullet-point summary
+    
+- `Paragraph` – Written summary in paragraph form | | 📏 **Summary Length Slider (Top-right)** | Adjustable levels:
+    
+- Short
+    
+- Regular
+    
+- Medium
+    
+- Long |
+    
+
+
+
+---
+
+#### Right panel – **Output Section**
+
+**Function:**
+
+Displays the generated summary after processing.
+
+**Components & Features:**
+
+| Element                 | Description                             |
+| ----------------------- | --------------------------------------- |
+| **Summarized Text Box** | Output panel titled “Summarized text”   |
+| **Summarize Button**    | Primary CTA; triggers summarization     |
+| **Status Feedback**     | Displays “Analyzing…” during processing |
+|  **Formatted Output**   | Output styled based on format selected: |
+
+- Bullet points for `Key Sentences`
+    
+- Full paragraph for `Paragraph` | |  **Sentence Count Indicator** | Shown below output (e.g., “3 Sentence”) | |  **Copy Icon** | Copies summary to clipboard | |  **Download Icon** | Exports summary as `.txt` or `.pdf` |
+    
+
+---
+
+**User Flow (Step-by-Step)**
+
+1. **Text Input**
+
+- User types or pastes content into the left panel
+    
+- OR uploads a `.pdf` or `.docx` file
+    
+
+---
+
+2. **Choose Summary Format**
+
+- User selects either:
+    
+    - **Key Sentences**: Extracts top sentences
+        
+    - **Paragraph**: Generates a coherent paragraph summary
+        
+
+---
+
+3. **Set Summary Length**
+
+- User adjusts **Length Slider** (Top-right):
+    
+    - Short → Long
+        
+    - Affects how much content is included in the summary
+        
+
+---
+
+4. **Generate Summary**
+
+- Clicks **Summarize**
+    
+- Tool processes the input and displays result in the right panel
+    
+
+---
+
+ 5. **Export or Copy**
+
+- User may:
+    
+    -  Copy summary text
+        
+    -  Download summary file
+        
+    - See number of sentences generated (e.g., “3 Sentence”)
+        
+
+       
+
+# Pricing Page 
+The pricing page of Shothik AI serves as a critical component for guiding users through the subscription process and highlighting the value proposition of different plans. It aims to provide clear, concise information about available pricing tiers, their features, and benefits, ensuring users can easily choose the plan that best suits their needs.
+
+This section outlines the functional and design requirements for the pricing page, ensuring it aligns with Shothik AI's overall branding and user experience goals.
+
+---
+
+#### **2. Objectives**
+- Provide a clear comparison of available pricing plans.
+- Highlight key features and benefits of each plan.
+- Encourage users to upgrade to paid plans by showcasing value propositions.
+- Ensure responsiveness and accessibility across devices.
+- Include options for monthly and annual billing cycles with savings incentives.
+
+---
+
+#### **3. User Stories**
+1. **As a first-time visitor:**
+   - I want to quickly understand the differences between the available plans.
+   - I expect to see clear pricing details and feature comparisons.
+   - I need easy access to CTAs for selecting a plan.
+
+2. **As a returning user:**
+   - I want to review my current plan and explore upgrade options.
+   - I expect to see personalized recommendations based on my usage history.
+
+3. **As a business user:**
+   - I want to see detailed breakdowns of features and limitations.
+   - I expect to find enterprise-level plans or custom solutions.
+
+4. **As a mobile user:**
+   - I want the pricing page to adapt seamlessly to my screen size.
+   - I need quick access to essential information without excessive scrolling.
+
+---
+
+#### **4. Functional Requirements**
+
+##### **4.1 Plan Overview**
+- **Plans Offered:**
+  - Free Plan
+  - Value Plan
+  - Pro Plan
+  - Unlimited Plan
+- **Pricing Options:**
+  - Monthly Billing
+  - Annual Billing (with a discount for committing to a year)
+- **Toggle Switch:**
+  - Allow users to switch between monthly and annual billing views.
+  - Display the discount percentage for annual plans (e.g., "Save 2 Months").
+
+##### **4.2 Plan Cards**
+Each plan card should include:
+- **Plan Name:** Clear, bold text (e.g., "Free Plan," "Value Plan").
+- **Price:** Prominent display of the monthly/annual cost.
+- **Features List:**
+  - Use checkboxes or icons to indicate included features.
+  - Highlight key features with distinct styling (e.g., green checkmarks).
+- **CTA Button:**
+  - "Choose [Plan Name]" button for free or value plans.
+  - "Upgrade To Pro" or "Choose Unlimited Plan" for higher-tier plans.
+- **Additional Notes:**
+  - For the Free Plan: Indicate "Forever" or similar text to emphasize no commitment.
+  - For popular plans: Add badges like "Popular" or "Best Option."
+
+##### **4.3 Feature Comparison Table**
+- **Columns:**
+  - Free Plan
+  - Value Plan
+  - Pro Plan
+  - Unlimited Plan
+- **Rows:**
+  - Paraphrase
+  - Humanize GPT
+  - Grammar
+  - Summarize
+  - Translator
+  - AI Detector
+- **Feature Details:**
+  - Clearly specify limits (e.g., "Up to 1,080 words per day") or indicate "Unlimited."
+  - Use consistent formatting for ease of comparison.
+- **Highlighting:**
+  - Use color coding or bold text to emphasize premium features in higher-tier plans.
+
+##### **4.4 Billing Cycle Toggle**
+- **Switcher Component:**
+  - A toggle switch at the top of the page allows users to switch between monthly and annual billing views.
+  - The selected option is visually highlighted (e.g., green background or border).
+- **Dynamic Updates:**
+  - When switching billing cycles, update prices and savings dynamically.
+  - Example: "Monthly: ₹850/month | Annual: ₹850/month (Save 2 Months)."
+
+##### **4.5 Call-to-Action (CTA) Buttons**
+- **Primary CTA:**
+  - "Get started with Shothik.ai today" button at the bottom of the page.
+  - Links to the relevant plan selection page.
+- **Secondary CTAs:**
+  - "Upgrade To Pro" or "Choose Unlimited Plan" buttons within individual plan cards.
+  - "Join Us On Discord" button for community engagement.
+
+##### **4.6 Mobile Optimization**
+- **Stacked Layout:**
+  - On smaller screens, stack plan cards vertically for better readability.
+  - Simplify the feature comparison table by collapsing rows or using accordions.
+- **Interactive Elements:**
+  - Ensure all buttons and links are tappable and responsive.
+
+##### **4.7 Payment Gateways**
+- **Integration:**
+  - Support multiple payment gateways:
+    - Bkash (Bangladesh)
+    - Razorpay (India)
+    - Stripe (Global)
+- **Seamless Checkout:**
+  - Redirect users to secure payment pages after clicking "Choose Plan" buttons.
+  - Provide clear instructions and progress indicators during the checkout process.
+
+---
+
+#### **5. Design Specifications**
+
+##### **5.1 Layout**
+- **Header Section:**
+  - Title: "Our pricing plan made simple."
+  - Subheading: "Discover the right plan for your needs and take advantage of Shothik.ai’s powerful tools. Whether you're just getting started or need advanced features for your business, we've got you covered."
+  - Billing Cycle Toggle: Positioned prominently below the subheading.
+- **Plan Cards:**
+  - Three columns for desktop view.
+  - Stacked layout for mobile view.
+  - Consistent spacing and padding for visual balance.
+- **Feature Comparison Table:**
+  - Grid layout with alternating row colors for readability.
+  - Responsive design ensures columns collapse into stacked rows on smaller screens.
+- **Footer Section:**
+  - Primary CTA button ("Get started with Shothik.ai today").
+  - Secondary CTAs ("Upgrade To Pro," "Join Us On Discord").
+
+##### **5.3 Interactions**
+- **Hover States:**
+  - Plan cards: Light background color change on hover.
+  - CTA buttons: Pressed state with reduced opacity or shadow effect.
+- **Active States:**
+  - Selected billing cycle: Highlighted with a distinct background color.
+  - Active plan card: Slightly elevated or bordered to indicate focus.
+
+##### **5.4 Animations**
+- Smooth transitions for toggling between monthly and annual views.
+- Hover effects for buttons and interactive elements.
+
+##### **5.5 Accessibility**
+- Ensure high contrast ratios for text and backgrounds.
+- Use descriptive alt text for images and icons.
+- Keyboard navigation support for all interactive elements.
+
+---
+
+#### **6. Key Features**
+1. **Clear Plan Comparison:**
+   - Easy-to-read tables and plan cards for feature comparison.
+2. **Billing Cycle Flexibility:**
+   - Option to switch between monthly and annual billing with visible savings.
+3. **Responsive Design:**
+   - Adapts seamlessly to desktop and mobile devices.
+4. **User-Friendly CTAs:**
+   - Prominent buttons for selecting plans and upgrading.
+5. **Payment Gateway Integration:**
+   - Supports multiple payment methods for global users.
+
+---
+
+# Subscription Confirmation and Payment Page
+The subscription confirmation and payment page is a critical component of Shothik AI's user flow, designed to guide users through the final steps of selecting and purchasing a subscription plan. This page ensures that users can review their chosen plan details, confirm billing information, and complete the payment process securely.
+
+#### **2. Objectives**
+
+- Provide users with a clear summary of their selected subscription plan.
+- Allow users to choose between monthly and yearly billing options.
+- Display the total cost, including applicable taxes, in a transparent manner.
+- Ensure a secure and seamless payment process using trusted gateways.
+- Offer a smooth transition to the payment gateway for completing the transaction.
+
+#### **3. User Stories**
+
+1. **As a user selecting a plan:**
+    - I want to see a summary of my chosen plan before proceeding to payment.
+    - I expect to have the option to switch between monthly and yearly billing.
+    - I need to know the total cost, including any applicable taxes.
+2. **As a returning user:**
+    - I want to see if I already have an active subscription or if I'm upgrading.
+    - I expect clear notifications about my current subscription status.
+3. **As a security-conscious user:**
+    - I want reassurance that my payment information is handled securely.
+    - I expect clear indicators of encryption and security measures.
+
+#### **4. Functional Requirements**
+
+##### **4.1 Plan Summary**
+
+- **Component:**
+    - Displays a concise summary of the selected subscription plan.
+- **Elements:**
+    - **Subscription Type:**
+        - Label: "Unlimited Plan" (or other selected plan name).
+        - Highlighted in a colored badge (e.g., orange for "Unlimited Plan").
+    - **Billing Frequency:**
+        - Radio buttons for "Monthly" and "Yearly."
+        - Pre-selected based on user preference or default setting.
+    - **Notification Message:**
+        - If the user already has an active subscription, display a message like "You have already purchased the pro plan."
+##### **4.2 Pricing Details**
+
+- **Component:**
+    - Displays the total billed amount for the selected plan.
+- **Elements:**
+    - **Total Billed Amount:**
+        - Clear display of the monthly or yearly cost (e.g., ₹2251/month).
+        - Currency symbol prominently displayed.
+    - **Tax Information:**
+        - Subtle note indicating "Plus applicable taxes" in smaller text.
+
+##### **4.3 Payment Button**
+- **Component:**
+    - A prominent button for initiating the payment process.
+- **Elements:**
+    - **Label:** "Upgrade My Plan" or similar action-oriented text.
+    - **Color:** Green (#00B87C) for consistency with Shothik AI's branding.
+    - **Action:** Redirects users to the payment gateway (e.g., Bkash, Razorpay, Stripe).    
+
+##### **4.4 Security Indicators**
+- **Component:**
+    - Ensures users trust the payment process by highlighting security features.
+- **Elements:**
+    - **Secure Payment Indicator:**
+        - Text: "Secure Bkash payment."
+        - Icon: SSL lock or similar security icon.
+    - **Encryption Note:**
+        - Subtle text: "This is a secure 128-bit SSL encrypted payment."
+
+##### **4.5 Accessibility**
+- Ensure high contrast ratios for text and backgrounds.
+- Use descriptive alt text for icons and buttons.
+- Keyboard navigation support for all interactive elements.
+
+#### **5. Design Specifications**
+
+##### **5.1 Layout**
+- **Header Section:**
+    - Title: "Let's finish powering you up!"
+    - Subheading: "Professional plan is right for you."
+- **Summary Section:**
+    - Positioned centrally on the page.
+    - Includes subscription type, billing frequency, and notification messages.
+- **Pricing Section:**
+    - Clearly displays the total billed amount and tax information.
+- **Payment Button:**
+    - Prominent green button centered below the pricing details.
+- **Security Section:**
+    - Positioned below the payment button, providing reassurance about security.
+##### **5.3 Interactions**
+- **Hover States:**
+    - "Upgrade My Plan" button: Light background color change on hover.
+    - Radio buttons: Slight shadow effect on hover.
+- **Active States:**
+    - Clicked buttons: Pressed state with reduced opacity or shadow effect.
+- **Validation Feedback:**
+    - No specific validation required for this section, as it primarily displays read-only information.
+##### **5.4 Animations**
+- Smooth transitions for loading payment options or updating billing frequencies.
+- Hover effects for buttons and interactive elements.
+
+#### **6. Key Features**
+1. **Plan Summary:**
+    - Clear display of the selected subscription plan and billing frequency.
+2. **Pricing Details:**
+    - Transparent breakdown of costs, including taxes.
+3. **Payment Button:**
+    - Prominent call-to-action for initiating the payment process.
+4. **Security Indicators:**
+    - Reassurance of secure payment processing.
+
+
+---
+
+# Account page 
+The **Account Settings** section of Shothik AI is where users manage their personal and billing information. It consists of two tabs:
+
+- **General Tab**: Allows users to update personal details such as name, address, and profile picture.
+    
+- **Billing Tab**: Provides users with access to their subscription plan, invoice history, and billing-related actions.
+
+#### **2. Objectives**
+
+- Allow users to manage and update personal and billing information easily.
+    
+- Maintain a consistent and accessible user experience on all devices.
+    
+- Provide secure data handling with validations and confirmations.
+    
+- Offer clear visibility of subscription plans and payment records.
+    
+
+---
+
+#### **3. User Stories**
+
+##### General Tab:
+
+1. As a user, I want to upload a profile picture and update my personal details.
+    
+2. As an authenticated user, I expect pre-filled, validated, and restricted fields as needed.
+    
+3. As a mobile user, I want a responsive form layout that’s easy to navigate.
+    
+
+##### Billing Tab:
+
+1. As a subscribed user, I want to view my current plan, upgrade options, and download invoices.
+    
+2. As an unauthenticated user, I want to explore available subscription plans.
+    
+3. As a mobile user, I want accessible billing information without excessive scrolling.
+    
+
+---
+
+#### **4. Functional Requirements**
+
+##### **4.1 Navigation**
+
+- **Tabs**: Switchable between **General** and **Billing**.
+    
+- Highlighted tab indicates the currently selected section.
+    
+
+---
+
+##### **4.2 General Tab**
+
+**Profile Picture Upload**
+
+- Circular placeholder with 📷 icon.
+    
+- Supported formats: `.jpeg`, `.jpg`, `.png`, `.gif`.
+    
+- Visual feedback for upload progress and success.
+    
+
+**Personal Information Fields**
+
+- **Name**: Editable text field with validation.
+    
+- **Email**: Read-only field with green "Verified" badge.
+    
+- **Address, Country, City, Postal Code**: Editable fields with optional/required settings and validations.
+    
+
+**Save Changes Button**
+
+- Validates input before submitting.
+    
+- Displays success/failure messages.
+    
+- Shows inline validation errors for invalid fields.
+    
+
+---
+
+##### **4.3 Billing Tab**
+
+**Current Plan Information**
+
+- Displays active plan details (e.g., Pro Plan).
+    
+- Includes "Upgrade Plan" button with diamond icon.
+    
+- Plan description to encourage upgrades.
+    
+
+**Invoice History**
+
+- Table format listing:
+    
+    - Plan Name, Payment Date, Expiration Date, Amount, Status, and Download option.
+        
+- Color-coded status badges (e.g., green for "Active").
+    
+- Downloadable PDF invoices.
+    
+
+---
+
+#### **5. Design Specifications**
+
+##### **Layout**
+
+- **Desktop**: Two-column layout for both tabs.
+    
+    - General Tab: Left – Profile picture, Right – Personal info form.
+        
+    - Billing Tab: Left – Current Plan, Right – Invoice History.
+        
+- **Mobile**: Stacked vertical layout.
+    
+
+##### **Interaction & Feedback**
+
+- Hover and active states for buttons.
+    
+- Real-time validation with inline messages.
+    
+- Toast notifications for success actions.
+    
+- Smooth animations for visual feedback.
+    
+
+##### **Accessibility**
+
+- High contrast text/background.
+    
+- Alt text for all images/icons.
+    
+- Keyboard navigability.
+    
+
+---
+
+#### **6. Key Features**
+
+1. **Profile Picture Upload** with file validations and live preview.
+    
+2. **Editable Personal Info** form with real-time validation.
+    
+3. **Read-only Verified Email** field.
+    
+4. **Current Plan Display** with upgrade call-to-action.
+    
+5. **Invoice Table with Download Links** and payment statuses.
+    
+6. **Fully Responsive Design** for mobile and desktop.
+    
+7. **Accessibility Compliant UI** across both tabs.
+    
+---
+
+
+# Blog page
+
+This section outlines the requirements for the blog listing and exploration page on the Shothik AI platform. The purpose of this page is to allow users to browse blog content by category, search through the blog database, explore additional platform features, and subscribe to the newsletter.
+
+## **2. Objectives**
+
+- Enable users to explore blogs by category.
+- Provide search functionality across all blog posts.
+- Display a list of recent or relevant blogs.
+- Allow users to subscribe to a newsletter.
+- Promote key platform features and UX use cases through callout cards.
+
+## **3. User Stories**
+
+### **As a reader:**
+- I want to view all blog categories in one place.
+- I want to search blog content using keywords.
+- I want to explore the latest or most relevant blog posts.
+### **As a prospective user:**
+- I want to understand the features and benefits of Shothik AI.
+- I want to be informed of platform updates via newsletter.
+### **As a returning visitor:**
+- I want to quickly identify blog categories that interest me.
+- I want a consistent layout with intuitive navigation.
+
+## **4. Functional Requirements**
+
+### **4.1 Sidebar Navigation (Left Side Panel)**
+
+#### **Component: Category Filter**
+
+- **Title:** "All Topics"
+- **Elements:**
+    - Category List (This will come from Database by API)
+    - Highlight selected category.
+    - Clicking a category filters blog results accordingly.
+#### **Component: Quick Links**
+- **Links:**
+    - “Tutorial series —”
+    - “Product tutorials —”
+    - “Browse all tools →”
+- **Behaviour:**
+    - Redirect to respective sections or pages.
+#### **Component: Feature Callout Card**
+- **Title:** "Explore All Features and Enhance Your Experience with Shothik AI"
+- **Content:** Short description of platform benefits.
+- **CTA Button:** “Explore the features”
+    - Action: Redirects to a features or tools page.
+
+### **4.2 Blog Search Section (Top Body Area)**
+
+#### **Component: Search Card**
+- **Title:** “Search our 8,000+ development and sysadmin blogs.”
+- **Input Field:**
+    - Placeholder: "Search Blogs..."
+    - Accompanied by a search icon (mascot included for branding).
+- **Functionality:**
+    - Live search suggestions or search results on enter.
+
+### **4.3 Blog Listing (Results Section)**
+
+#### **Component: Blog Cards Grid**
+- **Layout:** 2–3 columns depending on layout width.
+- **Each Blog Card Includes:**
+    - **Category Tag:** e.g., “// Nothing //” or “// Development //”
+    - **Title:** Blog post title
+    - **Date:** e.g., “February 13, 2025”
+    - **Card Style:** Rounded corners with light background
+- **Behaviour:**
+    - Clicking a card user redirect to the blog details page.
+    - Cards are populated based on selected category or search.
+
+### **4.4 Newsletter Subscription Section**
+
+#### **Component: Newsletter Signup**
+- **Label:** “Get our newsletter”
+- **Description:** “Stay up to date by signing up for Shothik AI Infrastructure as a Newsletter.”
+- **Input Field:** Email address input
+- **Button:** “Submit”
+    - Color: Primary color of the theme
+- **Behaviour:**
+    - Validate email format
+    - On success: confirmation message
+    - On error: user feedback (e.g., invalid email)
+
+### **4.5 Promotional UX Cards (Bottom Callouts)**
+
+#### **Card 1: Shothik AI for Writing Solutions**
+
+- **Title:** “Shothik AI for Writing Solutions”
+- **Content:** Describes AI writing tools and benefits.
+- **CTA Button:** “View all tools”
+    - Color: primary color of the theme
+    - Action: Redirects to tools overview.
+#### **Card 2: Explore the Features**
+- **Title:** “Explore the features”
+- **Content:** Highlights the range of Shothik AI tools.
+- **CTA Button:** “Explore”
+    - Color: primary color of the theme
+    - Action: Redirects to feature detail page.
+
+## **5. Design Specifications**
+
+### **5.1 Layout**
+- **Sidebar (Left Column):**
+    - Vertical stack with categories, quick links, and feature card.
+- **Main Body:**
+    - Search bar at top
+    - Blog cards in grid below
+    - Newsletter form below blog grid
+    - Two promotional cards at the bottom
+
+## **6. Key Features**
+1. **Category Filtering**
+2. **Blog Search**
+3. **Blog Listing Grid**
+4. **Newsletter Subscription**
+5. **UX and Feature Promotion Cards**
+
+
+# Blog Details page
+This section outlines the requirements for the Blog Details Page on the Shothik AI platform. The purpose of this page is to present an individual blog post in a detailed and interactive format while encouraging users to engage with the content and explore more platform features.
+
+## **2. Objectives**
+
+- Present a single blog post with full details.
+- Provide interaction options: like, dislike, share, and comments.
+- Drive user engagement through CTA prompts and related content.
+- Encourage platform exploration through callouts and redirections.
+- Support SEO with dynamic meta tags and structured layout.  
+
+## **3. User Stories**
+
+### **As a reader:**
+- I want to read a blog post in full detail.
+- I want to like or dislike the post based on usefulness.
+- I want to leave a comment and see what others have said.
+- I want to share the blog on social media easily.
+### **As a prospective user:**
+- I want to understand Shothik AI’s offerings through helpful blog content.
+- I want to explore tools and pricing if the blog seems helpful.
+### **As a contributor or existing user:**
+- I want to comment and interact with other readers.
+- I want to promote the blog by sharing it with others.
+## **4. Functional Requirements**
+
+### **4.1 Blog Content Display**
+
+#### **Component: Blog Body Section**
+- **Elements:**
+    - Title
+    - Blog image (cover photo)
+    - Author name and date
+    - Main blog content (HTML rich text)
+- **Behaviour:**
+    - Dynamically rendered via SSR/CSR
+    - Responsive typography and spacing
+### **4.2 Interactive Footer Section (Under Blog Body)**
+
+#### **Component: Like / Dislike + Share**
+- **Icons:** 👍 Like, 👎 Dislike
+- **Functionality:**
+    - Users can like or dislike the blog
+    - Counts are displayed
+    - Stores user/IP to prevent duplicate reactions
+- **Share Options:**
+    - Facebook, Twitter, LinkedIn
+    - Native share API (mobile)
+### **4.3 Comment Section**
+
+#### **Component: Comment Input**
+- **Editor:** Rich text input (Tiptap)
+- **Validation:** Minimum 5 characters
+- **Permissions:** Only logged-in users can comment
+#### **Component: Comment List**
+- **Elements:**
+    - User profile name or avatar
+    - Comment content (HTML)
+    - Like/Dislike per comment
+    - Date of comment
+- **Actions:**
+    - Comment deletion (only by owner)
+    - Comment like/dislike
+- **Order:** Newest comments first
+
+### **4.4 Engagement CTA Blocks**
+
+#### **Component: Pricing Redirect Section**
+- **Title:** “Thank you for being a part of the Shothik AI community.”
+- **CTA Button:** “Explore the pricing”
+    - Action: Redirects to `/pricing`
+
+#### **Component: Explore More Prompt**
+- **Title:** “Still Looking for an Answer?”
+- **Text:** Encourages readers to continue exploring
+- **CTA Button:** “Search for more help”
+    - Action: Redirects to `/blogs`
+
+## **5. Design Specifications**
+
+### **5.1 Layout**
+- **Top Area:**
+    - Large title, blog image, meta info
+- **Body Area:**
+    - Rich text content
+- **Interactive Section:**
+    - Like/dislike + Share (centered or inline)
+- **Comments Section:**
+    - Input followed by comment list
+- **CTA Sections:**
+    - Full-width cards with heading, text, and CTA
+## **6. Key Features**
+1. **Full Blog Rendering**
+2. **Blog Like / Dislike Interaction**
+3. **Social Sharing Integration**
+4. **Rich Commenting System**
+5. **Pricing & Help Callout CTAs**
+
+# Footer 
+####  **Objectives**
+
+- Provide easy access to key pages and resources.
+- Ensure compliance with legal requirements by linking to necessary policies.
+- Facilitate user engagement through social media and community channels.
+- Maintain a clean, responsive, and consistent design across devices.
+
+#### **User Stories**
+
+1. **As a first-time visitor:**
+   - I want to quickly find important links like Terms of Service or Privacy Policy.
+   - I expect to see options for contacting support or exploring tutorials.
+
+1. **As a returning user:**
+   - I want to access my favorite tools or business-related resources without navigating through the main menu.
+   - I need easy access to FAQs or Help Center for troubleshooting.
+
+1. **As a business user:**
+   - I want to explore B2B solutions or affiliate programs directly from the footer.
+   - I expect to see links to relevant business resources.
+
+#### **4. Functional Requirements**
+
+##### **4.1 Menu Structure**
+
+The footer is divided into four main sections, each containing links to specific pages:
+1. **AI Writing Tools**
+   - Paraphrasing
+   - Humanize GPT
+   - Summarizer
+   - Grammar Checker
+   - Translator
+   - AI Detector
+
+1. **Legal**
+   - Terms of Service
+   - Privacy Policy
+   - Refund Policy
+   - Payment Policy
+
+1. **For Business**
+   - Reseller Program
+   - Affiliate Program
+   - B2B Portfolios
+
+1. **Company**
+   - About Us
+   - Our Team
+   - Career
+   - Blogs
+   - Contact Us
+
+1. **Support**
+   - Help Center
+   - Tutorials
+   - FAQs
+   - Join us on Discord
+
+1. **Get to Know Us**
+   - Social Media Links:
+     - LinkedIn
+     - Facebook
+     - Twitter
+     - Instagram
+     - Discord
+
+##### **4.3 Social Media Integration**
+- **Icons:** Use standard icons for each social media platform (e.g., LinkedIn, Facebook, Twitter, Instagram, Discord).
+- **Links:** Each icon should redirect users to the corresponding Shothik AI profile on the respective platform.
+
+##### **4.4 Copyright and Legal Notices**
+- **Copyright Statement:** Display a copyright notice at the bottom of the footer (e.g., "© 2025 All rights reserved.").
+- **Terms and Policies:** Link to Terms of Service, Privacy Policy, and Community Guidelines.
+- **Security Notice:** Mention protection by reCAPTCHA and Google Privacy Policy.
+
+##### **4.5 Developer Attribution**
+- Include a link to Shothik AI’s website or developer page, acknowledging the development team.
+
+#### **5. Design Specifications**
+
+##### **5.1 Layout**
+- **Columns:** The footer is organized into five columns:
+  - AI Writing Tools
+  - Legal
+  - For Business
+  - Company
+  - Support
+- **Social Media Section:** Positioned below the main columns, aligned horizontally.
+- **Copyright Section:** Placed at the very bottom, centered.
+
+##### **5.3 Interactions**
+- **Hover States:**
+  - Links: Light background color change on hover.
+  - Social media icons: Slight shadow effect on hover.
+- **Active States:**
+  - Clicked links: Pressed state with reduced opacity or shadow effect.
+- **Responsive Design:**
+  - On smaller screens, the footer should stack the columns vertically to ensure readability.
+  - Social media icons should remain horizontally aligned.
+
+##### **5.4 Accessibility**
+- Ensure all links are accessible via keyboard navigation.
+- Use descriptive alt text for social media icons.
+
+#### **6. Key Features**
+1. **Menu Organization:**
+   - Clear categorization of links for easy navigation.
+1. **Legal Compliance:**
+   - Links to essential legal documents (Terms of Service, Privacy Policy, etc.).
+1. **Business Resources:**
+   - Direct access to B2B solutions and affiliate programs
+1. **User Support:**
+   - Quick access to Help Center, Tutorials, and FAQs.
+1. **Social Media Integration:**
+   - Seamless integration with popular platforms for community engagement.
+1. **Responsive Design:**
+   - Adapts to different screen sizes for a consistent user experience.
+

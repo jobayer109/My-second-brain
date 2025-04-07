@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Hub/Languages/Javascript/0. Vanilla JS/3. DOM and Events Fundamentals/1. What is DOM.md",
+                "file": "Doclyze PRD/Doclyze PRD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. What is DOM"
+              "title": "Doclyze PRD"
             }
           }
         ]
@@ -162,8 +162,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -690,6 +690,26 @@
             "id": "4575b857fe0a1bee",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c627fc03ed5b29f9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "362a7b9c8051ccec",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -697,7 +717,7 @@
             }
           },
           {
-            "id": "c627fc03ed5b29f9",
+            "id": "96eb5273e760a5a4",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -707,7 +727,7 @@
             }
           }
         ],
-        "currentTab": 58
+        "currentTab": 60
       }
     ],
     "direction": "horizontal",
@@ -728,18 +748,36 @@
   },
   "active": "59cd9668564dc2db",
   "lastOpenFiles": [
-    "Programming Hub/Languages/Javascript/0. Vanilla JS/3. DOM and Events Fundamentals/0. Images.md",
-    "Programming Hub/Special Components/File Upload/Server/package.json.md",
-    "Programming Hub/Special Components/File Upload/Server/index.js.md",
-    "Programming Hub/Special Components/File Upload/Server/db.sql.md",
-    "Programming Hub/Special Components/File Upload/Server/db.js.md",
-    "Programming Hub/Special Components/File Upload/Client/parent file/Add Materials Page.md",
-    "Programming Hub/Special Components/File Upload/Client/children file/Intro Form.md",
-    "Programming Hub/Database/PostgreSQL/SQL Shell Commands/Commands.md",
+    "Shothik PRD/Updated Shothik PRD.md",
+    "Doclyze PRD/Doclyze PRD.md",
+    "Doclyze PRD",
+    "Shothik PRD/Footer Section.md",
+    "Shothik PRD/Blog Details Page.md",
+    "Shothik PRD/Blog Listing & Exploration Page.md",
+    "Shothik PRD/Subscription Confirmation and Payment Page.md",
+    "Shothik PRD/Account Settings.md",
+    "Shothik PRD/Pricing Page.md",
+    "Shothik PRD/Tools.md",
+    "Shothik PRD/Landing Page.md",
+    "Shothik PRD/Header and Account Menu.md",
+    "Shothik PRD/Side Bar.md",
+    "Shothik PRD/1.Project Overview.md",
+    "Shothik Rough.md",
+    "Shothik PRD/Account Settings - General Tab.md",
     "Shothik.md",
-    "Tools.md",
-    "Projects/CholoFly/Issues.md",
-    "readme.md",
+    "Shothik PRD.zip",
+    "Shothik/Tools.md",
+    "Shothik PRD",
+    "Shothik/Subscription Confirmation and Payment Page.md",
+    "Shothik/Side Bar.md",
+    "Shothik/Project Overview.md",
+    "Shothik/Pricing Page.md",
+    "Shothik/Landing Page.md",
+    "Shothik/Header and Account Menu.md",
+    "Shothik/Footer Section.md",
+    "Shothik/Blog Listing & Exploration Page.md",
+    "Shothik/Blog Details Page.md",
+    "Shothik",
     "Pasted image 20250223234957.png",
     "Pasted image 20250223233602.png",
     "Pasted image 20250223233034.png",
@@ -751,26 +789,8 @@
     "Resources/pdf/Computer Architecture.pdf",
     "Resources/pdf/Hello C.pdf",
     "Untitled 1",
-    "Untitled",
-    "Programming Hub/Tools/Github/0. Interview Questions.md",
-    "Programming Hub/Tools/Github/1. Commands.md",
-    "Programming Hub/Tools/VS Code/Themes/Themes.md",
-    "Programming Hub/Tools/VS Code/AI Code generator/Code Generator.md",
-    "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
-    "Projects/Udhbadhan/SignInForm 2.md",
-    "Projects/Udhbadhan/SignInForm 1.md",
-    "Programming Hub/Special Components/Search with Highlights/Search with hightlight.md",
     "Projects/Udhbadhan",
     "Programming Hub/Special Components/Search with Highlights",
-    "Programming Hub/Technologies/AWS S3/1. What is this and purpose.md",
-    "LinkedIn/6 Months plan/Month 1/Week 4/3.md",
-    "Programming Hub/Typescript/2. Data type/6. Type vs Interface.md",
-    "Programming Hub/Technologies/AWS S3",
-    "Programming Hub/Technologies",
-    "LinkedIn/6 Months plan/Month 1/Week 4/4.md",
-    "Programming Hub/Typescript/2. Data type/5. Enum type.md",
-    "Programming Hub/Typescript/2. Data type/4. Tuple type.md",
-    "Programming Hub/Typescript/1. Installation",
     "Resources/Database/2-tier.png",
     "Resources/Database/3-tier.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
