@@ -1,8 +1,7 @@
 #  Product Requirements Document (PRD)
 
-###  Product Name
-
-**Doclyze**  
+###  Product Name 
+ **Doclyze**  
 _"Chat with your documents — extract knowledge instantly."_
 
 ---
@@ -142,19 +141,23 @@ Doclyze AI is a web application that enables users to upload documents (PDFs, DO
     - PPTX: `pptx-parser` or convert to images
         
 - **Client-side OCR** (if needed): `tesseract.js` (fallback)
-    
+
+---
+
+### Color Palette
+![[Pasted image 20250407155106.png]]
 
 ### Backend
 
-- **Runtime**: Node.js with TypeScript
+- **Runtime**: Node.js
     
-- **Framework**: Fastify or Express.js
+- **Framework**: Express.js
     
-- **AI Model**: OpenAI GPT-4-turbo via OpenAI Node SDK
+- **AI Model**: **Google AI SDK** (Node.js SDK)
     
 - **Document Parsing**:
     
-    - PDF: `pdf-parse` or `pdf2json`
+    - PDF: `pdf-parse` 
         
     - DOCX: `mammoth`
         
@@ -162,9 +165,9 @@ Doclyze AI is a web application that enables users to upload documents (PDFs, DO
         
     - OCR: `tesseract.js`
         
-- **Database**: Supabase PostgreSQL
+- **Database**: MongoDB (`mongoose` ORM)
     
-- **Storage**: Supabase Storage (or AWS S3)
+- **Storage**: AWS S3
     
 - **Cache**: Redis (via `ioredis`)
     
@@ -271,15 +274,3 @@ Instructions:
     
 - Realtime collaboration (multiple users on same doc)
     
-
----
-
-## Deliverables for LLM
-
-You can now give this PRD to any LLM and say:
-
-> "Please act as a senior full-stack engineer. Use this PRD and walk me through building this product step by step, starting with project structure and file upload. Then proceed to document parsing, AI integration, and frontend UI."
-
----
-
-Would you like this in Markdown, Google Docs, or Notion format too? Or do you want the **first task breakdown** from here right now?

@@ -1,0 +1,10 @@
+{
+	"id": "downloadpdf",
+	"name": "downloadPDF",
+	"version": "1.2.6",
+	"minAppVersion": "0.15.0",
+	"description": "Allows you to download all included PDF files",
+	"author": "Frieda",
+	"authorUrl": "https://www.frieda-universe.de",
+	"isDesktopOnly": false
+}
