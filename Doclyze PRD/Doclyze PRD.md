@@ -144,7 +144,7 @@ Doclyze AI is a web application that enables users to upload documents (PDFs, DO
 - **Client-side OCR** (if needed): `tesseract.js` (fallback)
     
 
-### ⚙️ Backend
+### Backend
 
 - **Runtime**: Node.js with TypeScript
     
@@ -171,7 +171,7 @@ Doclyze AI is a web application that enables users to upload documents (PDFs, DO
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 |Endpoint|Method|Description|
 |---|---|---|
@@ -186,7 +186,7 @@ Doclyze AI is a web application that enables users to upload documents (PDFs, DO
 
 ---
 
-## 🔁 User Flow
+## User Flow
 
 1. **Sign Up / Login**
     
@@ -209,7 +209,7 @@ Doclyze AI is a web application that enables users to upload documents (PDFs, DO
 
 ---
 
-## 🧠 Prompting Strategy (System Message for LLM)
+## Prompting Strategy (System Message for LLM)
 
 ```text
 SYSTEM:
@@ -229,7 +229,7 @@ Instructions:
 
 ---
 
-## 🔐 Security Considerations
+## Security Considerations
 
 - Only document owners can view, chat, and delete their files
     
@@ -242,7 +242,7 @@ Instructions:
 
 ---
 
-## 📅 Milestones & Timeline
+## Milestones & Timeline
 
 |Week|Tasks|
 |---|---|
@@ -274,7 +274,7 @@ Instructions:
 
 ---
 
-## 📄 Deliverables for LLM
+## Deliverables for LLM
 
 You can now give this PRD to any LLM and say:
 
