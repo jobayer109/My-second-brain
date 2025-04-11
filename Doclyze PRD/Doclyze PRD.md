@@ -130,6 +130,8 @@ Doclyze AI is a web application that enables users to upload documents (PDFs, DO
     
 - **Rich Input**: React quill editor
     
+- **Authentication**: NextAuth
+    
 - **Real-time**: `socket.io-client`
     
 - **Document Rendering**:
@@ -145,8 +147,14 @@ Doclyze AI is a web application that enables users to upload documents (PDFs, DO
 ---
 
 ### Color Palette
-![[Pasted image 20250407155106.png]]
+![[Pasted image 20250407171844.png]]
 
+---
+
+### Other instructions
+- use `react-hook-form` for form with validation.
+- use custom toast message where needed.
+- 
 ### Backend
 
 - **Runtime**: Node.js

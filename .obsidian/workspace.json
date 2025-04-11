@@ -710,6 +710,26 @@
             "id": "362a7b9c8051ccec",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "96eb5273e760a5a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "edce1b1afbd45005",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -717,7 +737,7 @@
             }
           },
           {
-            "id": "96eb5273e760a5a4",
+            "id": "3efb9ef68ce6b67e",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -727,7 +747,7 @@
             }
           }
         ],
-        "currentTab": 60
+        "currentTab": 62
       }
     ],
     "direction": "horizontal",
@@ -746,8 +766,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "59cd9668564dc2db",
+  "active": "3efb9ef68ce6b67e",
   "lastOpenFiles": [
+    "Pasted image 20250407171844.png",
     "Pasted image 20250407155106.png",
     "Shothik PRD/Updated Shothik PRD.md",
     "Doclyze PRD/Doclyze PRD.md",
@@ -794,7 +815,6 @@
     "Resources/Database/2-tier.png",
     "Resources/Database/3-tier.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
-    "Programming Hub/CSS/SASS/0. Overview/2. How sass work.png",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas"
   ]
