@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doclyze PRD/Doclyze PRD.md",
+                "file": "OCR Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Doclyze PRD"
+              "title": "OCR Documentation"
             }
           }
         ]
@@ -730,10 +730,10 @@
             "id": "edce1b1afbd45005",
             "type": "leaf",
             "state": {
-              "type": "Saved Queries View",
+              "type": "empty",
               "state": {},
-              "icon": "feather-mouse-pointer",
-              "title": "Saved Queries"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -745,9 +745,19 @@
               "icon": "feather-mouse-pointer",
               "title": "Saved Queries"
             }
+          },
+          {
+            "id": "1a10063ce896d6ab",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 62
+        "currentTab": 63
       }
     ],
     "direction": "horizontal",
@@ -766,12 +776,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3efb9ef68ce6b67e",
+  "active": "59cd9668564dc2db",
   "lastOpenFiles": [
+    "Doclyze PRD/Doclyze PRD.md",
+    "OCR Documentation.md",
     "Pasted image 20250407171844.png",
     "Pasted image 20250407155106.png",
     "Shothik PRD/Updated Shothik PRD.md",
-    "Doclyze PRD/Doclyze PRD.md",
     "Doclyze PRD",
     "Shothik PRD/Footer Section.md",
     "Shothik PRD/Blog Details Page.md",
@@ -813,7 +824,6 @@
     "Projects/Udhbadhan",
     "Programming Hub/Special Components/Search with Highlights",
     "Resources/Database/2-tier.png",
-    "Resources/Database/3-tier.png",
     "Programming Hub/Languages/Javascript/0. Vanilla JS/5. Behind the Scenes/Behind canvas.canvas",
     "Personal/Homepage/Untitled.canvas",
     "Untitled.canvas"
