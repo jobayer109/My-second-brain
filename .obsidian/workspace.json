@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PRD/Lawer/Custom Lower Agent.md",
+                "file": "Projects/Pocket-school/CMS/MCQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom Lower Agent"
+              "title": "MCQ"
             }
           }
         ]
@@ -175,6 +175,16 @@
             "id": "b7593ad5b051ae3a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "dce3a6a18490b4d8",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -182,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -204,6 +214,7 @@
   "active": "4ae2dfc1b7c360d2",
   "lastOpenFiles": [
     "PRD/Lawer/Custom Lower Agent.md",
+    "Projects/Pocket-school/CMS/MCQ.md",
     "PRD/Lawer",
     "PRD",
     "Untitled.md"
