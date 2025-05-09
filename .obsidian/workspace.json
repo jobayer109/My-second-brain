@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Pocket-school/CMS/MCQ.md",
+                "file": "Projects/Pocket-school/CMS/MCQ Implementation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCQ"
+              "title": "MCQ Implementation"
             }
           }
         ]
@@ -185,6 +185,16 @@
             "id": "dce3a6a18490b4d8",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c63c12aa19272971",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -192,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -214,7 +224,7 @@
   "active": "4ae2dfc1b7c360d2",
   "lastOpenFiles": [
     "PRD/Lawer/Custom Lower Agent.md",
-    "Projects/Pocket-school/CMS/MCQ.md",
+    "Projects/Pocket-school/CMS/MCQ Implementation.md",
     "PRD/Lawer",
     "PRD",
     "Untitled.md"

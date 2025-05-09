@@ -26,15 +26,19 @@ I will need to create React components within the CMS to handle the CRUD operati
 
 These components will need to interact with the shared backend API to perform the CRUD operations.
 
+**CMS Component Development (CRUD Frontend):**
+
+We will create React components in `pocketschool/src/components/` to handle the CRUD operations for MCQs.
+
+- `MCQList.jsx`: To display a list of MCQs.
+- `MCQForm.jsx`: To create and edit MCQs. This form will need to handle the question text, multiple options, and selecting the correct answer.
+
+These components will use Axios to interact with the new backend API endpoints, likely utilizing the existing API service structure in `pocketschool/src/api/`.
+
+
 ---
+
 ### Backend Interaction:
-
-The CMS components will use Axios (already a dependency) to make API calls to the shared backend. We will need to define the API endpoints for MCQs (e.g., `/api/mcqs`, `/api/mcqs/:id`). The CMS will send and receive MCQ data in the defined structure.
-
----
-__Refined Plan for Adding MCQ Support__
-
-__1. Data Structure Definition (Backend Entity):__
 
 Based on the frontend's `quizData.js` and the backend's TypeORM entity structure, we will define a new entity for MCQs. This entity will likely be named `MCQ` and will reside in `server/src/entity/MCQ.ts`. We will also create a separate entity for the options, `QuestionOption`, to manage the relationship effectively in the database.
 
@@ -42,7 +46,7 @@ Based on the frontend's `quizData.js` and the backend's TypeORM entity structure
 // server/src/entity/MCQ.ts
 import { Entity, PrimaryGeneratedColumn, Column, OneToMany, ManyToOne } from 'typeorm';
 import { QuestionOption } from './QuestionOption';
-import { Course } from './Course'; // Assuming MCQs are associated with courses
+import { Course } from './Course'; 
 
 @Entity()
 export class MCQ {
@@ -55,13 +59,14 @@ export class MCQ {
   @OneToMany(() => QuestionOption, option => option.mcq)
   options: QuestionOption[];
 
-  @Column('uuid') // Store the ID of the correct option
+  @Column('uuid') 
   correctAnswerId: string;
 
-  @ManyToOne(() => Course, course => course.mcqs) // Assuming a relationship with Course entity
+  @ManyToOne(() => Course, course => course.mcqs)
   course: Course;
 }
 ```
+
 
 ```typescript
 // server/src/entity/QuestionOption.ts
@@ -81,7 +86,8 @@ export class QuestionOption {
 }
 ```
 
-__2. Backend Controller Development (API Endpoints):__
+
+The CMS components will use Axios (already a dependency) to make API calls to the shared backend. We will need to define the API endpoints for MCQs (e.g., `/api/mcqs`, `/api/mcqs/:id`). The CMS will send and receive MCQ data in the defined structure.
 
 We will create a new controller for MCQs, likely named `MCQController.ts`, in the `server/src/controllers/` directory. This controller will expose API endpoints for CRUD operations on MCQs, following the pattern seen in existing controllers like `CourseController.ts`.
 
@@ -93,16 +99,8 @@ Endpoints will likely include:
 - `PUT /api/mcqs/:id`: Update an existing MCQ
 - `DELETE /api/mcqs/:id`: Delete an MCQ
 
-__3. CMS Component Development (CRUD Frontend):__
 
-We will create React components in `pocketschool/src/components/` to handle the CRUD operations for MCQs.
-
-- `MCQList.jsx`: To display a list of MCQs.
-- `MCQForm.jsx`: To create and edit MCQs. This form will need to handle the question text, multiple options, and selecting the correct answer.
-
-These components will use Axios to interact with the new backend API endpoints, likely utilizing the existing API service structure in `pocketschool/src/api/`.
-
-__4. Integration with LMS (Considerations):__
+### Integration with LMS 
 
 The LMS will access the MCQ data through the same backend API endpoints defined in the `MCQController`. The data structure defined in the backend entities will serve as the contract for data exchange between the backend, CMS, and LMS.
 
@@ -116,10 +114,7 @@ __Proposed Next Steps in ACT MODE:__
 6. Integrate the new MCQ components into the relevant CMS pages.
 
 
-
-
-
-
-Questions:
+### Questions:
 - When we show the MCQ ? for every content or resource?
+- Need clarity about relations
 - 
