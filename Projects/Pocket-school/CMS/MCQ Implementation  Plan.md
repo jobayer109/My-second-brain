@@ -17,7 +17,6 @@
 ---
 
 ### CMS Component Development (CRUD):
-
 I will need to create React components within the CMS to handle the CRUD operations for MCQs. This would likely involve:
 
 - __MCQ List Component:__ To display a list of existing MCQs. This could be similar to the existing `ClassList` or `UserTable` components.
@@ -35,11 +34,9 @@ We will create React components in `pocketschool/src/components/` to handle the 
 
 These components will use Axios to interact with the new backend API endpoints, likely utilizing the existing API service structure in `pocketschool/src/api/`.
 
-
 ---
 
 ### Backend Interaction:
-
 Based on the frontend's `quizData.js` and the backend's TypeORM entity structure, we will define a new entity for MCQs. This entity will likely be named `MCQ` and will reside in `server/src/entity/MCQ.ts`. We will also create a separate entity for the options, `QuestionOption`, to manage the relationship effectively in the database.
 
 ```typescript
@@ -99,9 +96,9 @@ Endpoints will likely include:
 - `PUT /api/mcqs/:id`: Update an existing MCQ
 - `DELETE /api/mcqs/:id`: Delete an MCQ
 
+---
 
 ### Integration with LMS 
-
 The LMS will access the MCQ data through the same backend API endpoints defined in the `MCQController`. The data structure defined in the backend entities will serve as the contract for data exchange between the backend, CMS, and LMS.
 
 __Proposed Next Steps in ACT MODE:__
@@ -113,8 +110,6 @@ __Proposed Next Steps in ACT MODE:__
 5. Implement the API calls in the CMS components to interact with the new backend endpoints.
 6. Integrate the new MCQ components into the relevant CMS pages.
 
+---
 
-### Questions:
-- When we show the MCQ ? for every content or resource?
-- Need clarity about relations
-- 
+ 
