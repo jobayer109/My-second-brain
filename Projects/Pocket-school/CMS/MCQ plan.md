@@ -1,5 +1,3 @@
-Okay, here is a detailed step-by-step plan for implementing the MCQ feature, including code suggestions for each part.
-
 __Phase 1: Backend Development (Server Project)__
 
 __Step 1: Create Backend Entities__
@@ -491,7 +489,7 @@ __Step 7: Integrate CMS Components into Pages__
 - __Files:__ This will depend on your CMS routing and page structure. You might create a new page component like `cms/src/pages/MCQManagementPage.jsx` and add routes for `/mcqs` (list) and `/mcqs/:id` (edit) or `/mcqs/new` (create).
 - __Action:__ Modify your CMS routing and page components to include the new MCQ components.
 
-__Phase 3: LMS Integration__
+### Phase 3: LMS Integration
 
 __Step 8: Implement LMS MCQ Display__
 

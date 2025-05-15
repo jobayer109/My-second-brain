@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Pocket-school/CMS/MCQ plan.md",
+                "file": "Projects/Pocket-school/CMS/MCQ Documentation.md",
                 "mode": "source",
-                "source": false
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "MCQ plan"
+              "title": "MCQ Documentation"
             }
           }
         ]
@@ -205,6 +215,16 @@
             "id": "4c1366e4f10614d4",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b0d0315b2a4408fd",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -212,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -233,8 +253,20 @@
   },
   "active": "4ae2dfc1b7c360d2",
   "lastOpenFiles": [
-    "Projects/Pocket-school/CMS/MCQ Implementation  Plan.md",
+    "Projects/Pocket-school/CMS/Plan of Deepseek.md",
+    "Projects/Pocket-school/CMS/MCQ Documentation.md",
+    "Pasted image 20250515083555.png",
+    "deepseek_mermaid_20250515_043c46.png",
+    "deepseek_mermaid_20250515_1d7341.png",
+    "deepseek_mermaid_20250515_20dc02.png",
+    "deepseek_mermaid_20250515_613895.png",
+    "deepseek_mermaid_20250515_957ac3.png",
+    "Pasted image 20250514083814.png",
+    "deepseek_mermaid_20250514_3dc9c3.png",
+    "deepseek_mermaid_20250514_f44cbd (1).png",
+    "deepseek_mermaid_20250514_22425a.png",
     "Projects/Pocket-school/CMS/MCQ plan.md",
+    "Projects/Pocket-school/CMS/MCQ Implementation  Plan.md",
     "PRD/Lawer/Custom Lower Agent.md",
     "PRD/Lawer",
     "PRD",

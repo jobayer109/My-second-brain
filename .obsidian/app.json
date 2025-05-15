@@ -2,7 +2,7 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Legal",
+    "pageSize": "A3",
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
@@ -10,5 +10,6 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "tabSize": 7,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "readableLineLength": true
 }
