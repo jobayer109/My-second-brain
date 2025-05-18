@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ecdeeeb4f6328ce9",
+        "id": "cfab97e015c84fe0",
         "type": "tabs",
         "children": [
           {
-            "id": "4ae2dfc1b7c360d2",
+            "id": "f2466fd4c407dd4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Pocket-school/CMS/MCQ Documentation.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MCQ Documentation"
+              "title": "New tab"
             }
           }
         ]
@@ -225,6 +211,16 @@
             "id": "b0d0315b2a4408fd",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bff279898f262526",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -232,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -251,10 +247,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ae2dfc1b7c360d2",
+  "active": "aaa8175242be5faf",
   "lastOpenFiles": [
-    "Projects/Pocket-school/CMS/Plan of Deepseek.md",
+    "1st.png",
     "Projects/Pocket-school/CMS/MCQ Documentation.md",
+    "Projects/Pocket-school/CMS/Plan of Deepseek.md",
     "Pasted image 20250515083555.png",
     "deepseek_mermaid_20250515_043c46.png",
     "deepseek_mermaid_20250515_1d7341.png",
