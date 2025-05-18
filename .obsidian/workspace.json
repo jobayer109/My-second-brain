@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shothik.md",
+                "file": "Projects/CholoFly/Issues.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shothik"
+              "title": "Issues"
             }
           }
         ]
@@ -253,6 +253,10 @@
   },
   "active": "f2466fd4c407dd4c",
   "lastOpenFiles": [
+    "WhatsApp Image 2025-02-23 at 11.01.06 PM.jpeg",
+    "Untitled.md",
+    "Shothik Rough.md",
+    "Shothik.md",
     "readme.md",
     "Pasted image 20250515083555.png",
     "Pasted image 20250514083814.png",
@@ -271,7 +275,6 @@
     "Projects/Pocket-school/CMS/MCQ Implementation  Plan.md",
     "PRD/Lawer/Custom Lower Agent.md",
     "PRD/Lawer",
-    "PRD",
-    "Untitled.md"
+    "PRD"
   ]
 }
