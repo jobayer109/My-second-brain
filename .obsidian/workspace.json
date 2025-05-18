@@ -11,14 +11,10 @@
             "id": "f2466fd4c407dd4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "New tab"
             }
           }
         ]
@@ -253,6 +249,8 @@
   },
   "active": "aaa8175242be5faf",
   "lastOpenFiles": [
+    "Projects/Udhbadhan/SignInForm 1.md",
+    "Doclyze PRD/Doclyze PRD.md",
     "PRD/Lawer/Custom Lower Agent.md",
     "Projects/CholoFly/Issues.md",
     "WhatsApp Image 2025-02-23 at 11.01.06 PM.jpeg",
