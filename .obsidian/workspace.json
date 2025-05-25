@@ -221,6 +221,26 @@
             "id": "bff279898f262526",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ea56d20068737eaf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8504383438d16c63",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -228,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -249,6 +269,7 @@
   },
   "active": "aaa8175242be5faf",
   "lastOpenFiles": [
+    "Programming Hub/Backend",
     "Shothik PRD/1.Project Overview.md",
     "Projects/Teacher Attendance/Plan/Plan.md",
     "Projects/Udhbadhan/SignInForm 2.md",
