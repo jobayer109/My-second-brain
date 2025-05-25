@@ -1,5 +1,3 @@
-###  What is a Web Server?
-
 A **Web Server** is a software or hardware system that accepts incoming HTTP/HTTPS requests from clients (usually browsers) and returns responses such as web pages, static files, or data.
 
 ### Key Responsibilities:
