@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readme"
+              "title": "Extensions"
             }
           }
         ]
@@ -303,10 +303,14 @@
   },
   "active": "aaa8175242be5faf",
   "lastOpenFiles": [
+    "Programming Hub/Tools/VS Code/Extensions/Extensions.md",
+    "Programming Hub/Tools/VS Code/AI Code generator/Code Generator.md",
+    "Programming Hub/Tools/VS Code/Themes/Themes.md",
+    "Programming Hub/Tools/Github/1. Commands.md",
+    "2025-05-26.md",
     "Programming Hub/Interview Preparation",
     "Untitled.canvas",
     "readme.md",
-    "2025-05-26.md",
     "Programming Hub/Backend/Hira Bhai course/1. Introduction to webserver/What is Webserver.md",
     "Programming Hub/Backend/Hira Bhai course/1. Introduction to webserver",
     "Programming Hub/Backend/Hira Bhai course",
