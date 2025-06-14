@@ -301,9 +301,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d17b19cc4ab7b19",
+  "active": "aaa8175242be5faf",
   "lastOpenFiles": [
-    "Programming Hub/Website checker/Website checkers.md",
+    "Programming Hub/Frontend",
+    "Programming Hub/QA",
+    "Programming Hub/QA/Website checker/Website checkers.md",
     "Programming Hub/Tools/Front-end Tools/Front-end Tools.md",
     "Programming Hub/Technologies/AWS S3/1. What is this and purpose.md",
     "Programming Hub/Interview Preparation/Git Interview Questions.md",
@@ -343,7 +345,6 @@
     "1st.png",
     "Projects/Pocket-school/CMS/MCQ Documentation.md",
     "Projects/Pocket-school/CMS/Plan of Deepseek.md",
-    "Projects/Pocket-school/CMS/MCQ plan.md",
     "PRD/Lawer",
     "PRD"
   ]
