@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedIn/Funny posts.md",
+                "file": "Programming Hub/Interview Preparation/Revise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funny posts"
+              "title": "Revise"
             }
           }
         ]
@@ -275,6 +275,36 @@
             "id": "72e38ff2327f100e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8dcfc1d2d47cc7a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f7a62b89b0c16ad9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6c9c43944f25b357",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -282,7 +312,7 @@
             }
           },
           {
-            "id": "8dcfc1d2d47cc7a6",
+            "id": "bdaf76e22baeffd5",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -292,7 +322,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -311,15 +341,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aaa8175242be5faf",
+  "active": "6d17b19cc4ab7b19",
   "lastOpenFiles": [
-    "LinkedIn/Top Voice plan.md",
+    "Programming Hub/Interview Preparation/React.md",
+    "Programming Hub/Interview Preparation/Revise.md",
+    "Programming Hub/Interview Preparation/Git Interview Questions.md",
     "LinkedIn/Funny posts.md",
+    "LinkedIn/Top Voice plan.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/1.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/2.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/3.md",
     "LinkedIn/6 Months plan/Month 1/Week 4/4.md",
-    "Programming Hub/Interview Preparation/Git Interview Questions.md",
     "Programming Hub/Frontend",
     "Programming Hub/QA",
     "Programming Hub/QA/Website checker/Website checkers.md",
@@ -344,9 +376,7 @@
     "Projects/Udhbadhan/SignInForm 1.md",
     "Doclyze PRD/Doclyze PRD.md",
     "PRD/Lawer/Custom Lower Agent.md",
-    "Projects/CholoFly/Issues.md",
     "WhatsApp Image 2025-02-23 at 11.01.06 PM.jpeg",
-    "Untitled.md",
     "Pasted image 20250515083555.png",
     "Pasted image 20250514083814.png",
     "Pasted image 20250407171844.png",
